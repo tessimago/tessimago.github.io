@@ -3,9 +3,56 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Site com Menu Lateral</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    Hello world!
+
+    <!-- Título no topo em um retângulo colorido -->
+    <div class="title-section">
+        <div class="title-box">
+            <h1>Trabalho de IPM</h1>
+        </div>
+    </div>
+
+   <!-- Informações dos Criadores -->
+   <div class="creators-info">
+        <p>Criado por:</p>
+        <p>Iago Paulo - Número de Aluno: 60198 - Curso: MIEI</p>
+        <p>Tomas Mondim - Número de Aluno: XXXXX - Curso: MIEI</p>
+        <p>Tomas Goncalves - Número de Aluno: XXXXX - Curso: MIEI</p>
+        <p>Pedro ?- Número de Aluno: XXXXX - Curso: ?</p>
+        <p>ChatGPT (que fez 95% deste site)</p>
+    </div>
+
+    <div class="container">
+        <!-- Botão para Abrir o Menu Lateral -->
+        <button class="open-button" id="open-button">Abrir Menu</button>
+
+        <!-- Aba Lateral com Opções de Navegação -->
+        <div class="sidebar" id="sidebar">
+            <div class="menu">
+                <ul>
+                    <li><a href="#inicio">Início</a></li>
+                    <li><a href="projeto.html">Projeto</a></li>
+                    <li><a href="iago.html">Iago</a></li>
+                    <li><a href="tomasm.html">Tomas M.</a></li>
+                    <li><a href="tomasg.html">Tomas G.</a></li>
+                    <li><a href="pedro.html">Pedro</a></li>
+                </ul>
+            </div>
+            <!-- Botão para Fechar o Menu Lateral -->
+            <button class="close-button" id="close-button">Fechar Menu</button>
+        </div>
+
+        <!-- Conteúdo Principal -->
+        <div class="content">
+            <!-- Seu conteúdo vai aqui -->
+        </div>
+    </div>
+
+
+    <!-- JavaScript para abrir/fechar a aba lateral -->
+    <script src="script.js"></script>
 </body>
 </html>
