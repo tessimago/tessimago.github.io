@@ -1,0 +1,166 @@
+/* Estilos para o botão */
+.open-button {
+    margin-top: 10px;
+    position: fixed;
+    z-index: 1;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+/* Estilos para a aba lateral */
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: -280px; /* A aba lateral inicialmente está oculta */
+    width: 280px;
+    height: 100%;
+    background-color: #333;
+    transition: left 0.3s;
+    overflow-y: scroll;
+}
+
+.menu ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menu ul li {
+    padding: 10px;
+    text-align: center;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: #fff;
+    display: block;
+}
+
+/* Estilos para tornar a aba lateral visível quando aberta */
+.sidebar-open {
+    left: 0;
+}
+
+/* Estilos para o conteúdo principal */
+.content {
+    margin-left: 0; /* Inicialmente, o conteúdo está à esquerda da aba lateral */
+    transition: margin-left 0.3s;
+    padding: 20px;
+}
+
+/* Estilos para o overlay */
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Fundo semi-transparente com opacidade reduzida */
+    z-index: 1; /* Overlay fica acima do conteúdo principal */
+    display: none; /* Inicialmente oculto */
+}
+
+/* Estilos para o botão "Fechar Menu" */
+.close-button {
+    background-color: #333; /* Cor de fundo do botão */
+    color: #fff; /* Cor do texto */
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px; /* Borda arredondada */
+    transition: background-color 0.3s, color 0.3s; /* Transições suaves para hover */
+    position: absolute;
+    z-index: 2; /* Fica acima da aba lateral */
+}
+
+.close-button:hover {
+    background-color: #555; /* Cor de fundo do botão no hover */
+}
+
+.open-button:hover {
+    background-color: #555; /* Cor de fundo do botão no hover */
+}
+
+/* Estilos para a seção do título */
+.title-section {
+    background-color: #0073e6; /* Cor de fundo do retângulo */
+    text-align: center;
+    padding: 30px 0; /* Espaçamento interno do retângulo */
+}
+
+/* Estilos para o retângulo do título */
+.title-box {
+    background-color: #fff; /* Cor de fundo do retângulo do título */
+    display: inline-block;
+    padding: 20px;
+    border-radius: 10px; /* Borda arredondada do retângulo do título */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3); /* Sombra do retângulo do título */
+}
+
+/* Estilos para o texto do título */
+.title-box h1 {
+    margin: 0;
+    color: #333; /* Cor do texto do título */
+    font-size: 36px;
+}
+
+
+/* Estilos para as informações dos criadores */
+.creators-info {
+    margin-top: 10px;
+    background-color: #f4f4f4; /* Cor de fundo */
+    padding: 20px;
+    border-radius: 10px; /* Borda arredondada */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3); /* Sombra */
+    text-align: center;
+}
+
+.creators-info p {
+    margin: 10px 0; /* Espaçamento entre os parágrafos */
+    font-size: 16px;
+    color: #333; /* Cor do texto */
+}
+
+/* Estilizar o primeiro parágrafo como um título */
+.creators-info p:first-child {
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 20px; /* Espaçamento inferior */
+}
+
+/* Estilos para as imagens dentro das seções de atualização */
+.update-section img {
+    max-width: 100%; /* Defina a largura máxima para ocupar o espaço disponível */
+    height: auto; /* Mantenha a proporção da altura */
+    display: block; /* Remova espaços extras ao redor das imagens */
+    margin: 10px auto; /* Adicione espaçamento ao redor das imagens e centralize-as horizontalmente */
+}
+
+/* Estilos para o botão "Voltar ao Index" */
+.back-button {
+    margin-top: 10px;
+    display: inline-block;
+    background-color: #365879; /* Cor de fundo do botão */
+    color: #fff; /* Cor do texto */
+    padding: 10px 20px;
+    text-decoration: none; /* Remova sublinhado do link */
+    border-radius: 5px; /* Borda arredondada */
+    transition: background-color 0.3s, color 0.3s; /* Transições suaves para hover */
+}
+
+.back-button:hover {
+    background-color: #005dbb; /* Cor de fundo do botão no hover */
+}
+
+/* Estilizar o botão para que ele pareça um botão real */
+.back-button:active {
+    transform: translateY(2px); /* Efeito de pressionar o botão */
+}
+
+
+
+
