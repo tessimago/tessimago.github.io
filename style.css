@@ -1,13 +1,6 @@
 /* Estilos para o botão */
 .open-button {
-    margin-top: 10px;
     position: fixed;
-    z-index: 1;
-    background-color: #333;
-    color: #fff;
-    border: none;
-    padding: 10px 20px;
-    cursor: pointer;
 }
 
 /* Estilos para a aba lateral */
