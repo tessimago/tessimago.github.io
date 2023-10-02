@@ -1,0 +1,24 @@
+/* Estilos para o botão "Voltar ao Index" */
+.back-button {
+    display: inline-block;
+    background-color: #365879; /* Cor de fundo do botão */
+    color: #fff; /* Cor do texto */
+    padding: 10px 20px;
+    text-decoration: none; /* Remova sublinhado do link */
+    border-radius: 5px; /* Borda arredondada */
+    transition: background-color 0.3s, color 0.3s; /* Transições suaves para hover */
+}
+
+.back-button:hover {
+    background-color: #005dbb; /* Cor de fundo do botão no hover */
+}
+
+/* Estilizar o botão para que ele pareça um botão real */
+.back-button:active {
+    transform: translateY(2px); /* Efeito de pressionar o botão */
+}
+
+.centered-button-container {
+    text-align: center; /* Centraliza horizontalmente o conteúdo */
+    margin-top: 20px; /* Adicione margem superior para afastar do topo da página */
+}

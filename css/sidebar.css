@@ -1,0 +1,79 @@
+/* Estilos para o botão */
+.open-button {
+    position: fixed;
+}
+
+/* Estilos para a aba lateral */
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: -280px; /* A aba lateral inicialmente está oculta */
+    width: 280px;
+    height: 100%;
+    background-color: #333;
+    transition: left 0.3s;
+    overflow-y: scroll;
+}
+
+.menu ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menu ul li {
+    padding: 10px;
+    text-align: center;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: #fff;
+    display: block;
+}
+
+/* Estilos para tornar a aba lateral visível quando aberta */
+.sidebar-open {
+    left: 0;
+}
+
+/* Estilos para o conteúdo principal */
+.content {
+    margin-left: 0; /* Inicialmente, o conteúdo está à esquerda da aba lateral */
+    transition: margin-left 0.3s;
+    padding: 20px;
+}
+
+/* Estilos para o overlay */
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Fundo semi-transparente com opacidade reduzida */
+    z-index: 1; /* Overlay fica acima do conteúdo principal */
+    display: none; /* Inicialmente oculto */
+}
+
+/* Estilos para o botão "Fechar Menu" */
+.close-button {
+    background-color: #333; /* Cor de fundo do botão */
+    color: #fff; /* Cor do texto */
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px; /* Borda arredondada */
+    transition: background-color 0.3s, color 0.3s; /* Transições suaves para hover */
+    position: absolute;
+    z-index: 2; /* Fica acima da aba lateral */
+}
+
+.close-button:hover {
+    background-color: #555; /* Cor de fundo do botão no hover */
+}
+
+.open-button:hover {
+    filter: brightness(200%); /* Cor de fundo do botão no hover */
+}
