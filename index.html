@@ -1,39 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>IPM Project</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
-</head>
-<body>
-    <div style="position: fixed; " id="open-button">
-        <img style="width: 30px;" src="images/menu_icon.png" />
-    </div>
-
-    <!-- Título no topo em um retângulo colorido -->
-    <div class="title-section">
-        <a href="projeto.html">
-            <div class="title-box">
-                <h1>Trabalho de IPM</h1>
-                <spam>Turno prático p1</spam>
-            </div>
-        </a>
-    </div>
-
-   <!-- Informações dos Criadores -->
-   <div class="creators-info">
-        <p>Criado por:</p>
-        <a href="iago.html">Iago Paulo</a> - Número de Aluno: 60198 - Curso: MIEI</p>
-        <a href="tomasm.html">Tomas Mondim</a> - Número de Aluno: 60747 - Curso: MIEI</p>
-        <a href="tomasg.html">Tomas Goncalves</a> - Número de Aluno: 60741 - Curso: MIEI</p>
-        <a href="duarte.html">Duarte Gabriel</a> - Número de Aluno: 56186 - Curso: MIEI</p>
-    </div>
-
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  <body>
     <div class="container">
-        <!-- Aba Lateral com Opções de Navegação -->
-        <div class="sidebar" id="sidebar">
-            <div class="menu">
+
+        <div class="menu_icon_box">
+            <div class="line1"></div>
+            <div class="line2"></div>
+            <div class="line3"></div>
+        </div>
+      
+
+        <div class="box">
+            <nav>
                 <ul>
                     <li><a href="#inicio">Início</a></li>
                     <li><a href="projeto.html">Projeto</a></li>
@@ -42,19 +26,46 @@
                     <li><a href="tomasg.html">Tomas G.</a></li>
                     <li><a href="duarte.html">Duarte</a></li>
                 </ul>
-            </div>
-            <!-- Botão para Fechar o Menu Lateral -->
-            <button class="close-button" id="close-button">Fechar Menu</button>
+            </nav>
         </div>
 
-        <!-- Conteúdo Principal -->
-        <div class="content">
-            <!-- Seu conteúdo vai aqui -->
+        <div class="title-section">
+            <a href="projeto.html">
+                <div class="title-box">
+                    <h1>Trabalho de IPM</h1>
+                    <spam>Turno prático p1</spam>
+                </div>
+            </a>
         </div>
+
+        <div class="creators-info">
+            <p>Criado por:</p>
+            <a href="iago.html">Iago Paulo</a> - Número de Aluno: 60198 - Curso: MIEI</p>
+            <a href="tomasm.html">Tomas Mondim</a> - Número de Aluno: 60747 - Curso: MIEI</p>
+            <a href="tomasg.html">Tomas Goncalves</a> - Número de Aluno: 60741 - Curso: MIEI</p>
+            <a href="duarte.html">Duarte Gabriel</a> - Número de Aluno: 56186 - Curso: MIEI</p>
+        </div>
+
     </div>
-
 
     <!-- JavaScript para abrir/fechar a aba lateral -->
     <script src="script.js"></script>
-</body>
+
+    <script>
+      let menu_icon_box = document.querySelector(".menu_icon_box");
+      let box = document.querySelector(".box");
+
+      menu_icon_box.onclick = function () {
+        menu_icon_box.classList.toggle("active");
+        box.classList.toggle("active_box");
+      };
+
+      document.onclick = function (e) {
+        if (!menu_icon_box.contains(e.target) && !box.contains(e.target)) {
+          menu_icon_box.classList.remove("active");
+          box.classList.remove("active_box");
+        }
+      };
+    </script>
+  </body>
 </html>

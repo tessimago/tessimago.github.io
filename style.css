@@ -1,81 +1,85 @@
-/* Estilos para o botão */
-.open-button {
-    position: fixed;
-}
-
-/* Estilos para a aba lateral */
-.sidebar {
-    position: fixed;
-    top: 0;
-    left: -280px; /* A aba lateral inicialmente está oculta */
-    width: 280px;
-    height: 100%;
-    background-color: #333;
-    transition: left 0.3s;
-    overflow-y: scroll;
-}
-
-.menu ul {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-}
-
-.menu ul li {
-    padding: 10px;
-    text-align: center;
-}
-
-.menu ul li a {
-    text-decoration: none;
-    color: #fff;
-    display: block;
-}
-
-/* Estilos para tornar a aba lateral visível quando aberta */
-.sidebar-open {
-    left: 0;
-}
-
-/* Estilos para o conteúdo principal */
-.content {
-    margin-left: 0; /* Inicialmente, o conteúdo está à esquerda da aba lateral */
-    transition: margin-left 0.3s;
-    padding: 20px;
-}
-
-/* Estilos para o overlay */
-.overlay {
-    position: fixed;
-    top: 0;
-    left: 0;
+.container{
     width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.5); /* Fundo semi-transparente com opacidade reduzida */
-    z-index: 1; /* Overlay fica acima do conteúdo principal */
-    display: none; /* Inicialmente oculto */
+    height: 100vh;
+    background-color: #365879;
 }
 
-/* Estilos para o botão "Fechar Menu" */
-.close-button {
-    background-color: #333; /* Cor de fundo do botão */
-    color: #fff; /* Cor do texto */
-    border: none;
-    padding: 10px 20px;
-    cursor: pointer;
-    font-size: 16px;
-    border-radius: 5px; /* Borda arredondada */
-    transition: background-color 0.3s, color 0.3s; /* Transições suaves para hover */
+/* Side menu box */
+.box{
+    width: fit-content;
+    height: 100vh;
+    background-color: white;
     position: absolute;
-    z-index: 2; /* Fica acima da aba lateral */
+    text-align: left;
+    z-index: 1;
+    opacity: 0;
+    left: -500px;
+    pointer-events: none;
+    transition:0.3s;
 }
 
-.close-button:hover {
-    background-color: #555; /* Cor de fundo do botão no hover */
+/* Side menu box when shown */
+.active_box{
+    opacity: 1;
+    left: 0px;
+    pointer-events: fill;
 }
 
-.open-button:hover {
-    background-color: #555; /* Cor de fundo do botão no hover */
+/* Side menu button to open or close */
+.menu_icon_box {
+    z-index: 2;
+    width: fit-content;
+    height: auto;
+    background-color: white;
+    margin: 30px;
+    position: absolute;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+/* Lines of the button */
+.line1, .line2, .line3{
+    width: 30px;
+    height: 3px;
+    background-color: #333;
+    margin: 10px 10px;
+    border-radius: 4px;
+    transition: 0.3s;
+}
+
+/* Styles for the lines of button when active */
+.active .line1{
+    transform: translate(0px, 15px) rotate(45deg);
+}
+.active .line2{
+    opacity: 0;
+}
+.active .line3{
+    transform: translate(0px, -15px) rotate(-45deg);
+}
+
+/* Styles for the elements of the side menu */
+nav{
+    padding-top: 100px;
+}
+nav ul{
+    margin: 0px 30px;
+}
+nav ul li{
+    list-style: none;
+    margin-bottom: 30px;
+    transition: 0.2s;
+}
+nav ul li:hover{
+    background-color: #c6c6c66f;
+    border-radius: 8px;
+}
+nav ul li a{
+    color: #000;
+    font-size: 28px;
+    padding: 10px 30px;
+    display: block;
+    text-decoration: none;
 }
 
 /* Estilos para a seção do título */
@@ -104,7 +108,7 @@
 
 /* Estilos para as informações dos criadores */
 .creators-info {
-    margin-top: 10px;
+    margin: 10px;
     background-color: #f4f4f4; /* Cor de fundo */
     padding: 20px;
     border-radius: 10px; /* Borda arredondada */
@@ -154,7 +158,6 @@
     transform: translateY(2px); /* Efeito de pressionar o botão */
 }
 
-
 .project-update {
     width: 70%; /* Adjust the width as per your preference */
     background-color: #e1e1e1;
@@ -164,5 +167,5 @@
     align-items: center;
     margin: 10px;
     text-align: center;
+    
 }
-
