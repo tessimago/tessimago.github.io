@@ -10,14 +10,14 @@
 
     <!-- Hamburguer menu - Main menu -->
     <div class="container">
-        <div class="menu_icon_box">
+        <div class="menu_icon_box" id="menu_icon_box">
             <div class="line1"></div>
             <div class="line2"></div>
             <div class="line3"></div>
         </div>
       
         <!-- Main menu -->
-        <div class="box">
+        <div class="box" id="box">
             <nav>
                 <ul>
                     <li><a href="projeto.html">Projeto</a></li>
@@ -53,22 +53,5 @@
     <!-- JavaScript para abrir/fechar a aba lateral -->
     <script src="script.js"></script>
 
-    <!-- Script aqui por enquanto //todo -->
-    <script>
-      let menu_icon_box = document.querySelector(".menu_icon_box");
-      let box = document.querySelector(".box");
-
-      menu_icon_box.onclick = function () {
-        menu_icon_box.classList.toggle("active");
-        box.classList.toggle("active_box");
-      };
-
-      document.onclick = function (e) {
-        if (!menu_icon_box.contains(e.target) && !box.contains(e.target)) {
-          menu_icon_box.classList.remove("active");
-          box.classList.remove("active_box");
-        }
-      };
-    </script>
   </body>
 </html>
