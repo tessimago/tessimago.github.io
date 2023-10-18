@@ -187,3 +187,30 @@ nav ul li a{
     text-align: center;
     
 }
+
+/* Adiciona uma linha em branco */
+.empty-line {
+    height: 30px;
+}
+
+/* Aumenta o tamanho de uma imagem */
+.bigger-image {
+    max-width: 100%;
+    max-height: 100%;
+    width: 960px;
+    height: 417px;
+}
+
+.bigger-image2 {
+    max-width: 100%;
+    max-height: 100%;
+    width: 960px;
+    height: 318px;
+}
+
+.bigger-image3 {
+    max-width: 100%;
+    max-height: 100%;
+    width: 602px;
+    height: 36px;
+}
