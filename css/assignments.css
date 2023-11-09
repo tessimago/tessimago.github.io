@@ -30,6 +30,14 @@ img {
     margin: 10px 0;
 }
 
+.goodDesign {
+    max-width: 70%;
+    height: auto;
+    margin: 10px 0;
+    border-style: groove;
+    border-radius: 5%;
+}
+
 .tooltip {
     position: relative;
     display: inline-block;
