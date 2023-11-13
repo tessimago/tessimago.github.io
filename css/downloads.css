@@ -1,0 +1,22 @@
+.Downloads {
+    padding: 20px; 
+    display: flex;
+    text-align: left;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.DownloadsImg {
+    width: 30px;
+    height: auto;
+    max-width: 100%;
+    margin-right: 100px
+}
+
+.DownloadsText{
+    flex: 1;
+    padding: 20px;  
+    margin-left: 20px;
+}
