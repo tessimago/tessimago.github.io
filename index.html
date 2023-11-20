@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>IPM Project</title>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/nameBox.css">
     <style>
         /* Estilos para o tema dark */
         .dark-mode {
@@ -52,9 +53,8 @@
     <nav class="dark-mode p-4 text-white">
         <div class="container mx-auto flex justify-between items-center">
             <a href="index.html" class="text-lg font-semibold">IPM</a>
-            <a href="https://ipm-23.vercel.app/" target="_blank" class="projlink">Project link</a>
-
             <ul class="space-x-4">
+                <li class="inline-block"><a href="https://ipm-23.vercel.app/">Link do Projeto</a></li>
                 <li class="inline-block"><a href="iago.html">Iago</a></li>
                 <li class="inline-block"><a href="tomasm.html">Tomas M.</a></li>
                 <li class="inline-block"><a href="tomasg.html">Tomas G.</a></li>
@@ -62,6 +62,51 @@
             </ul>
         </div>
     </nav>
+
+
+    <!-- Caixa com criadores -->
+
+    <!-- Título "STAGES" e Linha Horizontal -->
+    <div class="text-center mt-4">
+        <h1 class="text-2xl font-semibold text-black">Criado por:</h1>
+        <hr class="w-20 border-t-2 border-black mx-auto mt-2">
+    </div>
+    <div class="flex justify-center flex-col items-center mt-4 space-y-4">
+        <!-- Card do Duarte -->
+        <div class="card">
+            <img class="image" alt="profile TM" src="./images/images_creators/DuarteGabriel.jpg" />
+            <div>
+              <div class="name"><a href="duarte.html" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Duarte Gabriel</a></div>
+              <div class="job">Número de Aluno: 56186 - Curso: MIEI</div>
+            </div>
+        </div>
+        <!-- Card do Iago -->
+        <div class="card">
+            <img class="image" alt="profile TM" src="./images/images_creators/IagoPaulo.jpg" />
+            <div>
+              <div class="name"><a href="iago.html" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Iago Paulo</a></div>
+              <div class="job">Número de Aluno: 60198 - Curso: MIEI</div>
+            </div>
+        </div>
+        <!-- Card do Tomás G -->
+        <div class="card">
+            <img class="image" alt="profile TM" src="./images/images_creators/TomasGoncalves.jpg" />
+            <div>
+              <div class="name"><a href="tomasg.html" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Tomás Gonçalves</a></div>
+              <div class="job">Número de Aluno: 60741 - Curso: MIEI</div>
+            </div>
+        </div>
+        <!-- Card do Tomás M -->
+        <div class="card">
+            <img class="image" alt="profile TM" src="./images/images_creators/TomasMondim.jpg" />
+            <div>
+              <div class="name"><a href="tomasm.html" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Tomás Mondim</a></div>
+              <div class="job">Número de Aluno: 60198 - Curso: MIEI</div>
+            </div>
+        </div>
+    </div>
+    <br>
+    <br>
 
     <!-- Título "STAGES" e Linha Horizontal -->
     <div class="text-center mt-4">
@@ -76,11 +121,13 @@
         <div class="bg-white p-4 rounded-lg shadow-lg max-w-2xl">
             <h1 class="text-xl font-semibold text-black">Update 23-10-2023 (Report 3)</h1>
             <br>
-            <p> TODO, escrever o que foi feito para o report 3</p>
+            <p> 
+                Nesta fase, produzimos um protótipo de papel do nosso futuro projeto. Depois disso criámos três cenários que nos ajudaram a compreender alguns potenciais problemas do design inicial.  
+            </p>
                 <br>
                 <p>
-                  Após este estudo foi desenvolvido o seguinte
-                  <a href="reports/Report3.pdf" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">PDF</a>
+                  Com os resultados obtidos, desenvolvemos o seguinte
+                  <a href="reports/Report3.pdf" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Relatório</a>
                 </p>
         </div>
 
@@ -100,11 +147,10 @@
                 <p>
                     <br>
                   Este estudo foi documentado no seguinte
-                  <a href="reports/Report2.pdf" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">PDF</a>.
+                  <a href="reports/Report2.pdf" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Relatório</a>.
                 </p>
         </div>
 
-        
         <!-- Atualização do projeto -->
         <div class="bg-white p-4 rounded-lg shadow-lg max-w-2xl">
             <h1 class="text-xl font-semibold text-black">Update 26-09-2023 (Report 1)</h1>
@@ -118,24 +164,51 @@
 
                 <p>
                   Após este estudo foi desenvolvido o seguinte
-                  <a href="reports/Report1.pdf" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">PDF</a>.
+                  <a href="reports/Report1.pdf" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Relatório</a>.
                 </p>
         </div>
 
-        <!-- Caixa com criadores -->
-        <div class="creators-info">
-            <p>Criado por:</p>
-            <a href="iago.html">Iago Paulo</a> - Número de Aluno: 60198 - Curso: MIEI</p>
-            <a href="tomasm.html">Tomas Mondim</a> - Número de Aluno: 60747 - Curso: MIEI</p>
-            <a href="tomasg.html">Tomas Goncalves</a> - Número de Aluno: 60741 - Curso: MIEI</p>
-            <a href="duarte.html">Duarte Gabriel</a> - Número de Aluno: 56186 - Curso: MIEI</p>
-        </div>
 
+        <br>
+        <br>
     <!-- Título "APP DEVELOPMENT STAGES" e Linha Horizontal -->
     <div class="text-center mt-4">
         <h2 class="text-2xl font-semibold text-black">APP DEVELOPMENT STAGES</h2>
         <hr class="w-40 border-t-2 border-black mx-auto mt-2">
     </div>
+
+    <!-- Atualizações do projeto -->
+    <div class="flex justify-center flex-col items-center mt-4 space-y-4">
+
+        <!-- Atualização do projeto -->
+        <div class="bg-white p-4 rounded-lg shadow-lg max-w-2xl">
+            <h1 class="text-xl font-semibold text-black">Produção de um protótipo digital</h1>
+            <br>
+            <p> 
+                Antes de começarmos a criar o protótipo funcional, decidimos criar um protótipo no
+                 <a href="https://www.figma.com/file/jCsLW22yXOljPjiJHNmV4U/Igreja?type=design&node-id=0%3A1&mode=design&t=z14sAbsfY7eLEV3N-1" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">figma</a> 
+            </p>
+            <br>
+            <p> 
+                Consideramos que seria mais fácil de planear o site num âmbiente que utiliza drag and drop do que ao mesmo tempo que faziamos o
+                 código, até porque eventuais alterações seriam mais fáceis de fazer.
+            </p>
+        </div>
+
+        <div class="bg-white p-4 rounded-lg shadow-lg max-w-2xl">
+        <!-- Atualização do projeto -->
+            <h1 class="text-xl font-semibold text-black">Produção do protótipo funcional</h1>
+            <br>
+            <p> Baseamo-nos na última iteração do protótipo funcional criado no figma para criar o nosso site através da utilização do 
+                IDE Visual Studio Code com recurso às linguagens JavaScript, com apoio da biblioteca React, CSS e HTML.
+                </p>
+                <br>
+                <p> Começamos por criar as páginas mais simples como as páginas "Início" e "Sobre Nós" e acrescentando páginas progressivamente
+                     mais complexas, como as páginas "Escala" e "Disponibilidade".
+                </p>
+
+            <p> Pode-se aceder ao projeto a partir <a href="https://ipm-23.vercel.app/" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">daqui</a>
+        </div>
 
     <!-- JavaScript para abrir/fechar a aba lateral -->
     <script src="script.js"></script>
