@@ -252,3 +252,18 @@ a.badge-setor:hover { background: var(--primario-suave); }
   .diploma-ligacoes a[href^="http"]::after,
   .diploma-ligacoes-principais a[href^="http"]::after { content: " (" attr(href) ")"; font-size: 0.8em; }
 }
+
+/* Tipos de prazo — a mesma data pode ser informativa ou acionável */
+.badge-tipo { font-size: .68rem; font-weight: 600; letter-spacing: .02em; }
+.badge-tipo-limite { background: var(--acento); color: #fff; border-color: var(--acento); }
+.badge-tipo-vigor { background: transparent; color: var(--primario); border-color: var(--primario); }
+.badge-tipo-inicio { background: var(--verde-fundo); color: var(--verde); border-color: var(--verde); }
+.badge-tipo-fim { background: transparent; color: var(--texto-suave); border-color: var(--texto-suave); text-decoration: line-through; text-decoration-thickness: 1px; }
+.badge-tipo-outro { background: transparent; color: var(--texto-suave); border-color: var(--borda); }
+@media (prefers-color-scheme: dark) {
+  .badge-tipo-limite { color: #14181f; }
+}
+.legenda-prazos { margin: 0 0 1.25rem; font-size: .9rem; color: var(--texto-suave); }
+.legenda-prazos summary { cursor: pointer; color: var(--primario); }
+.legenda-prazos ul { margin: .5rem 0 0; padding-left: 1.1rem; list-style: none; }
+.legenda-prazos li { margin-bottom: .3rem; }
