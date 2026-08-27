@@ -299,3 +299,10 @@ a.badge-setor:hover { background: var(--primario-suave); }
 .stat-valor { font-weight: 600; font-size: 1.55rem; line-height: 1.2; }
 .stat-label { color: var(--texto-suave); font-size: 0.85rem; }
 .stats-nota { color: var(--texto-suave); font-size: 0.8rem; margin: 0.3rem 0 1rem; }
+
+.filtro-linha { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem 0.7rem; margin: 0.8rem 0; }
+.filtro-linha select, .filtro-linha input[type="date"] {
+  background: var(--cartao); color: var(--texto); border: 1px solid var(--borda);
+  border-radius: 0.4rem; padding: 0.35rem 0.5rem; font-size: 0.95rem;
+}
+.filtro-linha label { color: var(--texto-suave); font-size: 0.9rem; }
