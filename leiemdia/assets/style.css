@@ -356,3 +356,18 @@ a.badge-setor:hover { background: var(--primario-suave); }
 .nuvem-tags { display: flex; flex-wrap: wrap; gap: 0.35rem; margin: 0.8rem 0; }
 .tag-botao { cursor: pointer; font: inherit; font-size: 0.82rem; }
 .tag-botao:hover { border-color: var(--primario); color: var(--primario); }
+
+/* ---------- arquivo (calendário) e navegação entre dias ---------- */
+.grelha-calendarios { display: grid; grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr)); gap: 0.9rem; margin: 1.2rem 0; }
+.calendario h2 { margin: 0 0 0.5rem; font-size: 1.05rem; text-transform: capitalize; }
+.calendario table { border-collapse: collapse; width: 100%; }
+.calendario th { color: var(--texto-suave); font-size: 0.72rem; font-weight: 600; padding: 0.15rem; text-align: center; }
+.calendario td { text-align: center; padding: 0.1rem; }
+.calendario td a {
+  display: inline-block; width: 1.9rem; line-height: 1.9rem; border-radius: 0.35rem;
+  text-decoration: none; font-weight: 600;
+  background: var(--primario-suave); color: var(--primario);
+}
+.calendario td a:hover { background: var(--primario); color: var(--fundo); }
+.cal-vazio { color: var(--texto-suave); opacity: 0.45; font-size: 0.85rem; }
+.nav-dias { display: flex; justify-content: space-between; gap: 1rem; margin: 2rem 0 1rem; border-top: 1px solid var(--borda); padding-top: 0.8rem; }
