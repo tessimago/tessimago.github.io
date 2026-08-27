@@ -319,3 +319,25 @@ a.badge-setor:hover { background: var(--primario-suave); }
 .th-ordenar::after { content: " ↕"; color: var(--texto-suave); font-size: 0.8em; }
 .th-ordenar[aria-sort="descending"]::after { content: " ↓"; color: var(--primario); }
 .th-ordenar[aria-sort="ascending"]::after { content: " ↑"; color: var(--primario); }
+
+/* ---------- radar personalizado ---------- */
+.grelha-perfis { display: grid; grid-template-columns: repeat(auto-fill, minmax(13rem, 1fr)); gap: 0.6rem; margin: 1rem 0; }
+.perfil-cartao {
+  display: flex; flex-direction: column; gap: 0.15rem; cursor: pointer;
+  background: var(--cartao); border: 1px solid var(--borda); border-radius: 0.55rem;
+  padding: 0.65rem 0.8rem; transition: border-color 0.1s ease;
+}
+.perfil-cartao:hover { border-color: var(--primario); }
+.perfil-cartao input { position: absolute; opacity: 0; pointer-events: none; }
+.perfil-cartao:has(input:checked) {
+  border-color: var(--primario); background: var(--primario-suave);
+  box-shadow: inset 3px 0 0 var(--primario);
+}
+.perfil-cartao:has(input:focus-visible) { outline: 2px solid var(--primario); outline-offset: 2px; }
+.perfil-nome { font-weight: 600; }
+.perfil-desc { color: var(--texto-suave); font-size: 0.82rem; }
+.radar-grupo { margin-top: 1.4rem; }
+.radar-item h3 { margin: 0 0 0.2rem; font-size: 1rem; }
+.radar-item h3 a { text-decoration: none; }
+.radar-razao { color: var(--primario); font-size: 0.82rem; margin: 0 0 0.4rem; font-weight: 600; }
+.radar-item p { margin: 0.3rem 0; font-size: 0.95rem; }
