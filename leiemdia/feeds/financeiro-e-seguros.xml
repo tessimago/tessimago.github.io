@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Lei em Dia — Financeiro e Seguros</title>
+  <link>https://tessimago.github.io/leiemdia/setores/financeiro-e-seguros/</link>
+  <description>Banca, crédito, seguros, mercado de capitais, branqueamento.</description>
+  <language>pt-PT</language>
+  <lastBuildDate>Wed, 26 Aug 2026 10:00:00 +0000</lastBuildDate>
+  <ttl>720</ttl>
+  <atom:link href="https://tessimago.github.io/leiemdia/feeds/financeiro-e-seguros.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Decreto-Lei n.º 171/2026 — Altera o Código dos Valores Mobiliários.</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-171-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-lei-171-2026/</guid>
+    <pubDate>Wed, 26 Aug 2026 10:00:00 +0000</pubDate>
+    <description>Este diploma facilita o acesso das PME ao mercado de capitais, reduzindo custos de listagem e simplificando as regras de negociação. Introduz também um novo sistema europeu de acesso centralizado a informações financeiras e de sustentabilidade, visando tornar o investimento mais transparente e menos burocrático.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2026-1161839915</description>
+    <category>Financeiro e Seguros</category>
+    <category>Tecnologia e Dados</category>
+    <category>Mercado de Capitais</category>
+    <category>PME</category>
+    <category>Transparência Financeira</category>
+    <category>Listing Act</category>
+  </item>
+  <item>
+    <title>Portaria n.º 385/2026/1 — Portaria de extensão do acordo coletivo entre a Companhia de Seguros Allianz Portugal…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/portaria-385-2026-1/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/portaria-385-2026-1/</guid>
+    <pubDate>Wed, 26 Aug 2026 10:00:00 +0000</pubDate>
+    <description>As regras de trabalho do acordo entre a Allianz e o sindicato STAS passam a aplicar-se a todos os trabalhadores do setor segurador nestas empresas, mesmo que não sejam sindicalizados. Isto significa que os trabalhadores que ganhavam menos do que o previsto no acordo terão agora um aumento salarial e melhorias nos apoios.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/385-2026-1161839916</description>
+    <category>Financeiro e Seguros</category>
+    <category>Salários</category>
+    <category>Subsídio de Refeição</category>
+    <category>Acordo Coletivo</category>
+    <category>Setor Segurador</category>
+  </item>
+  <item>
+    <title>Decreto-Lei n.º 170/2026 — No uso da autorização concedida pela Lei n.º 13/2026, de 16 de abril, altera o Código…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-170-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-lei-170-2026/</guid>
+    <pubDate>Fri, 21 Aug 2026 10:00:00 +0000</pubDate>
+    <description>O regime de incentivos fiscais à investigação e desenvolvimento (SIFIDE II) foi alargado para o ano de 2026, mas acaba a possibilidade de obter este benefício através de investimentos em fundos de investimento (SIFIDE indireto). O foco passa a ser o investimento direto em I&amp;D, embora se permita que os fundos já existentes utilizem parte do capital para inovação produtiva.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2026-1160679204</description>
+    <category>Fiscal e Contabilidade</category>
+    <category>Tecnologia e Dados</category>
+    <category>Financeiro e Seguros</category>
+    <category>SIFIDE II</category>
+    <category>IRC</category>
+    <category>Incentivos Fiscais</category>
+    <category>Investimento em I&amp;D</category>
+  </item>
+  <item>
+    <title>Resolução do Conselho de Ministros n.º 160/2026 — Seleciona a proposta vencedora para a aquisição da totalidade das ações representativas…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-160-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-160-2026/</guid>
+    <pubDate>Thu, 06 Aug 2026 10:00:00 +0000</pubDate>
+    <description>O Governo selecionou a MD Capital Ltda para comprar a totalidade do Banco Caixa Geral - Brasil à CGD. Esta decisão marca o avanço final na venda da subsidiária brasileira, alterando a estrutura de propriedade do banco.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/160-2026-1154555257</description>
+    <category>Financeiro e Seguros</category>
+    <category>Privatização</category>
+    <category>Setor Bancário</category>
+    <category>CGD</category>
+  </item>
+</channel>
+</rss>

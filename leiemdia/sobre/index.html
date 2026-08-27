@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sobre — Lei em Dia</title>
+<meta name="description" content="O que é o Lei em Dia: resumos diários do Diário da República em português claro, com prazos extraídos e radar por setor de atividade.">
+<link rel="canonical" href="https://tessimago.github.io/leiemdia/sobre/">
+<meta property="og:title" content="Sobre — Lei em Dia">
+<meta property="og:description" content="O que é o Lei em Dia: resumos diários do Diário da República em português claro, com prazos extraídos e radar por setor de atividade.">
+<meta property="og:url" content="https://tessimago.github.io/leiemdia/sobre/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Lei em Dia">
+<meta property="og:locale" content="pt_PT">
+<link rel="icon" type="image/svg+xml" href="/leiemdia/assets/favicon.svg">
+<link rel="alternate" type="application/rss+xml" title="Lei em Dia — RSS" href="/leiemdia/feed.xml">
+<link rel="stylesheet" href="/leiemdia/assets/style.css">
+</head>
+<body>
+<header class="topo">
+  <div class="contentor topo-linha">
+    <a class="marca" href="/leiemdia/"><span class="marca-simbolo" aria-hidden="true">§</span> Lei em Dia</a>
+    <button class="nav-botao" type="button" aria-expanded="false" aria-controls="nav-principal"
+            onclick="var n=document.getElementById('nav-principal');var a=this.getAttribute('aria-expanded')==='true';this.setAttribute('aria-expanded',!a);n.classList.toggle('aberta');">Menu</button>
+    <nav id="nav-principal" class="nav" aria-label="Navegação principal">
+      <a href="/leiemdia/">Hoje</a>
+      <a href="/leiemdia/setores/">Setores</a>
+      <a href="/leiemdia/prazos/">Prazos</a>
+      <a href="/leiemdia/concursos/">Concursos</a>
+      <a href="/leiemdia/pro/">Pro</a>
+      <a href="/leiemdia/sobre/" aria-current="page">Sobre</a>
+    </nav>
+  </div>
+</header>
+
+<main class="contentor">
+<div class="pagina-estatica">
+<h1>Sobre o Lei em Dia</h1>
+
+<p class="lead">O <strong>Lei em Dia</strong> lê o Diário da República todos os dias e conta-lhe,
+em português claro, o que mudou — com os prazos à vista, organizado por 15 setores de atividade
+e com os concursos públicos do dia. Sempre com ligação ao texto oficial.</p>
+
+<h2>O que é</h2>
+<p>O Diário da República é gratuito e está online, mas é denso, técnico e não avisa ninguém do que
+saiu. O Lei em Dia faz a triagem por si: resume cada diploma em duas ou três frases, destaca os
+pontos práticos, extrai as datas que interessam (entradas em vigor, fins de prazo, candidaturas)
+e classifica tudo por setor — do fiscal à restauração, da construção ao alojamento local.</p>
+
+<h2>Como funciona</h2>
+<p>Todos os dias, por volta das <strong>10h</strong>, um pipeline automático corre num computador
+em Portugal e faz quatro coisas:</p>
+<ol>
+  <li><strong>Recolhe</strong> os diplomas publicados nas Séries I e II do Diário da República,
+      diretamente das fontes oficiais em
+      <a href="https://diariodarepublica.pt" rel="noopener">diariodarepublica.pt</a>;</li>
+  <li><strong>Recolhe</strong> os anúncios de concursos públicos do portal
+      <a href="https://www.base.gov.pt" rel="noopener">BASE.gov.pt</a>;</li>
+  <li><strong>Analisa</strong> cada diploma com modelos de inteligência artificial que correm
+      localmente (sem enviar dados para serviços externos), produzindo o resumo, os pontos práticos,
+      os prazos e a classificação setorial;</li>
+  <li><strong>Publica</strong> este site estático, com uma página permanente por diploma e
+      <em>feeds</em> RSS por setor.</li>
+</ol>
+
+<h2>Quem faz</h2>
+<p>O Lei em Dia é um projeto independente, feito em Portugal, sem ligação ao Estado, à Imprensa
+Nacional-Casa da Moeda ou a qualquer ordem profissional. Não recebe patrocínios de escritórios de
+advogados nem de empresas de software. Dúvidas, correções ou sugestões:
+<a href="mailto:leiemdia.pt@gmail.com">leiemdia.pt@gmail.com</a>.</p>
+
+<h2>Porquê confiar</h2>
+<ul>
+  <li><strong>Fontes oficiais, sempre citadas.</strong> Cada item tem uma ligação
+      «Ver diploma oficial» para o Diário da República, e cada concurso liga ao portal BASE.
+      Pode — e deve — confirmar tudo na fonte.</li>
+  <li><strong>Honestidade sobre a IA.</strong> Os resumos são gerados com apoio de inteligência
+      artificial e podem conter imprecisões, omissões ou erros de interpretação. Fazemos validação
+      automática (formato, datas, coerência com o texto), mas nenhum resumo substitui o original:
+      <strong>faz fé exclusivamente o texto publicado no Diário da República</strong>.</li>
+  <li><strong>Sem conselhos disfarçados.</strong> Isto é informação de carácter geral — não é
+      aconselhamento jurídico, fiscal ou profissional. Para decisões concretas, fale com um
+      profissional habilitado. Mais detalhes na página <a href="../legal/">Avisos legais</a>.</li>
+</ul>
+
+</div>
+</main>
+
+<footer class="rodape">
+  <div class="contentor">
+    <div class="rodape-avisos">
+      <p>Os resumos são gerados com apoio de IA e podem conter imprecisões.
+         Faz fé exclusivamente o texto publicado no Diário da República.</p>
+      <p>Informação de carácter geral — não constitui aconselhamento jurídico,
+         fiscal ou profissional.</p>
+      <p>Fontes: <a href="https://diariodarepublica.pt" rel="noopener">diariodarepublica.pt</a>
+         e <a href="https://www.base.gov.pt" rel="noopener">base.gov.pt</a>.</p>
+    </div>
+    <nav class="rodape-nav" aria-label="Navegação do rodapé">
+      <a href="/leiemdia/sobre/">Sobre</a>
+      <a href="/leiemdia/legal/">Avisos legais e privacidade</a>
+      <a href="/leiemdia/pro/">Pro</a>
+      <a href="/leiemdia/feed.xml">RSS</a>
+      <a href="mailto:leiemdia.pt@gmail.com">Contacto</a>
+    </nav>
+    <p class="rodape-copy">© 2026 Lei em Dia — O Diário da República em português claro — com prazos e setores.</p>
+  </div>
+</footer>
+</body>
+</html>
