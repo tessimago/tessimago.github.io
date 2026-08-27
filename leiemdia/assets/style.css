@@ -371,3 +371,4 @@ a.badge-setor:hover { background: var(--primario-suave); }
 .calendario td a:hover { background: var(--primario); color: var(--fundo); }
 .cal-vazio { color: var(--texto-suave); opacity: 0.45; font-size: 0.85rem; }
 .nav-dias { display: flex; justify-content: space-between; gap: 1rem; margin: 2rem 0 1rem; border-top: 1px solid var(--borda); padding-top: 0.8rem; }
+.tag-botao.ativo { background: var(--primario); color: var(--fundo); border-color: var(--primario); }
