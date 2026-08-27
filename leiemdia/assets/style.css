@@ -267,3 +267,24 @@ a.badge-setor:hover { background: var(--primario-suave); }
 .legenda-prazos summary { cursor: pointer; color: var(--primario); }
 .legenda-prazos ul { margin: .5rem 0 0; padding-left: 1.1rem; list-style: none; }
 .legenda-prazos li { margin-bottom: .3rem; }
+
+/* ---------- glossário e tooltips de tipo de diploma ---------- */
+.tipo-termo {
+  border-bottom: 1px dotted currentColor; cursor: help; position: relative;
+}
+.tipo-termo::after {
+  content: attr(data-tip);
+  position: absolute; left: 0; top: calc(100% + 0.45rem); z-index: 20;
+  width: min(21rem, 82vw);
+  background: var(--cartao); color: var(--texto);
+  border: 1px solid var(--borda); border-left: 3px solid var(--primario);
+  border-radius: 0.4rem; padding: 0.5rem 0.75rem;
+  font-size: 0.83rem; font-weight: 400; line-height: 1.45; white-space: normal;
+  text-align: left; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.18);
+  opacity: 0; visibility: hidden; transition: opacity 0.12s ease;
+  pointer-events: none;
+}
+.tipo-termo:hover::after, .tipo-termo:focus::after { opacity: 1; visibility: visible; }
+.glossario-entrada { scroll-margin-top: 1rem; }
+.glossario-entrada h2 { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem; }
+.glossario-entrada p { max-width: 46rem; }
