@@ -6,9 +6,25 @@
   <link>https://tessimago.github.io/leiemdia/setores/saude-e-farmacias/</link>
   <description>Farmácias, dispositivos, Infarmed, convenções, profissões de saúde.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Wed, 26 Aug 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 27 Aug 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/saude-e-farmacias.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Anúncio de procedimento n.º 21677/2026 — Município de Santo Tirso Instalação do Serviço de Saúde e Bem Estar, e beneficiação da…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/anuncio-de-procedimento-21677-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/anuncio-de-procedimento-21677-2026/</guid>
+    <pubDate>Thu, 27 Aug 2026 10:00:00 +0000</pubDate>
+    <description>O Município de Santo Tirso pretende lançar um concurso para a instalação de um novo serviço de saúde e para obras de melhoria numa loja na Central de Transportes local. Este anúncio sinaliza oportunidades de negócio para empresas de construção e prestadores de serviços de saúde.
+
+Diploma oficial: https://files.diariodarepublica.pt/cp_hora/2026/08/166/419971295.pdf</description>
+    <category>Construção e Imobiliário</category>
+    <category>Saúde e Farmácias</category>
+    <category>Setor Público e Autarquias</category>
+    <category>Concurso Público</category>
+    <category>Obras</category>
+    <category>Santo Tirso</category>
+    <category>Saúde</category>
+  </item>
   <item>
     <title>Portaria n.º 379/2026/2 — Finanças e Saúde - Gabinete do Secretário de Estado Adjunto e do Orçamento e Gabinete do…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/portaria-379-2026-2/</link>
@@ -162,33 +178,6 @@ Diploma oficial: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-mini
     <category>Administração Pública</category>
     <category>SNS</category>
     <category>Nomeações</category>
-  </item>
-  <item>
-    <title>Resolução do Conselho de Ministros n.º 159/2026 — Designa vogal executiva, enfermeira-diretora, do conselho de administração da Unidade…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-159-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-159-2026/</guid>
-    <pubDate>Thu, 06 Aug 2026 10:00:00 +0000</pubDate>
-    <description>O Governo procedeu à nomeação de uma nova enfermeira-diretora para o conselho de administração da Unidade Local de Saúde de Lisboa Ocidental. Esta decisão visa preencher uma vaga de gestão para assegurar a continuidade dos serviços de saúde na região.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/159-2026-1154555256</description>
-    <category>Saúde e Farmácias</category>
-    <category>Nomeação</category>
-    <category>SNS</category>
-    <category>Administração Pública</category>
-  </item>
-  <item>
-    <title>Portaria n.º 327/2026/1 — Fixa as taxas para ensaios clínicos e investigação clínica.</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/portaria-327-2026-1/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/portaria-327-2026-1/</guid>
-    <pubDate>Thu, 06 Aug 2026 10:00:00 +0000</pubDate>
-    <description>Esta portaria define os novos valores das taxas que devem ser pagas para obter autorizações de ensaios clínicos e estudos de dispositivos médicos. As empresas do setor farmacêutico e de dispositivos médicos devem estar atentas aos novos custos de licenciamento e ao processo de reembolso em caso de indeferimento.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/327-2026-1154555260</description>
-    <category>Saúde e Farmácias</category>
-    <category>Taxas</category>
-    <category>Ensaios Clínicos</category>
-    <category>Dispositivos Médicos</category>
-    <category>INFARMED</category>
   </item>
 </channel>
 </rss>
