@@ -288,3 +288,14 @@ a.badge-setor:hover { background: var(--primario-suave); }
 .glossario-entrada { scroll-margin-top: 1rem; }
 .glossario-entrada h2 { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem; }
 .glossario-entrada p { max-width: 46rem; }
+
+/* ---------- stat tiles (concursos) ---------- */
+.stats-linha { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.7rem; margin: 1rem 0 0.2rem; }
+@media (max-width: 34rem) { .stats-linha { grid-template-columns: 1fr; } }
+.stat-tile {
+  background: var(--cartao); border: 1px solid var(--borda); border-radius: 0.55rem;
+  padding: 0.7rem 0.9rem; display: flex; flex-direction: column; gap: 0.1rem;
+}
+.stat-valor { font-weight: 600; font-size: 1.55rem; line-height: 1.2; }
+.stat-label { color: var(--texto-suave); font-size: 0.85rem; }
+.stats-nota { color: var(--texto-suave); font-size: 0.8rem; margin: 0.3rem 0 1rem; }
