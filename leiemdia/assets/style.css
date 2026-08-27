@@ -341,3 +341,11 @@ a.badge-setor:hover { background: var(--primario-suave); }
 .radar-item h3 a { text-decoration: none; }
 .radar-razao { color: var(--primario); font-size: 0.82rem; margin: 0 0 0.4rem; font-weight: 600; }
 .radar-item p { margin: 0.3rem 0; font-size: 0.95rem; }
+
+.sintese-dia { border-left: 4px solid var(--primario); }
+.sintese-dia h3 { margin: 0.9rem 0 0.2rem; font-size: 0.95rem; }
+.sintese-dia h3 a { text-decoration: none; }
+.radar-teaser {
+  background: var(--acento-fundo); border: 1px dashed var(--acento);
+  border-radius: 0.55rem; padding: 0.7rem 1rem; margin-top: 1rem;
+}
