@@ -374,3 +374,5 @@ a.badge-setor:hover { background: var(--primario-suave); }
 .tag-botao.ativo { background: var(--primario); color: var(--fundo); border-color: var(--primario); }
 .paginacao { display: flex; align-items: center; justify-content: center; gap: 1rem; margin: 1rem 0 1.5rem; flex-wrap: wrap; }
 .paginacao .nav-botao[disabled] { opacity: 0.4; cursor: default; }
+/* os botões da paginação reutilizam .nav-botao, que o menu móvel esconde em desktop */
+.paginacao .nav-botao { display: inline-block; }
