@@ -372,3 +372,5 @@ a.badge-setor:hover { background: var(--primario-suave); }
 .cal-vazio { color: var(--texto-suave); opacity: 0.45; font-size: 0.85rem; }
 .nav-dias { display: flex; justify-content: space-between; gap: 1rem; margin: 2rem 0 1rem; border-top: 1px solid var(--borda); padding-top: 0.8rem; }
 .tag-botao.ativo { background: var(--primario); color: var(--fundo); border-color: var(--primario); }
+.paginacao { display: flex; align-items: center; justify-content: center; gap: 1rem; margin: 1rem 0 1.5rem; flex-wrap: wrap; }
+.paginacao .nav-botao[disabled] { opacity: 0.4; cursor: default; }
