@@ -6,9 +6,23 @@
   <link>https://tessimago.github.io/leiemdia/setores/tecnologia-e-dados/</link>
   <description>Digital, RGPD/dados pessoais, cibersegurança, telecomunicações, IA.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Wed, 26 Aug 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 28 Aug 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/tecnologia-e-dados.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Resolução do Conselho de Ministros n.º 175/2026 — Cria a Estrutura de Missão denominada Estrutura Nacional SAFE.</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-175-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-175-2026/</guid>
+    <pubDate>Fri, 28 Aug 2026 10:00:00 +0000</pubDate>
+    <description>O Governo criou uma nova estrutura para gerir o financiamento europeu destinado ao reforço da indústria de defesa. Esta entidade irá coordenar os investimentos e garantir que as empresas nacionais que participam nestes projetos cumprem as regras de faturação e monitorização exigidas pela União Europeia.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-2026-1163562936</description>
+    <category>Tecnologia e Dados</category>
+    <category>Energia e Ambiente</category>
+    <category>Indústria de Defesa</category>
+    <category>Financiamento Europeu</category>
+    <category>Instrumento SAFE</category>
+  </item>
   <item>
     <title>Decreto-Lei n.º 171/2026 — Altera o Código dos Valores Mobiliários.</title>
     <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-171-2026/</link>
@@ -142,21 +156,6 @@ Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/332-a-2026-115
     <category>Ensino Superior</category>
     <category>Universidade Técnica do Porto</category>
     <category>Reorganização Institucional</category>
-  </item>
-  <item>
-    <title>Resolução do Conselho de Ministros n.º 164/2026 — Autoriza a Autoridade Tributária e Aduaneira a realizar a despesa com a aquisição de um…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-164-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-164-2026/</guid>
-    <pubDate>Fri, 07 Aug 2026 10:00:00 +0000</pubDate>
-    <description>O Governo autorizou um investimento de cerca de 40 milhões de euros para garantir a continuidade dos sistemas informáticos da Autoridade Tributária entre 2027 e 2029. Na prática, isto significa que os serviços digitais de impostos e faturação devem manter a sua estabilidade e disponibilidade, evitando interrupções nos sistemas que as empresas utilizam para cumprir as suas obrigações fiscais.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/164-2026-1154789327</description>
-    <category>Fiscal e Contabilidade</category>
-    <category>Tecnologia e Dados</category>
-    <category>Autoridade Tributária</category>
-    <category>Sistemas de Informação</category>
-    <category>Investimento Público</category>
-    <category>Continuidade de Serviços</category>
   </item>
 </channel>
 </rss>
