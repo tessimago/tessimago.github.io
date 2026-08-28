@@ -184,6 +184,16 @@
   </div>
 </footer>
 <script>
+// Links externos abrem sempre em nova aba (delegação: cobre também os gerados por JS)
+document.addEventListener("click", function (e) {
+  var a = e.target && e.target.closest ? e.target.closest("a[href]") : null;
+  if (a && /^https?:/.test(a.href) && a.host !== location.host) {
+    a.target = "_blank";
+    a.rel = "noopener";
+  }
+}, true);
+</script>
+<script>
 (function () {
   var CHAVE = "leiemdia-radar";
   var dados = JSON.parse(document.getElementById("radar-dados").textContent);
