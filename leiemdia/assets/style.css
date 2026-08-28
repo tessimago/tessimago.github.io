@@ -376,3 +376,7 @@ a.badge-setor:hover { background: var(--primario-suave); }
 .paginacao .nav-botao[disabled] { opacity: 0.4; cursor: default; }
 /* os botões da paginação reutilizam .nav-botao, que o menu móvel esconde em desktop */
 .paginacao .nav-botao { display: inline-block; }
+.paginacao .nav-botao { min-width: 2.1rem; text-align: center; }
+.paginacao .pg-atual { background: var(--primario); color: var(--fundo); border-color: var(--primario); opacity: 1; }
+.pg-reticencias { color: var(--texto-suave); }
+.paginacao { gap: 0.35rem; }

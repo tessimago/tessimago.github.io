@@ -111,6 +111,7 @@
   </select>
 </div>
 
+<nav class="paginacao" data-paginacao aria-label="Páginas de resultados"></nav>
 <div class="tabela-scroll">
 <table class="tabela tabela-concursos">
   <thead>
@@ -86560,7 +86561,7 @@ Locação com montagem e desmontagem de equipamento lúdico infantil no âmbito 
     </tr>
   </tbody>
 </table>
-</div><nav class="paginacao" id="concursos-paginacao" aria-label="Páginas de resultados"></nav>
+</div><nav class="paginacao" data-paginacao data-paginacao-fundo aria-label="Páginas de resultados"></nav>
 
 <details class="legenda-prazos">
   <summary>Números por setor <span id="ps-periodo">(últimos 14 dias)</span></summary>
@@ -86789,7 +86790,32 @@ document.addEventListener("click", function (e) {
 
   var pagina = 1;
   var PAGE_SIZE = 50;
-  var navPag = document.getElementById("concursos-paginacao");
+  var navsPag = Array.prototype.slice.call(document.querySelectorAll("[data-paginacao]"));
+
+  function botaoPg(valor, rotulo, opcoes) {
+    opcoes = opcoes || {};
+    return '<button type="button" class="nav-botao' + (opcoes.atual ? " pg-atual" : "") + '"'
+         + ' data-pg="' + valor + '"' + (opcoes.off ? " disabled" : "")
+         + (opcoes.atual ? ' aria-current="page"' : "") + ">" + rotulo + "</button>";
+  }
+  function htmlPaginacao(totalPag, totalItens) {
+    var h = botaoPg("-", "←", { off: pagina <= 1 });
+    var nums = [], vistos = {};
+    [1, 2, pagina - 2, pagina - 1, pagina, pagina + 1, pagina + 2, totalPag - 1, totalPag]
+      .forEach(function (p) {
+        if (p >= 1 && p <= totalPag && !vistos[p]) { vistos[p] = 1; nums.push(p); }
+      });
+    nums.sort(function (a, b) { return a - b; });
+    var anterior = 0;
+    nums.forEach(function (p) {
+      if (p - anterior > 1) h += '<span class="pg-reticencias">…</span>';
+      h += botaoPg(p, p, { atual: p === pagina, off: p === pagina });
+      anterior = p;
+    });
+    h += botaoPg("+", "→", { off: pagina >= totalPag });
+    h += '<span class="stats-nota">' + numeroPt(totalItens) + " concursos</span>";
+    return h;
+  }
 
   function atualizar() {
     inpDesde.hidden = selDias.value !== "desde";
@@ -86848,24 +86874,24 @@ document.addEventListener("click", function (e) {
     if (pagina > totalPag) pagina = totalPag;
     var ini = (pagina - 1) * PAGE_SIZE, fim = pagina * PAGE_SIZE;
     correspondentes.forEach(function (tr, i) { tr.hidden = i < ini || i >= fim; });
-    if (correspondentes.length > PAGE_SIZE) {
-      navPag.innerHTML =
-        '<button type="button" class="nav-botao" data-pg="-"' + (pagina <= 1 ? " disabled" : "") + ">← Anterior</button>"
-        + '<span class="stats-nota">Página ' + pagina + " de " + totalPag
-        + " · " + numeroPt(correspondentes.length) + " concursos</span>"
-        + '<button type="button" class="nav-botao" data-pg="+"' + (pagina >= totalPag ? " disabled" : "") + ">Seguinte →</button>";
-    } else {
-      navPag.innerHTML = "";
-    }
+    var htmlNav = correspondentes.length > PAGE_SIZE
+      ? htmlPaginacao(totalPag, correspondentes.length) : "";
+    navsPag.forEach(function (nav) { nav.innerHTML = htmlNav; });
   }
 
-  navPag.addEventListener("click", function (e) {
-    var pg = e.target.getAttribute && e.target.getAttribute("data-pg");
-    if (!pg) return;
-    pagina += (pg === "+" ? 1 : -1);
-    atualizar();
-    var tabela = document.querySelector(".tabela-concursos");
-    if (tabela) tabela.scrollIntoView({ behavior: "smooth", block: "start" });
+  navsPag.forEach(function (nav) {
+    nav.addEventListener("click", function (e) {
+      var pg = e.target.getAttribute && e.target.getAttribute("data-pg");
+      if (!pg) return;
+      if (pg === "+") pagina += 1;
+      else if (pg === "-") pagina -= 1;
+      else pagina = parseInt(pg, 10) || 1;
+      atualizar();
+      if (nav.hasAttribute("data-paginacao-fundo")) {
+        var tabela = document.querySelector(".tabela-concursos");
+        if (tabela) tabela.scrollIntoView({ behavior: "smooth", block: "start" });
+      }
+    });
   });
 
   function filtrosMudaram() { pagina = 1; atualizar(); }
