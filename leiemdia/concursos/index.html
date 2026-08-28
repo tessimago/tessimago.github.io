@@ -4,10 +4,10 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Concursos públicos — Lei em Dia</title>
-<meta name="description" content="Concursos públicos dos últimos 60 dias no portal BASE.gov, com preço base, prazo de propostas, filtros por setor e período, e estatísticas.">
+<meta name="description" content="Concursos públicos do portal BASE.gov desde 16 de fevereiro de 2026: preço base, prazo de propostas, filtros por setor, período e pesquisa.">
 <link rel="canonical" href="https://tessimago.github.io/leiemdia/concursos/">
 <meta property="og:title" content="Concursos públicos — Lei em Dia">
-<meta property="og:description" content="Concursos públicos dos últimos 60 dias no portal BASE.gov, com preço base, prazo de propostas, filtros por setor e período, e estatísticas.">
+<meta property="og:description" content="Concursos públicos do portal BASE.gov desde 16 de fevereiro de 2026: preço base, prazo de propostas, filtros por setor, período e pesquisa.">
 <meta property="og:url" content="https://tessimago.github.io/leiemdia/concursos/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Lei em Dia">
@@ -86,8 +86,9 @@
     <option value="14" selected>Últimos 14 dias</option>
     <option value="60">Últimos 60 dias</option>
     <option value="desde">Desde uma data…</option>
+    <option value="tudo">Tudo o que temos (desde 16 fev 2026)</option>
   </select>
-  <input type="date" id="filtro-desde" min="2026-06-29" max="2026-08-28"
+  <input type="date" id="filtro-desde" min="2026-02-16" max="2026-08-28"
          value="2026-08-14" aria-label="Mostrar concursos desde esta data" hidden>
   <label for="filtro-setor">Setor</label>
   <select id="filtro-setor">
@@ -86680,6 +86681,71 @@ Locação com montagem e desmontagem de equipamento lúdico infantil no âmbito 
   var inpTexto = document.getElementById("filtro-texto");
   if (!selSetor || !selDias) return;
   var HOJE = "2026-08-28";
+  var LIM_EMBED = "2026-06-29";      // dias mais antigos já embutidos na página
+  var DATA_MIN = "2026-02-16";        // dia mais antigo em todo o arquivo
+  var MESES_ANTIGOS = ["2026-06", "2026-05", "2026-04", "2026-03", "2026-02"];
+  var SETORES_NOMES = {"agricultura-e-pescas": "Agricultura e Pescas", "alojamento-local-e-turismo": "Alojamento Local e Turismo", "comercio-e-servicos": "Com\u00e9rcio e Servi\u00e7os", "construcao-e-imobiliario": "Constru\u00e7\u00e3o e Imobili\u00e1rio", "educacao-e-formacao": "Educa\u00e7\u00e3o e Forma\u00e7\u00e3o", "energia-e-ambiente": "Energia e Ambiente", "financeiro-e-seguros": "Financeiro e Seguros", "fiscal-e-contabilidade": "Fiscal e Contabilidade", "justica-e-registos": "Justi\u00e7a e Registos", "restauracao-e-alimentar": "Restaura\u00e7\u00e3o e Alimentar", "saude-e-farmacias": "Sa\u00fade e Farm\u00e1cias", "setor-publico-e-autarquias": "Setor P\u00fablico e Autarquias", "tecnologia-e-dados": "Tecnologia e Dados", "trabalho-e-seguranca-social": "Trabalho e Seguran\u00e7a Social", "transportes-e-logistica": "Transportes e Log\u00edstica"};
+  var MESES_PT = ["jan", "fev", "mar", "abr", "mai", "jun", "jul", "ago", "set", "out", "nov", "dez"];
+  var mesesCarregados = {};
+
+  function escapar(t) {
+    var el = document.createElement("span"); el.textContent = t || ""; return el.innerHTML;
+  }
+  function dataCurtaJs(iso) {
+    var p = (iso || "").split("-");
+    return p.length === 3 ? parseInt(p[2], 10) + " " + (MESES_PT[parseInt(p[1], 10) - 1] || p[1]) + " " + p[0] : iso;
+  }
+  function novaLinha(c) {
+    var tr = document.createElement("tr");
+    tr.setAttribute("data-setores", (c.setores || []).join(" "));
+    tr.setAttribute("data-preco", c.preco || 0);
+    tr.setAttribute("data-aberto", c.prazo && c.prazo >= HOJE ? "1" : "0");
+    tr.setAttribute("data-dia", c.dia);
+    tr.setAttribute("data-prazo", c.prazo || "");
+    var obj = c.link ? '<a href="' + escapar(c.link) + '" rel="noopener">' + escapar(c.objeto) + "</a>"
+                     : escapar(c.objeto);
+    var tipo = escapar(c.modelo) + (c.tipo_contrato ? " · " + escapar(c.tipo_contrato) : "");
+    var badges = (c.setores || []).map(function (sid) {
+      return SETORES_NOMES[sid]
+        ? '<a class="badge badge-setor" href="/leiemdia/setores/' + sid + '/">' + escapar(SETORES_NOMES[sid]) + "</a>"
+        : "";
+    }).join(" ") || "—";
+    var prazo = c.prazo
+      ? '<span class="' + (c.prazo < HOJE ? "prazo-expirado" : "") + '">' + dataCurtaJs(c.prazo) + "</span>" : "—";
+    tr.innerHTML = "<td>" + dataCurtaJs(c.dia) + "</td>"
+      + '<td class="concurso-objeto">' + obj + '<span class="concurso-tipo">' + tipo + "</span></td>"
+      + "<td>" + escapar(c.entidade) + "</td><td>" + badges + "</td>"
+      + '<td class="num">' + escapar(c.preco_str) + "</td><td>" + prazo + "</td>";
+    tr._texto = normalizar((c.objeto || "") + " " + (c.entidade || ""));
+    return tr;
+  }
+  function carregarMesesAntigos(cutoff, depois) {
+    var precisa = MESES_ANTIGOS.filter(function (m) {
+      return !mesesCarregados[m] && (m + "-31") >= cutoff;
+    });
+    if (!precisa.length) return false;
+    precisa.forEach(function (m) { mesesCarregados[m] = true; });
+    var nota = document.querySelector(".stats-nota");
+    if (nota) nota.textContent = "A carregar " + precisa.length + " mês(es) do arquivo…";
+    Promise.all(precisa.map(function (m) {
+      return fetch("/leiemdia/concursos/dados/" + m + ".json")
+        .then(function (r) { return r.ok ? r.json() : []; })
+        .catch(function () { return []; });
+    })).then(function (listas) {
+      var tbody = linhas.length ? linhas[0].parentNode
+                                : document.querySelector(".tabela-concursos tbody");
+      listas.forEach(function (lista) {
+        lista.forEach(function (c) {
+          var tr = novaLinha(c);
+          tbody.appendChild(tr);
+          linhas.push(tr);
+        });
+      });
+      if (nota) nota.textContent = "Os valores acompanham os filtros de período e de setor.";
+      depois();
+    });
+    return true;
+  }
 
   function normalizar(t) {
     return t.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
@@ -86703,7 +86769,8 @@ Locação com montagem e desmontagem de equipamento lúdico infantil no âmbito 
     return String(n).replace(/\B(?=(\d{3})+(?!\d))/g, " ");
   }
   function cutoffAtual() {
-    if (selDias.value === "desde") return inpDesde.value || "0000-00-00";
+    if (selDias.value === "tudo") return DATA_MIN;
+    if (selDias.value === "desde") return inpDesde.value || LIM_EMBED;
     var d = new Date(HOJE);
     d.setDate(d.getDate() - parseInt(selDias.value, 10));
     return d.toISOString().slice(0, 10);
@@ -86712,6 +86779,10 @@ Locação com montagem e desmontagem de equipamento lúdico infantil no âmbito 
   function atualizar() {
     inpDesde.hidden = selDias.value !== "desde";
     var cutoff = cutoffAtual(), setor = selSetor.value;
+    if (cutoff < LIM_EMBED) {
+      // meses fora da janela embutida: buscar do arquivo e voltar cá
+      carregarMesesAntigos(cutoff, atualizar);
+    }
     var termo = inpTexto ? normalizar(inpTexto.value.trim()) : "";
     var n = 0, soma = 0, abertos = 0;
     var porSetorN = {}, porSetorSoma = {};
