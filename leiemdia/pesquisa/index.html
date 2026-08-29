@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pesquisar — Lei em Dia</title>
+<meta name="description" content="Pesquisa global no arquivo do Lei em Dia: diplomas, resumos, tags, setores e glossário, desde janeiro de 2026.">
+<link rel="canonical" href="https://tessimago.github.io/leiemdia/pesquisa/">
+<meta property="og:title" content="Pesquisar — Lei em Dia">
+<meta property="og:description" content="Pesquisa global no arquivo do Lei em Dia: diplomas, resumos, tags, setores e glossário, desde janeiro de 2026.">
+<meta property="og:url" content="https://tessimago.github.io/leiemdia/pesquisa/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Lei em Dia">
+<meta property="og:locale" content="pt_PT">
+<link rel="icon" type="image/svg+xml" href="/leiemdia/assets/favicon.svg">
+<link rel="alternate" type="application/rss+xml" title="Lei em Dia — RSS" href="/leiemdia/feed.xml">
+<link rel="stylesheet" href="/leiemdia/assets/style.css">
+</head>
+<body>
+<header class="topo">
+  <div class="contentor topo-linha">
+    <a class="marca" href="/leiemdia/"><span class="marca-simbolo" aria-hidden="true">§</span> Lei em Dia</a>
+    <button class="nav-botao" type="button" aria-expanded="false" aria-controls="nav-principal"
+            onclick="var n=document.getElementById('nav-principal');var a=this.getAttribute('aria-expanded')==='true';this.setAttribute('aria-expanded',!a);n.classList.toggle('aberta');">Menu</button>
+    <nav id="nav-principal" class="nav" aria-label="Navegação principal">
+      <a href="/leiemdia/">Hoje</a>
+      <a href="/leiemdia/arquivo/">Arquivo</a>
+      <a href="/leiemdia/radar/">O meu radar</a>
+      <a href="/leiemdia/setores/">Setores</a>
+      <a href="/leiemdia/prazos/">Prazos</a>
+      <a href="/leiemdia/concursos/">Concursos</a>
+      <a href="/leiemdia/pro/">Pro</a>
+      <a href="/leiemdia/tags/">Tags</a>
+      <a href="/leiemdia/glossario/">Glossário</a>
+      <a href="/leiemdia/sobre/">Sobre</a>
+      <form class="nav-pesquisa" action="/leiemdia/pesquisa/" method="get" role="search">
+        <input type="search" name="q" placeholder="Pesquisar…" aria-label="Pesquisar no site">
+      </form>
+    </nav>
+  </div>
+</header>
+
+<main class="contentor">
+<h1>Pesquisar</h1>
+<p class="pagina-sub">Todo o arquivo num só sítio: diplomas analisados, tags, setores e
+  glossário. A pesquisa ignora acentos e maiúsculas.</p>
+
+<div class="filtro-linha">
+  <input type="search" id="pesquisa-global" placeholder="ex.: IVA, alojamento local, salário mínimo…"
+         aria-label="Pesquisar em todo o arquivo" autofocus>
+</div>
+
+<div id="pesquisa-atalhos"></div>
+<p class="stats-nota" id="pesquisa-estado">Escreva pelo menos 2 caracteres.</p>
+<div id="pesquisa-resultados" aria-live="polite"></div>
+
+<script type="application/json" id="pesquisa-setores">{"agricultura-e-pescas": "Agricultura e Pescas", "alojamento-local-e-turismo": "Alojamento Local e Turismo", "comercio-e-servicos": "Com\u00e9rcio e Servi\u00e7os", "construcao-e-imobiliario": "Constru\u00e7\u00e3o e Imobili\u00e1rio", "educacao-e-formacao": "Educa\u00e7\u00e3o e Forma\u00e7\u00e3o", "energia-e-ambiente": "Energia e Ambiente", "financeiro-e-seguros": "Financeiro e Seguros", "fiscal-e-contabilidade": "Fiscal e Contabilidade", "justica-e-registos": "Justi\u00e7a e Registos", "restauracao-e-alimentar": "Restaura\u00e7\u00e3o e Alimentar", "saude-e-farmacias": "Sa\u00fade e Farm\u00e1cias", "setor-publico-e-autarquias": "Setor P\u00fablico e Autarquias", "tecnologia-e-dados": "Tecnologia e Dados", "trabalho-e-seguranca-social": "Trabalho e Seguran\u00e7a Social", "transportes-e-logistica": "Transportes e Log\u00edstica"}</script>
+</main>
+
+<footer class="rodape">
+  <div class="contentor">
+    <div class="rodape-avisos">
+      <p>Os resumos são gerados com apoio de IA e podem conter imprecisões.
+         Faz fé exclusivamente o texto publicado no Diário da República.</p>
+      <p>Informação de carácter geral — não constitui aconselhamento jurídico,
+         fiscal ou profissional.</p>
+      <p>Fontes: <a href="https://diariodarepublica.pt" rel="noopener">diariodarepublica.pt</a>
+         e <a href="https://www.base.gov.pt" rel="noopener">base.gov.pt</a>.</p>
+    </div>
+    <nav class="rodape-nav" aria-label="Navegação do rodapé">
+      <a href="/leiemdia/sobre/">Sobre</a>
+      <a href="/leiemdia/legal/">Avisos legais e privacidade</a>
+      <a href="/leiemdia/pro/">Pro</a>
+      <a href="/leiemdia/feed.xml">RSS</a>
+      <a href="mailto:leiemdia.pt@gmail.com">Contacto</a>
+    </nav>
+    <p class="rodape-copy">© 2026 Lei em Dia — O Diário da República em português claro — com prazos e setores.</p>
+  </div>
+</footer>
+<script>
+// Links externos abrem sempre em nova aba (delegação: cobre também os gerados por JS)
+document.addEventListener("click", function (e) {
+  var a = e.target && e.target.closest ? e.target.closest("a[href]") : null;
+  if (a && /^https?:/.test(a.href) && a.host !== location.host) {
+    a.target = "_blank";
+    a.rel = "noopener";
+  }
+}, true);
+</script>
+<script>
+(function () {
+  var inp = document.getElementById("pesquisa-global");
+  var alvoAtalhos = document.getElementById("pesquisa-atalhos");
+  var alvo = document.getElementById("pesquisa-resultados");
+  var estado = document.getElementById("pesquisa-estado");
+  var SETORES = JSON.parse(document.getElementById("pesquisa-setores").textContent);
+  var dados = null, aCarregar = false;
+  var MESES_PT = ["jan", "fev", "mar", "abr", "mai", "jun", "jul", "ago", "set", "out", "nov", "dez"];
+
+  function norm(t) {
+    return (t || "").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+  }
+  function escapar(t) {
+    var el = document.createElement("span"); el.textContent = t || ""; return el.innerHTML;
+  }
+  function dataCurta(iso) {
+    var p = (iso || "").split("-");
+    return p.length === 3 ? parseInt(p[2], 10) + " " + (MESES_PT[parseInt(p[1], 10) - 1] || p[1]) + " " + p[0] : iso;
+  }
+  function resumoDestacado(dip) {
+    var h = escapar(dip.r);
+    (dip.h || []).forEach(function (f) {
+      var ef = escapar(f);
+      h = h.replace(ef, '<strong class="destaque">' + ef + "</strong>");
+    });
+    return h;
+  }
+  function cartao(id, dip) {
+    var urlPag = "/leiemdia/diploma/" + encodeURIComponent(id) + "/";
+    var titulo = escapar(dip.t);
+    var h = '<article class="cartao diploma-cartao"><h3 class="diploma-titulo">'
+          + (dip.p ? '<a href="' + urlPag + '">' + titulo + "</a>" : titulo) + "</h3>";
+    h += '<p class="diploma-meta">';
+    if (dip.sr) h += '<span class="badge badge-serie">Série ' + escapar(dip.sr) + "</span> ";
+    (dip.s || []).forEach(function (sid) {
+      if (SETORES[sid]) {
+        h += '<a class="badge badge-setor" href="/leiemdia/setores/' + sid + '/">' + escapar(SETORES[sid]) + "</a> ";
+      }
+    });
+    h += '<span class="diploma-emissor">' + (dip.e ? escapar(dip.e) + " · " : "") + dataCurta(dip.d) + "</span></p>";
+    if (dip.r) h += '<p class="diploma-resumo">' + resumoDestacado(dip) + "</p>";
+    h += '<p class="diploma-ligacoes">';
+    if (dip.p) h += '<a href="' + urlPag + '">Ler análise</a>';
+    if (dip.u) h += (dip.p ? " · " : "") + '<a href="' + escapar(dip.u) + '" rel="noopener">Ver diploma oficial →</a>';
+    return h + "</p></article>";
+  }
+
+  function garantirIndice(depois) {
+    if (dados) { depois(); return; }
+    if (aCarregar) return;
+    aCarregar = true;
+    estado.textContent = "A carregar o índice…";
+    fetch("/leiemdia/pesquisa/indice.json")
+      .then(function (r) { return r.json(); })
+      .then(function (d) {
+        Object.keys(d.diplomas).forEach(function (id) {
+          var dip = d.diplomas[id];
+          dip.b1 = norm(dip.t + " " + (dip.e || ""));
+          dip.b3 = norm(dip.r);
+        });
+        dados = d; aCarregar = false; depois();
+      })
+      .catch(function () { aCarregar = false; estado.textContent = "Não foi possível carregar o índice."; });
+  }
+
+  function pesquisar() {
+    var termo = norm(inp.value.trim());
+    try { history.replaceState(null, "", termo ? "?q=" + encodeURIComponent(inp.value.trim()) : location.pathname); } catch (e) {}
+    if (termo.length < 2) {
+      estado.textContent = "Escreva pelo menos 2 caracteres.";
+      alvo.innerHTML = ""; alvoAtalhos.innerHTML = "";
+      return;
+    }
+    garantirIndice(function () {
+      // atalhos: tags, setores e glossário cujo nome case com o termo
+      var ha = "";
+      [["tags", "/leiemdia/tags/#", "Tag"], ["setores", "/leiemdia/setores/", "Setor"],
+       ["glossario", "/leiemdia/glossario/#", "Glossário"]].forEach(function (par) {
+        var grupo = dados.atalhos[par[0]] || {};
+        Object.keys(grupo).forEach(function (chave) {
+          if (norm(grupo[chave]).indexOf(termo) !== -1) {
+            ha += '<a class="badge badge-setor" href="' + par[1] + chave
+                + (par[0] === "setores" ? "/" : "") + '">' + par[2] + ": " + escapar(grupo[chave]) + "</a> ";
+          }
+        });
+      });
+      alvoAtalhos.innerHTML = ha ? '<p class="pesquisa-atalhos-linha">' + ha + "</p>" : "";
+
+      var resultados = [];
+      Object.keys(dados.diplomas).forEach(function (id) {
+        var dip = dados.diplomas[id];
+        var score = 0;
+        if (dip.b1.indexOf(termo) !== -1) score += 3;
+        if (dip.b2.indexOf(termo) !== -1) score += 2;
+        if (dip.b3.indexOf(termo) !== -1) score += 1;
+        if (score) resultados.push([score, dip.d, id, dip]);
+      });
+      resultados.sort(function (a, b) { return b[0] - a[0] || (b[1] < a[1] ? -1 : 1); });
+      estado.textContent = resultados.length
+        ? resultados.length + " diploma(s) encontrados"
+          + (resultados.length > 40 ? " — a mostrar os 40 mais relevantes" : "")
+        : "Nada encontrado nos diplomas analisados.";
+      var h = resultados.slice(0, 40).map(function (r) { return cartao(r[2], r[3]); }).join("");
+      h += '<p class="stats-nota">Procura contratos? '
+         + '<a href="/leiemdia/concursos/?q=' + encodeURIComponent(inp.value.trim())
+         + '">Pesquisar «' + escapar(inp.value.trim()) + '» nos concursos públicos →</a></p>';
+      alvo.innerHTML = h;
+    });
+  }
+
+  var tempo = null;
+  inp.addEventListener("input", function () {
+    clearTimeout(tempo); tempo = setTimeout(pesquisar, 200);
+  });
+
+  var q = new URLSearchParams(location.search).get("q");
+  if (q) { inp.value = q; pesquisar(); }
+})();
+</script>
+</body>
+</html>

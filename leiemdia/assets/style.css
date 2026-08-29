@@ -380,3 +380,14 @@ a.badge-setor:hover { background: var(--primario-suave); }
 .paginacao .pg-atual { background: var(--primario); color: var(--fundo); border-color: var(--primario); opacity: 1; }
 .pg-reticencias { color: var(--texto-suave); }
 .paginacao { gap: 0.35rem; }
+
+/* ---------- pesquisa global ---------- */
+.nav-pesquisa { margin: 0; }
+.nav-pesquisa input {
+  background: var(--fundo); color: var(--texto); border: 1px solid var(--borda);
+  border-radius: 999px; padding: 0.25rem 0.8rem; font-size: 0.9rem; width: 9.5rem;
+}
+.nav-pesquisa input:focus { border-color: var(--primario); outline: none; width: 12rem; }
+@media (max-width: 44rem) { .nav-pesquisa { padding: 0.45rem 0.2rem; } .nav-pesquisa input { width: 100%; } }
+#pesquisa-global { min-width: min(28rem, 90vw); font-size: 1.05rem; }
+.pesquisa-atalhos-linha { display: flex; flex-wrap: wrap; gap: 0.35rem; margin: 0.6rem 0; }
