@@ -6,9 +6,22 @@
   <link>https://tessimago.github.io/leiemdia/setores/agricultura-e-pescas/</link>
   <description>Apoios IFAP/PEPAC, regadio, vinha, pescas e aquicultura.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Mon, 31 Aug 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 01 Sep 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/agricultura-e-pescas.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Despacho n.º 10811/2026 — Ambiente e Energia e Agricultura e Mar - Gabinete da Ministra do Ambiente e Energia e…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/despacho-10811-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/despacho-10811-2026/</guid>
+    <pubDate>Tue, 01 Sep 2026 10:00:00 +0000</pubDate>
+    <description>Este despacho estabelece a movimentação de verbas do Fundo Ambiental para o IFAP durante o ano de 2026. Na prática, isto garante que o financiamento para projetos agrícolas e pesqueiros terá fundos disponíveis através deste instituto.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/169000000/0016800170.pdf</description>
+    <category>Agricultura e Pescas</category>
+    <category>Financiamento</category>
+    <category>Fundo Ambiental</category>
+    <category>IFAP</category>
+  </item>
   <item>
     <title>Despacho n.º 10751/2026 — Agricultura e Mar - Gabinete do Secretário de Estado das Florestas Declara a utilidade…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/despacho-10751-2026/</link>
@@ -861,22 +874,6 @@ Diploma oficial: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-le
     <category>São Jorge</category>
     <category>Infraestruturas</category>
     <category>Gestão de Água</category>
-  </item>
-  <item>
-    <title>Declaração de Retificação n.º 30-A/2026/1 — Retifica a Portaria n.º 263/2026/1, de 12 de junho, publicada no Diário da República, 1.ª…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/declaracao-de-retificacao-30-a-2026-1/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/declaracao-de-retificacao-30-a-2026-1/</guid>
-    <pubDate>Tue, 11 Aug 2026 10:00:00 +0000</pubDate>
-    <description>Esta retificação clarifica que as regras da Portaria n.º 263/2026/1 não se aplicam a um grupo específico de trabalhadores e empresas. Estão excluídos do âmbito desta norma os trabalhadores de sindicatos ligados à agricultura, hotelaria e turismo, bem como as empresas associadas à AHRESP, AIHSA e APHORT.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/30-a-2026-1155738224</description>
-    <category>Restauração e Alimentar</category>
-    <category>Alojamento Local e Turismo</category>
-    <category>Agricultura e Pescas</category>
-    <category>Exclusão de Âmbito</category>
-    <category>Hotelaria</category>
-    <category>Turismo</category>
-    <category>AHRESP</category>
   </item>
 </channel>
 </rss>
