@@ -150,7 +150,9 @@ document.addEventListener("click", function (e) {
   dados.vagas.forEach(function (v) { v._t = norm(v.entidade + " " + v.sumario + " " + v.titulo); });
 
   function cartao(v) {
-    var h = '<article class="cartao radar-item"><h3>' + escapar(v.entidade) + "</h3>";
+    var h = '<article class="cartao radar-item"><h3><button type="button" class="entidade-filtro" '
+          + 'data-ent="' + escapar(v.entidade) + '" title="Ver todos os avisos desta entidade">'
+          + escapar(v.entidade) + "</button></h3>";
     h += '<p class="radar-razao"><span class="badge badge-tipo badge-tipo-'
        + (v.estado === "abertura" ? "inicio" : v.estado === "resultados" ? "fim" : "outro")
        + '">' + (ROTULOS[v.estado] || v.estado) + "</span> "
@@ -181,6 +183,15 @@ document.addEventListener("click", function (e) {
   inp.addEventListener("input", function () { clearTimeout(tempo); tempo = setTimeout(atualizar, 150); });
   selC.addEventListener("change", atualizar);
   selE.addEventListener("change", atualizar);
+  // clicar na entidade = seguir o procedimento (todos os avisos dela, todas as fases)
+  alvo.addEventListener("click", function (e) {
+    var b = e.target.closest ? e.target.closest(".entidade-filtro") : null;
+    if (!b) return;
+    inp.value = b.getAttribute("data-ent");
+    selE.value = "";
+    atualizar();
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  });
   atualizar();
 })();
 </script>
