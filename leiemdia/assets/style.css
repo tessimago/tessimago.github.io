@@ -405,3 +405,5 @@ a.badge-setor:hover { background: var(--primario-suave); }
 .entidade-filtro:hover { color: var(--primario); border-bottom-color: var(--primario); }
 .adj-ganho { color: var(--verde); font-weight: 600; display: block; }
 .concurso-adj { min-width: 10rem; }
+.cadeia { font-size: 0.88rem; color: var(--texto-suave); margin: 0.3rem 0; }
+.numero-filtro { background: none; border: none; padding: 0; font: inherit; color: var(--primario); cursor: pointer; border-bottom: 1px dotted var(--primario); }
