@@ -54,8 +54,9 @@
     <li><strong>Abertura</strong> — há candidaturas a decorrer (ou prestes): é o que interessa
       a quem procura vaga. Confirme o prazo no aviso oficial.</li>
     <li><strong>Em tramitação</strong> — passos intermédios (júris, atas, notificações).</li>
-    <li><strong>Resultados</strong> — listas de classificação, homologações e exclusões de
-      concursos já a decorrer.</li>
+    <li><strong>Resultados</strong> — listas de classificação, homologações e exclusões.
+      Os nomes dos candidatos ordenados constam do aviso oficial (PDF) ou da página da
+      entidade — por respeito à privacidade dos candidatos, não os republicamos aqui.</li>
   </ul>
 </details>
 
@@ -161,8 +162,13 @@ document.addEventListener("click", function (e) {
          }).join("")
        + " · " + dataCurta(v.dia) + "</p>";
     h += "<p>" + escapar(v.sumario.slice(0, 300)) + (v.sumario.length > 300 ? "…" : "") + "</p>";
-    if (v.link_pdf) h += '<p class="diploma-ligacoes"><a href="' + escapar(v.link_pdf)
-        + '" rel="noopener">Ver aviso oficial (PDF, com prazos e requisitos) →</a></p>';
+    if (v.link_pdf) {
+      var rotuloPdf = v.estado === "resultados"
+        ? "Ver aviso oficial (a lista homologada está no PDF ou na página da entidade) →"
+        : "Ver aviso oficial (PDF, com prazos e requisitos) →";
+      h += '<p class="diploma-ligacoes"><a href="' + escapar(v.link_pdf)
+        + '" rel="noopener">' + rotuloPdf + "</a></p>";
+    }
     return h + "</article>";
   }
 
