@@ -4,10 +4,10 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Concursos públicos — Lei em Dia</title>
-<meta name="description" content="Concursos públicos do portal BASE.gov desde 2 de janeiro de 2026: preço base, prazo de propostas, filtros por setor, período e pesquisa.">
+<meta name="description" content="Concursos públicos do portal BASE.gov desde 16 de dezembro de 2025: preço base, prazo de propostas, filtros por setor, período e pesquisa.">
 <link rel="canonical" href="https://tessimago.github.io/leiemdia/concursos/">
 <meta property="og:title" content="Concursos públicos — Lei em Dia">
-<meta property="og:description" content="Concursos públicos do portal BASE.gov desde 2 de janeiro de 2026: preço base, prazo de propostas, filtros por setor, período e pesquisa.">
+<meta property="og:description" content="Concursos públicos do portal BASE.gov desde 16 de dezembro de 2025: preço base, prazo de propostas, filtros por setor, período e pesquisa.">
 <meta property="og:url" content="https://tessimago.github.io/leiemdia/concursos/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Lei em Dia">
@@ -90,9 +90,9 @@
     <option value="14" selected>Últimos 14 dias</option>
     <option value="60">Últimos 60 dias</option>
     <option value="desde">Desde uma data…</option>
-    <option value="tudo">Tudo o que temos (desde 2 jan 2026)</option>
+    <option value="tudo">Tudo o que temos (desde 16 dez 2025)</option>
   </select>
-  <input type="date" id="filtro-desde" min="2026-01-02" max="2026-09-02"
+  <input type="date" id="filtro-desde" min="2025-12-16" max="2026-09-02"
          value="2026-08-19" aria-label="Mostrar concursos desde esta data" hidden>
   <label for="filtro-setor">Setor</label>
   <select id="filtro-setor">
@@ -87229,8 +87229,8 @@ document.addEventListener("click", function (e) {
   if (!selSetor || !selDias) return;
   var HOJE = "2026-09-02";
   var LIM_EMBED = "2026-07-06";      // dias mais antigos já embutidos na página
-  var DATA_MIN = "2026-01-02";        // dia mais antigo em todo o arquivo
-  var MESES_ANTIGOS = ["2026-07", "2026-06", "2026-05", "2026-04", "2026-03", "2026-02", "2026-01"];
+  var DATA_MIN = "2025-12-16";        // dia mais antigo em todo o arquivo
+  var MESES_ANTIGOS = ["2026-07", "2026-06", "2026-05", "2026-04", "2026-03", "2026-02", "2026-01", "2025-12"];
   var SETORES_NOMES = {"agricultura-e-pescas": "Agricultura e Pescas", "alojamento-local-e-turismo": "Alojamento Local e Turismo", "comercio-e-servicos": "Com\u00e9rcio e Servi\u00e7os", "construcao-e-imobiliario": "Constru\u00e7\u00e3o e Imobili\u00e1rio", "educacao-e-formacao": "Educa\u00e7\u00e3o e Forma\u00e7\u00e3o", "energia-e-ambiente": "Energia e Ambiente", "financeiro-e-seguros": "Financeiro e Seguros", "fiscal-e-contabilidade": "Fiscal e Contabilidade", "justica-e-registos": "Justi\u00e7a e Registos", "restauracao-e-alimentar": "Restaura\u00e7\u00e3o e Alimentar", "saude-e-farmacias": "Sa\u00fade e Farm\u00e1cias", "setor-publico-e-autarquias": "Setor P\u00fablico e Autarquias", "tecnologia-e-dados": "Tecnologia e Dados", "trabalho-e-seguranca-social": "Trabalho e Seguran\u00e7a Social", "transportes-e-logistica": "Transportes e Log\u00edstica"};
   var MESES_PT = ["jan", "fev", "mar", "abr", "mai", "jun", "jul", "ago", "set", "out", "nov", "dez"];
   var mesesCarregados = {};

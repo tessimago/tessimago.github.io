@@ -6,9 +6,23 @@
   <link>https://tessimago.github.io/leiemdia/setores/transportes-e-logistica/</link>
   <description>Transporte rodoviário, TVDE, mercadorias, IMT, portos.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Tue, 01 Sep 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 02 Sep 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/transportes-e-logistica.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Aviso n.º 21683/2026/2 — Autoridade da Mobilidade e dos Transportes Aberto o período de consulta pública do…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/aviso-21683-2026-2/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-21683-2026-2/</guid>
+    <pubDate>Wed, 02 Sep 2026 10:00:00 +0000</pubDate>
+    <description>A Autoridade da Mobilidade e dos Transportes abriu uma consulta pública para discutir as novas regras de competências sobre a mobilidade elétrica. Este projeto de regulamento poderá definir como serão geridas as infraestruturas e serviços de carregamento no futuro.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/170000000/0018600186.pdf</description>
+    <category>Transportes e Logística</category>
+    <category>Energia e Ambiente</category>
+    <category>Mobilidade Elétrica</category>
+    <category>Consulta Pública</category>
+    <category>Regulação</category>
+  </item>
   <item>
     <title>Decreto-Lei n.º 173/2026 — Assegura a execução, na ordem jurídica interna, das obrigações decorrentes de vários…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-173-2026/</link>
@@ -231,21 +245,6 @@ Diploma oficial: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-le
     <category>Logística</category>
     <category>Açores</category>
     <category>Ilha das Flores</category>
-  </item>
-  <item>
-    <title>Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 29/2026/A — Recomenda ao Governo da República que diligencie pelo reforço dos meios operacionais…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/resolucao-da-assembleia-legislativa-da-regiao-autonoma-dos-acores-29-2026-a/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/resolucao-da-assembleia-legislativa-da-regiao-autonoma-dos-acores-29-2026-a/</guid>
-    <pubDate>Wed, 12 Aug 2026 10:00:00 +0000</pubDate>
-    <description>Esta resolução é uma recomendação política que visa pressionar o Governo da República a reforçar os meios de combate à poluição marítima nos Açores. Na prática, o objetivo é garantir que a região tenha maior capacidade de resposta a incidentes ambientais no mar, através de uma melhor coordenação com a Agência Europeia da Segurança Marítima.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/29-2026-1155188974</description>
-    <category>Energia e Ambiente</category>
-    <category>Transportes e Logística</category>
-    <category>Poluição Marítima</category>
-    <category>Segurança Marítima</category>
-    <category>Açores</category>
-    <category>Ambiente</category>
   </item>
 </channel>
 </rss>
