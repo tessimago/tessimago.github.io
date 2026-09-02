@@ -391,3 +391,13 @@ a.badge-setor:hover { background: var(--primario-suave); }
 @media (max-width: 44rem) { .nav-pesquisa { padding: 0.45rem 0.2rem; } .nav-pesquisa input { width: 100%; } }
 #pesquisa-global { min-width: min(28rem, 90vw); font-size: 1.05rem; }
 .pesquisa-atalhos-linha { display: flex; flex-wrap: wrap; gap: 0.35rem; margin: 0.6rem 0; }
+
+/* ---------- relações entre diplomas ---------- */
+.callout-relacoes {
+  background: var(--acento-fundo); border: 1px solid var(--acento);
+  border-left: 4px solid var(--acento); border-radius: 0.55rem;
+  padding: 0.8rem 1.1rem; margin: 0.9rem 0;
+}
+.callout-relacoes ul { margin: 0.4rem 0; padding-left: 1.2rem; }
+.rel-verbo { font-weight: 700; color: var(--acento); }
+.rel-verbo.rel-revogado { color: var(--perigo); }
