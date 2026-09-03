@@ -6,9 +6,22 @@
   <link>https://tessimago.github.io/leiemdia/setores/setor-publico-e-autarquias/</link>
   <description>Administração pública, municípios, contratação pública, função pública.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Mon, 31 Aug 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 03 Sep 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/setor-publico-e-autarquias.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Decreto-Lei n.º 174/2026 — Altera o Decreto-Lei n.º 79/2023, de 4 de setembro, que cria a Museus e Monumentos de…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-174-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-lei-174-2026/</guid>
+    <pubDate>Thu, 03 Sep 2026 10:00:00 +0000</pubDate>
+    <description>Os trabalhadores da Museus e Monumentos de Portugal que trabalham em dias de feriado passam a receber um valor extra de 60 euros por cada dia trabalhado. Este pagamento é um complemento de disponibilidade e não substitui o que já é pago por lei para o trabalho em feriados.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2026-1166155907</description>
+    <category>Setor Público e Autarquias</category>
+    <category>Administração Pública</category>
+    <category>Remunerações</category>
+    <category>Trabalho em Feriados</category>
+  </item>
   <item>
     <title>Resolução do Conselho de Ministros n.º 176/2026 — Altera a Resolução do Conselho de Ministros n.º 74/2026, de 24 de abril, que autoriza o…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-176-2026/</link>
@@ -274,34 +287,6 @@ Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/345-b-2026-115
     <category>Prevenção da Corrupção</category>
     <category>Conflitos de Interesses</category>
     <category>Administração Pública</category>
-  </item>
-  <item>
-    <title>Decreto-Lei n.º 165/2026 — Altera o Decreto-Lei n.º 5/2023, de 25 de janeiro, e o Decreto-Lei n.º 20-A/2023, de 22…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-165-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-lei-165-2026/</guid>
-    <pubDate>Thu, 13 Aug 2026 10:00:00 +0000</pubDate>
-    <description>Este diploma facilita a utilização de fundos europeus do Portugal 2030, simplificando processos de aprovação e permitindo que projetos públicos ou do setor social que perderam financiamento do PRR possam ser integrados em novos programas. O objetivo é evitar o desperdício de investimentos e garantir que o dinheiro europeu seja aplicado apesar dos atrasos e custos crescentes.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2026-1156670555</description>
-    <category>Setor Público e Autarquias</category>
-    <category>Fundos Europeus</category>
-    <category>Portugal 2030</category>
-    <category>PRR</category>
-    <category>Financiamento Público</category>
-  </item>
-  <item>
-    <title>Resolução do Conselho de Ministros n.º 167/2026 — Regulamenta a Lei n.º 5-A/2026, de 28 de janeiro, relativamente às regras de…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-167-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-167-2026/</guid>
-    <pubDate>Thu, 13 Aug 2026 10:00:00 +0000</pubDate>
-    <description>As empresas ou entidades que tentam influenciar decisões do Governo (lobbies) passam a ter regras de transparência muito mais rigorosas. Agora, para conseguir uma reunião com um Ministro ou Gabinete, é obrigatório estar inscrito num registo oficial e declarar previamente quem representa e o que pretende discutir.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/167-2026-1156670557</description>
-    <category>Setor Público e Autarquias</category>
-    <category>Justiça e Registos</category>
-    <category>Transparência</category>
-    <category>Lobbying</category>
-    <category>Registo de Interesses</category>
   </item>
 </channel>
 </rss>
