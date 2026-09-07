@@ -6,9 +6,37 @@
   <link>https://tessimago.github.io/leiemdia/setores/restauracao-e-alimentar/</link>
   <description>HORECA, segurança alimentar, ASAE, licenciamento de estabelecimentos.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Wed, 26 Aug 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 07 Sep 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/restauracao-e-alimentar.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Portaria n.º 408/2026/1 — Portaria de extensão das alterações do contrato coletivo entre a Associação dos…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/portaria-408-2026-1/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/portaria-408-2026-1/</guid>
+    <pubDate>Mon, 07 Sep 2026 10:00:00 +0000</pubDate>
+    <description>As novas regras do contrato coletivo de trabalho passam a ser obrigatórias para os empregadores do setor do comércio de carnes nos distritos de Lisboa e Setúbal e em certas zonas do interior. Esta extensão implica um aumento na massa salarial para a maioria dos trabalhadores abrangidos, visando uniformizar as condições de trabalho.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/408-2026-1167595465</description>
+    <category>Restauração e Alimentar</category>
+    <category>Comércio e Serviços</category>
+    <category>Contrato Coletivo de Trabalho</category>
+    <category>Salários</category>
+    <category>Comércio de Carnes</category>
+  </item>
+  <item>
+    <title>Portaria n.º 410/2026/1 — Portaria de extensão das alterações do contrato coletivo entre a Associação Nacional de…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/portaria-410-2026-1/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/portaria-410-2026-1/</guid>
+    <pubDate>Mon, 07 Sep 2026 10:00:00 +0000</pubDate>
+    <description>As novas regras de trabalho para o setor da confeitaria e conservação de fruta passam a aplicar-se também a empresas que não pertencem à associação patronal original. Esta extensão obriga ao cumprimento das novas condições salariais e de trabalho para os trabalhadores administrativos deste setor em Portugal continental.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/410-2026-1167595467</description>
+    <category>Trabalho e Segurança Social</category>
+    <category>Restauração e Alimentar</category>
+    <category>Contrato Coletivo de Trabalho</category>
+    <category>Salários</category>
+    <category>Extensão de Convenção</category>
+  </item>
   <item>
     <title>Portaria n.º 386/2026/1 — Portaria de extensão do contrato coletivo entre a Associação Nacional de Comerciantes e…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/portaria-386-2026-1/</link>
@@ -81,22 +109,6 @@ Diploma oficial: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-mini
     <category>Refeições</category>
     <category>IEFP</category>
     <category>Concurso Público</category>
-  </item>
-  <item>
-    <title>Decreto Legislativo Regional n.º 14/2026/A — Cria mecanismos de promoção e utilização obrigatória de sal iodado na Região Autónoma dos…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/decreto-legislativo-regional-14-2026-a/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-legislativo-regional-14-2026-a/</guid>
-    <pubDate>Mon, 17 Aug 2026 10:00:00 +0000</pubDate>
-    <description>Torna-se obrigatório o uso de sal iodado na preparação de refeições em todas as entidades da administração pública regional dos Açores e em escolas (creches ao ensino secundário). Esta regra aplica-se mesmo que o serviço de restauração seja subcontratado a empresas externas.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2026-1159105703</description>
-    <category>Setor Público e Autarquias</category>
-    <category>Restauração e Alimentar</category>
-    <category>Educação e Formação</category>
-    <category>Saúde Pública</category>
-    <category>Açores</category>
-    <category>Segurança Alimentar</category>
-    <category>Contratação Pública</category>
   </item>
 </channel>
 </rss>

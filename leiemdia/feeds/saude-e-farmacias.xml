@@ -6,9 +6,50 @@
   <link>https://tessimago.github.io/leiemdia/setores/saude-e-farmacias/</link>
   <description>Farmácias, dispositivos, Infarmed, convenções, profissões de saúde.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Wed, 26 Aug 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 07 Sep 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/saude-e-farmacias.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Portaria n.º 413/2026/1 — Portaria de extensão das alterações do contrato coletivo entre a Associação Portuguesa da…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/portaria-413-2026-1/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/portaria-413-2026-1/</guid>
+    <pubDate>Mon, 07 Sep 2026 10:00:00 +0000</pubDate>
+    <description>As novas regras do contrato coletivo da indústria farmacêutica passam a ser obrigatórias para todas as empresas do setor em Portugal continental, mesmo que não estejam associadas à APIFARMA. Esta extensão visa uniformizar os salários e as condições de trabalho para os trabalhadores abrangidos.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/413-2026-1167595470</description>
+    <category>Saúde e Farmácias</category>
+    <category>Contrato Coletivo de Trabalho</category>
+    <category>Indústria Farmacêutica</category>
+    <category>Salários</category>
+  </item>
+  <item>
+    <title>Portaria n.º 415/2026/1 — Portaria de extensão das alterações do contrato coletivo entre a GROQUIFAR ― Associação…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/portaria-415-2026-1/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/portaria-415-2026-1/</guid>
+    <pubDate>Mon, 07 Sep 2026 10:00:00 +0000</pubDate>
+    <description>As novas regras de trabalho para o comércio por grosso de produtos farmacêuticos e veterinários passam a ser obrigatórias para todas as empresas do setor em Portugal continental. Esta medida estende as alterações do contrato coletivo, o que pode implicar um aumento salarial para os trabalhadores abrangidos.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/415-2026-1167595472</description>
+    <category>Saúde e Farmácias</category>
+    <category>Comércio e Serviços</category>
+    <category>Contrato Coletivo de Trabalho</category>
+    <category>Produtos Farmacêuticos</category>
+    <category>Salários</category>
+  </item>
+  <item>
+    <title>Decreto Regulamentar Regional n.º 20/2026/A — Regulamenta a atribuição de material clínico e de apoios específicos na prestação de…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/decreto-regulamentar-regional-20-2026-a/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-regulamentar-regional-20-2026-a/</guid>
+    <pubDate>Mon, 07 Sep 2026 10:00:00 +0000</pubDate>
+    <description>Este regulamento define como os doentes com a doença de Machado-Joseph nos Açores podem receber material clínico e apoios específicos. O objetivo é facilitar o acesso a equipamentos de mobilidade, higiene e conforto, garantindo maior autonomia aos beneficiários.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2026-1167773580</description>
+    <category>Saúde e Farmácias</category>
+    <category>Apoio Social</category>
+    <category>Saúde</category>
+    <category>Açores</category>
+    <category>Doença de Machado-Joseph</category>
+  </item>
   <item>
     <title>Portaria n.º 379/2026/2 — Finanças e Saúde - Gabinete do Secretário de Estado Adjunto e do Orçamento e Gabinete do…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/portaria-379-2026-2/</link>
@@ -90,21 +131,6 @@ Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2026-11
     <category>Saúde</category>
     <category>Medicamentos Genéricos</category>
     <category>Complemento Solidário para Idosos</category>
-  </item>
-  <item>
-    <title>Decreto-Lei n.º 168/2026 — Clarifica o regime excecional de recompensa do desempenho mediante atribuição de um…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-168-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-lei-168-2026/</guid>
-    <pubDate>Mon, 17 Aug 2026 10:00:00 +0000</pubDate>
-    <description>Este diploma clarifica as regras para o pagamento de um incentivo extra aos médicos do SNS que trabalham além do limite legal de horas suplementares. Inclui agora explicitamente os médicos do INEM e garante o pagamento do incentivo mesmo quando as horas planeadas não chegam a ser efetivamente realizadas por razões de organização do serviço.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-2026-1159105699</description>
-    <category>Saúde e Farmácias</category>
-    <category>Trabalho e Segurança Social</category>
-    <category>SNS</category>
-    <category>Remuneração</category>
-    <category>Médicos</category>
-    <category>Trabalho Suplementar</category>
   </item>
 </channel>
 </rss>

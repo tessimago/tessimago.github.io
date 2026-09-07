@@ -6,9 +6,24 @@
   <link>https://tessimago.github.io/leiemdia/setores/tecnologia-e-dados/</link>
   <description>Digital, RGPD/dados pessoais, cibersegurança, telecomunicações, IA.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Fri, 28 Aug 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 04 Sep 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/tecnologia-e-dados.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Decreto-Lei n.º 177/2026 — Altera o Código dos Contratos Públicos, aprovado em anexo ao Decreto-Lei n.º 18/2008, de…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-177-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-lei-177-2026/</guid>
+    <pubDate>Fri, 04 Sep 2026 10:00:00 +0000</pubDate>
+    <description>As regras para vender ao Estado tornam-se mais simples e rápidas, com menos burocracia na entrega de documentos e novos limites para contratações diretas. As empresas agora podem apresentar ideias e projetos de forma espontânea para tentar ganhar contratos públicos.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2026-1166969779</description>
+    <category>Comércio e Serviços</category>
+    <category>Tecnologia e Dados</category>
+    <category>Construção e Imobiliário</category>
+    <category>Contratação Pública</category>
+    <category>Simplificação Administrativa</category>
+    <category>Inovação</category>
+  </item>
   <item>
     <title>Resolução do Conselho de Ministros n.º 175/2026 — Cria a Estrutura de Missão denominada Estrutura Nacional SAFE.</title>
     <link>https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-175-2026/</link>
@@ -98,21 +113,6 @@ Diploma oficial: https://diariodarepublica.pt/dr/detalhe/lei/55-2026-1160472900<
     <category>Serviços Digitais</category>
     <category>Cooperação Judiciária</category>
     <category>Cibercrime</category>
-  </item>
-  <item>
-    <title>Decreto Legislativo Regional n.º 16/2026/A — Cria o Sistema Regional de Acompanhamento de Processos Administrativos.</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/decreto-legislativo-regional-16-2026-a/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-legislativo-regional-16-2026-a/</guid>
-    <pubDate>Mon, 17 Aug 2026 10:00:00 +0000</pubDate>
-    <description>A Administração Pública dos Açores passa a utilizar uma plataforma digital única para que empresas e cidadãos possam acompanhar, em tempo real, o estado de qualquer processo ou pedido submetido. Isto significa que deixará de haver incerteza sobre onde está parado um requerimento, pois terá acesso ao histórico de decisões e ao responsável pela gestão do processo através de um código único.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2026-1159105705</description>
-    <category>Setor Público e Autarquias</category>
-    <category>Tecnologia e Dados</category>
-    <category>Administração Pública</category>
-    <category>Transformação Digital</category>
-    <category>Açores</category>
-    <category>Transparência</category>
   </item>
 </channel>
 </rss>
