@@ -6,9 +6,22 @@
   <link>https://tessimago.github.io/leiemdia/setores/educacao-e-formacao/</link>
   <description>Escolas, ensino superior, formação profissional, creches.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Thu, 03 Sep 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 10 Sep 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/educacao-e-formacao.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Portaria n.º 428/2026/1 — Cria a Academia de Desenvolvimento Juvenil, aprova o respetivo Regulamento e revoga a…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/portaria-428-2026-1/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/portaria-428-2026-1/</guid>
+    <pubDate>Thu, 10 Sep 2026 10:00:00 +0000</pubDate>
+    <description>O IPDJ cria a Academia de Desenvolvimento Juvenil, que unifica programas de formação anteriores numa única oferta. Associações de jovens inscritas no RNAJ podem agora aceder a apoio financeiro para os seus próprios planos de formação.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/428-2026-1168979173</description>
+    <category>Educação e Formação</category>
+    <category>Formação</category>
+    <category>Juventude</category>
+    <category>Associações</category>
+  </item>
   <item>
     <title>Decreto-Lei n.º 176/2026 — Altera o Decreto-Lei n.º 95/2025, de 14 de agosto, alargando aos alunos do 3.º ciclo do…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-176-2026/</link>
@@ -50,22 +63,6 @@ Diploma oficial: https://diariodarepublica.pt/dr/detalhe/lei/57-2026-1161149390<
     <category>Saúde Materna</category>
     <category>Ética Clínica</category>
     <category>Registo Clínico</category>
-  </item>
-  <item>
-    <title>Resolução do Conselho de Ministros n.º 169/2026 — Autoriza a Universidade de Coimbra a assumir a realização da despesa decorrente da…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-169-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-169-2026/</guid>
-    <pubDate>Wed, 19 Aug 2026 10:00:00 +0000</pubDate>
-    <description>O Governo autorizou um aumento de custos e a prorrogação do prazo para a obra de adaptação do edifício «Luís de Camões» da Universidade de Coimbra em residência estudantil. Esta decisão deve-se a imprevistos na obra e ao impacto de condições climatéricas adversas, elevando o orçamento total para cerca de 11,3 milhões de euros.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/169-2026-1160130313</description>
-    <category>Construção e Imobiliário</category>
-    <category>Setor Público e Autarquias</category>
-    <category>Educação e Formação</category>
-    <category>Obra Pública</category>
-    <category>PRR</category>
-    <category>Ajuste de Verba</category>
-    <category>Construção Civil</category>
   </item>
 </channel>
 </rss>

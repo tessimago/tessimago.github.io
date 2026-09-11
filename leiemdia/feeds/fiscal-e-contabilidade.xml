@@ -6,9 +6,24 @@
   <link>https://tessimago.github.io/leiemdia/setores/fiscal-e-contabilidade/</link>
   <description>Impostos, obrigações declarativas, faturação, benefícios fiscais.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Fri, 04 Sep 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 09 Sep 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/fiscal-e-contabilidade.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Decreto-Lei n.º 180/2026 — Altera o Decreto-Lei n.º 127/2012, de 21 de junho, atualizando-o face à Lei n.º 24/2026…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-180-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-lei-180-2026/</guid>
+    <pubDate>Wed, 09 Sep 2026 10:00:00 +0000</pubDate>
+    <description>Este diploma atualiza as regras para o pagamento de faturas por parte das entidades públicas, tornando o cálculo dos fundos disponíveis mais dependente da receita real e do cumprimento de metas. Para as empresas, reforça o direito ao recebimento de juros de mora automáticos quando os pagamentos ultrapassam os prazos legais.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-2026-1168451281</description>
+    <category>Comércio e Serviços</category>
+    <category>Fiscal e Contabilidade</category>
+    <category>Setor Público e Autarquias</category>
+    <category>Pagamentos em atraso</category>
+    <category>Entidades Públicas</category>
+    <category>Juros de mora</category>
+  </item>
   <item>
     <title>Portaria n.º 404-A/2026/1 — Procede à revisão e fixação das taxas unitárias do imposto sobre os produtos petrolíferos…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/portaria-404-a-2026-1/</link>
@@ -38,37 +53,6 @@ Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/376-2026-11618
     <category>Farmácias</category>
     <category>IVA</category>
     <category>Remuneração</category>
-  </item>
-  <item>
-    <title>Decreto-Lei n.º 170/2026 — No uso da autorização concedida pela Lei n.º 13/2026, de 16 de abril, altera o Código…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-170-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-lei-170-2026/</guid>
-    <pubDate>Fri, 21 Aug 2026 10:00:00 +0000</pubDate>
-    <description>O regime de incentivos fiscais à investigação e desenvolvimento (SIFIDE II) foi alargado para o ano de 2026, mas acaba a possibilidade de obter este benefício através de investimentos em fundos de investimento (SIFIDE indireto). O foco passa a ser o investimento direto em I&amp;D, embora se permita que os fundos já existentes utilizem parte do capital para inovação produtiva.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2026-1160679204</description>
-    <category>Fiscal e Contabilidade</category>
-    <category>Tecnologia e Dados</category>
-    <category>Financeiro e Seguros</category>
-    <category>SIFIDE II</category>
-    <category>IRC</category>
-    <category>Incentivos Fiscais</category>
-    <category>Investimento em I&amp;D</category>
-  </item>
-  <item>
-    <title>Portaria n.º 372-A/2026/1 — Procede à revisão e fixação das taxas unitárias do imposto sobre os produtos petrolíferos…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/portaria-372-a-2026-1/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/portaria-372-a-2026-1/</guid>
-    <pubDate>Fri, 21 Aug 2026 10:00:00 +0000</pubDate>
-    <description>O Governo procedeu ao ajuste do desconto extraordinário no imposto sobre os combustíveis (ISP) devido à instabilidade no preço do petróleo. Na prática, as taxas de gasolina e gasóleo foram alteradas para refletir um novo equilíbrio no preço final à bomba.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/372-a-2026-1160679270</description>
-    <category>Transportes e Logística</category>
-    <category>Fiscal e Contabilidade</category>
-    <category>Energia e Ambiente</category>
-    <category>ISP</category>
-    <category>Combustíveis</category>
-    <category>Impostos Especiais de Consumo</category>
   </item>
 </channel>
 </rss>

@@ -6,9 +6,23 @@
   <link>https://tessimago.github.io/leiemdia/setores/saude-e-farmacias/</link>
   <description>Farmácias, dispositivos, Infarmed, convenções, profissões de saúde.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Mon, 07 Sep 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 08 Sep 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/saude-e-farmacias.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Declaração de Retificação n.º 31/2026/1 — Retifica a Resolução do Conselho de Ministros n.º 145/2026, de 14 de julho, que autoriza…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/declaracao-de-retificacao-31-2026-1/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/declaracao-de-retificacao-31-2026-1/</guid>
+    <pubDate>Tue, 08 Sep 2026 10:00:00 +0000</pubDate>
+    <description>A medida de apoio através dos cheques de psicologia e nutrição passa a abranger um grupo mais alargado de beneficiários. O limite de idade foi alargado, passando a incluir jovens até aos 35 anos de idade.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/31-2026-1167945127</description>
+    <category>Saúde e Farmácias</category>
+    <category>Cheque Cuida-te</category>
+    <category>Saúde</category>
+    <category>Psicologia</category>
+    <category>Nutrição</category>
+  </item>
   <item>
     <title>Portaria n.º 413/2026/1 — Portaria de extensão das alterações do contrato coletivo entre a Associação Portuguesa da…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/portaria-413-2026-1/</link>
@@ -118,19 +132,6 @@ Diploma oficial: https://diariodarepublica.pt/dr/detalhe/lei/57-2026-1161149390<
     <category>Saúde Materna</category>
     <category>Ética Clínica</category>
     <category>Registo Clínico</category>
-  </item>
-  <item>
-    <title>Decreto-Lei n.º 169/2026 — Altera o Decreto-Lei n.º 252/2007, de 5 de julho, que cria um regime de benefícios…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-169-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-lei-169-2026/</guid>
-    <pubDate>Tue, 18 Aug 2026 10:00:00 +0000</pubDate>
-    <description>O novo regime reforça a gratuitidade de medicamentos para os beneficiários do complemento solidário para idosos, mas foca agora na utilização de genéricos e biossimilares. O objetivo é evitar o desperdício de recursos públicos, garantindo que o Estado cobre o preço de referência ou o preço de venda mais baixo.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2026-1159106557</description>
-    <category>Saúde e Farmácias</category>
-    <category>Saúde</category>
-    <category>Medicamentos Genéricos</category>
-    <category>Complemento Solidário para Idosos</category>
   </item>
 </channel>
 </rss>

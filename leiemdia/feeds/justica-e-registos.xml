@@ -6,9 +6,24 @@
   <link>https://tessimago.github.io/leiemdia/setores/justica-e-registos/</link>
   <description>Tribunais, registos e notariado, insolvência, custas.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Wed, 26 Aug 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 10 Sep 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/justica-e-registos.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Lei n.º 62/2026 — Assegura a execução dos Regulamentos (UE) 2024/1349, 2024/1356, 2024/1347, 2024/1348…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/lei-62-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/lei-62-2026/</guid>
+    <pubDate>Thu, 10 Sep 2026 10:00:00 +0000</pubDate>
+    <description>Esta lei atualiza as regras de entrada e permanência de estrangeiros em Portugal, adaptando a legislação nacional às novas normas da União Europeia. Introduz novos procedimentos para o pedido de autorização de residência e trabalho, além de definir novas condições para o acolhimento de pessoas em centros de instalação temporária.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/lei/62-2026-1168979170</description>
+    <category>Trabalho e Segurança Social</category>
+    <category>Justiça e Registos</category>
+    <category>Estrangeiros</category>
+    <category>Imigração</category>
+    <category>Autorização de Residência</category>
+    <category>Direito do Trabalho</category>
+  </item>
   <item>
     <title>Lei n.º 60/2026 — Alteração dos limites territoriais entre as freguesias de Galegos, Rans, Irivo, Guilhufe…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/lei-60-2026/</link>
@@ -22,49 +37,6 @@ Diploma oficial: https://diariodarepublica.pt/dr/detalhe/lei/60-2026-1161839913<
     <category>Limites Territoriais</category>
     <category>Penafiel</category>
     <category>Freguesias</category>
-  </item>
-  <item>
-    <title>Lei n.º 55/2026 — Transpõe a Diretiva (UE) 2023/1544 e estabelece o regime sancionatório aplicável às…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/lei-55-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/lei-55-2026/</guid>
-    <pubDate>Thu, 20 Aug 2026 10:00:00 +0000</pubDate>
-    <description>Empresas que prestam serviços digitais, de comunicações ou de registo de domínios que operam na União Europeia podem passar a ter de designar um representante legal ou um estabelecimento em Portugal para responder a ordens judiciais europeias. A lei define as regras para a entrega de provas eletrónicas e estabelece sanções para o incumprimento destas obrigações de cooperação em processos criminais.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/lei/55-2026-1160472900</description>
-    <category>Tecnologia e Dados</category>
-    <category>Justiça e Registos</category>
-    <category>Prova Eletrónica</category>
-    <category>Serviços Digitais</category>
-    <category>Cooperação Judiciária</category>
-    <category>Cibercrime</category>
-  </item>
-  <item>
-    <title>Lei n.º 53/2026 — Transpõe a Diretiva (UE) 2024/1712, relativa à prevenção e luta contra o tráfico de seres…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/lei-53-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/lei-53-2026/</guid>
-    <pubDate>Wed, 19 Aug 2026 10:00:00 +0000</pubDate>
-    <description>Esta lei reforça a estrutura de combate ao tráfico de seres humanos em Portugal, criando uma nova figura de coordenação nacional e melhorando o apoio às vítimas. Para as empresas, o foco recai na necessidade de maior vigilância e na importância da formação de profissionais que possam identificar situações de risco.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/lei/53-2026-1160130310</description>
-    <category>Justiça e Registos</category>
-    <category>Setor Público e Autarquias</category>
-    <category>Direitos Humanos</category>
-    <category>Segurança</category>
-    <category>Direito Penal</category>
-  </item>
-  <item>
-    <title>Aviso n.º 78/2026/1 — O Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter a…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/aviso-78-2026-1/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-78-2026-1/</guid>
-    <pubDate>Wed, 19 Aug 2026 10:00:00 +0000</pubDate>
-    <description>A adesão de Singapura à Convenção de Haia facilita o envio de notificações e citações judiciais entre Portugal e este país. Na prática, isto torna os processos de comunicação de atos judiciais em matéria civil e comercial mais rápidos e previsíveis para empresas que operam com parceiros singapurenses.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/aviso/78-2026-1160130315</description>
-    <category>Justiça e Registos</category>
-    <category>Direito Internacional</category>
-    <category>Citação Judicial</category>
-    <category>Singapura</category>
-    <category>Convenção de Haia</category>
   </item>
 </channel>
 </rss>
