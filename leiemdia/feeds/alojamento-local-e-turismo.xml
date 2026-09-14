@@ -6,9 +6,36 @@
   <link>https://tessimago.github.io/leiemdia/setores/alojamento-local-e-turismo/</link>
   <description>AL, empreendimentos turísticos, animação turística, Turismo de Portugal.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Fri, 28 Aug 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 14 Sep 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/alojamento-local-e-turismo.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Aviso n.º 22639/2026/2 — Município de Baião Submete a consulta pública o projeto do Regulamento da Taxa Municipal…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/aviso-22639-2026-2/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-22639-2026-2/</guid>
+    <pubDate>Mon, 14 Sep 2026 10:00:00 +0000</pubDate>
+    <description>O Município de Baião abriu uma consulta pública para discutir a criação de uma nova taxa turística no concelho. Se aprovado, este regulamento poderá trazer novos custos e obrigações de cobrança para quem explora serviços de turismo na região.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/178000000/0024500245.pdf</description>
+    <category>Alojamento Local e Turismo</category>
+    <category>Taxa Municipal</category>
+    <category>Turismo</category>
+    <category>Consulta Pública</category>
+  </item>
+  <item>
+    <title>Aviso (extrato) n.º 22687-A/2026/2 — Município de Ourém Prorrogação do prazo da consulta pública sobre o projeto de…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/aviso-extrato-22687-a-2026-2/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-extrato-22687-a-2026-2/</guid>
+    <pubDate>Mon, 14 Sep 2026 10:00:00 +0000</pubDate>
+    <description>O Município do Ourém adiou o período de consulta pública relativo ao novo regulamento que define a taxa para ocupação de espaço público por atividades turísticas. Isto significa que os interessados têm agora mais tempo para analisar e apresentar sugestões sobre as novas regras de cobrança.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/178000001/0000200002.pdf</description>
+    <category>Alojamento Local e Turismo</category>
+    <category>Comércio e Serviços</category>
+    <category>Taxa Municipal</category>
+    <category>Consulta Pública</category>
+    <category>Turismo</category>
+  </item>
   <item>
     <title>Aviso (extrato) n.º 21356/2026/2 — Município da Sertã Aprovação da operação de reabilitação urbana da vila da Sertã e…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/aviso-extrato-21356-2026-2/</link>
@@ -22,21 +49,6 @@ Diploma oficial: https://files.diariodarepublica.pt/2s/2026/08/167000000/0063500
     <category>Reabilitação Urbana</category>
     <category>Urbanismo</category>
     <category>Licenciamento</category>
-  </item>
-  <item>
-    <title>Lei n.º 58/2026 — Estabelece as regras de segurança e prevenção alusivas à identificação do cidadão a…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/lei-58-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/lei-58-2026/</guid>
-    <pubDate>Mon, 24 Aug 2026 10:00:00 +0000</pubDate>
-    <description>A nova lei proíbe o uso de vestuário que esconda o rosto em locais abertos ao público, como lojas, restaurantes e eventos, salvo por razões de saúde, trabalho ou clima. O incumprimento pode resultar em coimas elevadas para quem for detetado a ocultar a identidade.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/lei/58-2026-1161149391</description>
-    <category>Comércio e Serviços</category>
-    <category>Restauração e Alimentar</category>
-    <category>Alojamento Local e Turismo</category>
-    <category>Segurança Pública</category>
-    <category>Contraordenações</category>
-    <category>Espaços Públicos</category>
   </item>
 </channel>
 </rss>
