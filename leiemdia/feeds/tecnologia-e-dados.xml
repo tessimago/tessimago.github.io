@@ -6,9 +6,23 @@
   <link>https://tessimago.github.io/leiemdia/setores/tecnologia-e-dados/</link>
   <description>Digital, RGPD/dados pessoais, cibersegurança, telecomunicações, IA.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Fri, 04 Sep 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 15 Sep 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/tecnologia-e-dados.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Resolução do Conselho de Ministros n.º 178/2026 — Aprova a segunda fase de desenvolvimento do Assistente Multimodal Automático de Linguagem…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-178-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-178-2026/</guid>
+    <pubDate>Tue, 15 Sep 2026 10:00:00 +0000</pubDate>
+    <description>O Governo vai continuar a investir no desenvolvimento da inteligência artificial AMALIA para modernizar o atendimento público e os serviços do Estado. Esta nova fase foca-se em tornar as ferramentas de IA mais seguras e integradas nos processos administrativos, beneficiando a interação entre cidadãos, empresas e Administração Pública.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/178-2026-1171008705</description>
+    <category>Tecnologia e Dados</category>
+    <category>Setor Público e Autarquias</category>
+    <category>Inteligência Artificial</category>
+    <category>Transformação Digital</category>
+    <category>Administração Pública</category>
+  </item>
   <item>
     <title>Decreto-Lei n.º 177/2026 — Altera o Código dos Contratos Públicos, aprovado em anexo ao Decreto-Lei n.º 18/2008, de…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-177-2026/</link>
@@ -52,22 +66,6 @@ Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2026-11
     <category>PME</category>
     <category>Transparência Financeira</category>
     <category>Listing Act</category>
-  </item>
-  <item>
-    <title>Resolução do Conselho de Ministros n.º 172-A/2026 — Publicação da aprovação do Programa Setorial das Zonas de Aceleração da Implantação de…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-172-a-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-172-a-2026/</guid>
-    <pubDate>Tue, 25 Aug 2026 10:00:00 +0000</pubDate>
-    <description>O Governo aprovou o novo programa que define as zonas prioritárias para instalar projetos de energia renovável (solar e eólica) com processos administrativos mais rápidos. Para empresas com infraestruturas já existentes, como coberturas de pavilhões ou edifícios, o processo de instalação de painéis solares será ainda mais simplificado e independente de planos municipais.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/172-a-2026-1162354869</description>
-    <category>Energia e Ambiente</category>
-    <category>Tecnologia e Dados</category>
-    <category>Construção e Imobiliário</category>
-    <category>Energias Renováveis</category>
-    <category>Licenciamento</category>
-    <category>Transição Energética</category>
-    <category>Solar Fotovoltaico</category>
   </item>
 </channel>
 </rss>

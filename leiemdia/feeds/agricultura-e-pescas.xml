@@ -6,9 +6,48 @@
   <link>https://tessimago.github.io/leiemdia/setores/agricultura-e-pescas/</link>
   <description>Apoios IFAP/PEPAC, regadio, vinha, pescas e aquicultura.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Fri, 11 Sep 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 15 Sep 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/agricultura-e-pescas.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Portaria n.º 431/2026/1 — Estabelece as regras de concessão de um apoio excecional ao rendimento dos viticultores…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/portaria-431-2026-1/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/portaria-431-2026-1/</guid>
+    <pubDate>Tue, 15 Sep 2026 10:00:00 +0000</pubDate>
+    <description>Os viticultores da Região Demarcada do Douro podem solicitar um apoio financeiro para compensar a uva que não conseguirem vender na campanha 2026-2027. Este apoio serve para garantir um rendimento mínimo e evitar o abandono das vinhas devido à falta de escoamento.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/431-2026-1171008708</description>
+    <category>Agricultura e Pescas</category>
+    <category>Viticultura</category>
+    <category>Apoios à produção</category>
+    <category>Região Demarcada do Douro</category>
+  </item>
+  <item>
+    <title>Portaria n.º 432/2026/1 — Procede à décima segunda alteração à Portaria n.º 54-A/2023, de 27 de fevereiro, e à…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/portaria-432-2026-1/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/portaria-432-2026-1/</guid>
+    <pubDate>Tue, 15 Sep 2026 10:00:00 +0000</pubDate>
+    <description>Os beneficiários de apoios do PEPAC Portugal deixam de receber uma comunicação formal da aprovação das candidaturas, passando a ter essa confirmação apenas no momento do pagamento. Esta alteração visa reduzir o excesso de burocracia e simplificar os processos administrativos para os agricultores.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/432-2026-1171008709</description>
+    <category>Agricultura e Pescas</category>
+    <category>PEPAC Portugal</category>
+    <category>Apoios Agrícolas</category>
+    <category>Simplificação Administrativa</category>
+  </item>
+  <item>
+    <title>Despacho n.º 11319/2026 — Ambiente e Energia e Agricultura e Mar - Gabinete da Ministra do Ambiente e Energia e…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/despacho-11319-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/despacho-11319-2026/</guid>
+    <pubDate>Tue, 15 Sep 2026 10:00:00 +0000</pubDate>
+    <description>O governo estabeleceu um limite máximo para que as indemnizações por danos causados pelo lobo-ibérico em animais de criação sejam pagas. Agora, o processo de processamento destes valores deve ser concluído num período de 20 dias úteis.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/179000000/0015800159.pdf</description>
+    <category>Agricultura e Pescas</category>
+    <category>Indemnizações</category>
+    <category>Pecuária</category>
+    <category>Lobo-ibérico</category>
+  </item>
   <item>
     <title>Portaria n.º 430/2026/1 — Procede à sétima alteração à Portaria n.º 54-F/2023, de 27 de fevereiro, que estabelece…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/portaria-430-2026-1/</link>
@@ -679,20 +718,6 @@ Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/388-2026-11618
     <category>Hortofrutícolas</category>
     <category>Salários</category>
     <category>Extensão de Convenção</category>
-  </item>
-  <item>
-    <title>Portaria n.º 384/2026/1 — Altera as Portarias n.os 54-F/2023, de 27 de fevereiro, 54-H/2023, de 27 de fevereiro…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/portaria-384-2026-1/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/portaria-384-2026-1/</guid>
-    <pubDate>Tue, 25 Aug 2026 10:00:00 +0000</pubDate>
-    <description>Esta alteração ajusta as regras de aplicação de apoios do PEPAC para os setores da fruta, hortícolas e vitivinicultura. O foco principal é tornar o regime de sanções e penalizações mais justo e proporcional, evitando cortes excessivos em apoios por incumprimentos menores.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/384-2026-1161801441</description>
-    <category>Agricultura e Pescas</category>
-    <category>PEPAC</category>
-    <category>Apoios Agrícolas</category>
-    <category>Vitivinicultura</category>
-    <category>Horticultura</category>
   </item>
 </channel>
 </rss>
