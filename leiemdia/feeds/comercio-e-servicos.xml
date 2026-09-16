@@ -6,9 +6,35 @@
   <link>https://tessimago.github.io/leiemdia/setores/comercio-e-servicos/</link>
   <description>Retalho, consumo, práticas comerciais, horários, saldos.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Mon, 14 Sep 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 16 Sep 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/comercio-e-servicos.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Decreto-Lei n.º 184/2026 — Aprova o Regulamento da Transformação de Veículos.</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-184-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-lei-184-2026/</guid>
+    <pubDate>Wed, 16 Sep 2026 10:00:00 +0000</pubDate>
+    <description>As empresas que realizam modificações em veículos e reboques passam a estar sujeitas a novas regras de reconhecimento e fiscalização pelo IMT. Além disso, fica proibida a publicidade a práticas que não cumpram as normas deste novo regulamento.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2026-1171382771</description>
+    <category>Transportes e Logística</category>
+    <category>Comércio e Serviços</category>
+    <category>Transformação de Veículos</category>
+    <category>Código da Estrada</category>
+    <category>Publicidade</category>
+  </item>
+  <item>
+    <title>Deliberação n.º 1072/2026 — Universidade do Porto Aquisição de serviços de limpeza e higiene através de uma aquisição…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/deliberacao-1072-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/deliberacao-1072-2026/</guid>
+    <pubDate>Wed, 16 Sep 2026 10:00:00 +0000</pubDate>
+    <description>A Universidade do Porto vai realizar uma compra conjunta de serviços de limpeza e higiene para várias das suas unidades. Esta decisão abre oportunidade a empresas do setor de limpeza para participarem em concursos públicos centralizados.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/180000000/0020800209.pdf</description>
+    <category>Comércio e Serviços</category>
+    <category>Contratação Pública</category>
+    <category>Serviços de Limpeza</category>
+  </item>
   <item>
     <title>Aviso (extrato) n.º 22687-A/2026/2 — Município de Ourém Prorrogação do prazo da consulta pública sobre o projeto de…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/aviso-extrato-22687-a-2026-2/</link>
@@ -150,22 +176,6 @@ Diploma oficial: https://files.diariodarepublica.pt/2s/2026/08/168000000/0047500
     <category>Comércio e Serviços</category>
     <category>Comércio Local</category>
     <category>Dinamização Económica</category>
-  </item>
-  <item>
-    <title>Portaria n.º 387/2026/1 — Portaria de extensão das alterações do contrato coletivo entre a Associação Portuguesa de…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/portaria-387-2026-1/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/portaria-387-2026-1/</guid>
-    <pubDate>Wed, 26 Aug 2026 10:00:00 +0000</pubDate>
-    <description>As novas regras do contrato coletivo entre a APED e o SITESE passam a aplicar-se a mais empresas e trabalhadores do setor do comércio retalhista e grossista alimentar em Portugal continental. Na prática, isto significa que as condições de trabalho e salários definidos na convenção agora abrangem quem não estava anteriormente incluído, visando uniformizar o setor.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/387-2026-1161839918</description>
-    <category>Comércio e Serviços</category>
-    <category>Trabalho e Segurança Social</category>
-    <category>Restauração e Alimentar</category>
-    <category>Contrato Coletivo</category>
-    <category>Salários</category>
-    <category>Comércio Retalhista</category>
-    <category>Extensão de Convenção</category>
   </item>
 </channel>
 </rss>

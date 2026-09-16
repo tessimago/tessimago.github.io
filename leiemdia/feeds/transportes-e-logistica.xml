@@ -6,9 +6,36 @@
   <link>https://tessimago.github.io/leiemdia/setores/transportes-e-logistica/</link>
   <description>Transporte rodoviário, TVDE, mercadorias, IMT, portos.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Fri, 11 Sep 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 16 Sep 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/transportes-e-logistica.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Decreto-Lei n.º 183/2026 — Aprova o novo Regulamento de Passagens de Nível.</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-183-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-lei-183-2026/</guid>
+    <pubDate>Wed, 16 Sep 2026 10:00:00 +0000</pubDate>
+    <description>Este novo regulamento altera as regras de segurança e gestão das passagens de nível em Portugal. As empresas ferroviárias e gestores de infraestruturas devem agora seguir critérios mais rigorosos de análise de risco para prevenir acidentes.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770</description>
+    <category>Transportes e Logística</category>
+    <category>Segurança Ferroviária</category>
+    <category>Transportes</category>
+    <category>Regulamentação</category>
+  </item>
+  <item>
+    <title>Decreto-Lei n.º 184/2026 — Aprova o Regulamento da Transformação de Veículos.</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-184-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-lei-184-2026/</guid>
+    <pubDate>Wed, 16 Sep 2026 10:00:00 +0000</pubDate>
+    <description>As empresas que realizam modificações em veículos e reboques passam a estar sujeitas a novas regras de reconhecimento e fiscalização pelo IMT. Além disso, fica proibida a publicidade a práticas que não cumpram as normas deste novo regulamento.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2026-1171382771</description>
+    <category>Transportes e Logística</category>
+    <category>Comércio e Serviços</category>
+    <category>Transformação de Veículos</category>
+    <category>Código da Estrada</category>
+    <category>Publicidade</category>
+  </item>
   <item>
     <title>Decreto do Presidente da República n.º 141/2026 — Ratifica o Acordo Relativo ao Espaço de Aviação Comum entre a União Europeia e os Seus…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/decreto-do-presidente-da-republica-141-2026/</link>
@@ -188,36 +215,6 @@ Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2026-11
     <category>Transportes</category>
     <category>Direitos do Passageiro</category>
     <category>Regulamentação Europeia</category>
-  </item>
-  <item>
-    <title>Portaria n.º 389/2026/1 — Portaria de extensão das alterações do contrato coletivo entre a Associação dos…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/portaria-389-2026-1/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/portaria-389-2026-1/</guid>
-    <pubDate>Wed, 26 Aug 2026 10:00:00 +0000</pubDate>
-    <description>As novas regras de trabalho e salários do contrato coletivo entre a APAT e o SIMAMEVIP passam a ser obrigatórias para todas as empresas de transitários em Portugal Continental, mesmo que não estejam associadas à APAT. Isto significa que as condições de trabalho e as tabelas salariais atualizadas devem ser aplicadas a todos os trabalhadores deste setor no continente.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/389-2026-1161839920</description>
-    <category>Transportes e Logística</category>
-    <category>Trabalho e Segurança Social</category>
-    <category>Transitários</category>
-    <category>Contrato Coletivo</category>
-    <category>Salários</category>
-    <category>Extensão de Convenção</category>
-  </item>
-  <item>
-    <title>Portaria n.º 391/2026/1 — Portaria de extensão do contrato coletivo entre a Associação Portuguesa de Escolas de…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/portaria-391-2026-1/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/portaria-391-2026-1/</guid>
-    <pubDate>Wed, 26 Aug 2026 10:00:00 +0000</pubDate>
-    <description>As regras de trabalho do contrato coletivo entre a APEC e a FECTRANS passam a ser obrigatórias para todas as escolas de condução em Portugal Continental, mesmo que a empresa não esteja associada à APEC. Isto significa que as condições de trabalho e salários definidos neste acordo devem ser aplicados a todos os trabalhadores deste setor no continente.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/391-2026-1161839922</description>
-    <category>Trabalho e Segurança Social</category>
-    <category>Transportes e Logística</category>
-    <category>Escolas de Condução</category>
-    <category>Contrato Coletivo</category>
-    <category>Salários</category>
-    <category>Extensão de Convenção</category>
   </item>
 </channel>
 </rss>

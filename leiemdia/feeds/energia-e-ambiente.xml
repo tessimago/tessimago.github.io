@@ -6,9 +6,23 @@
   <link>https://tessimago.github.io/leiemdia/setores/energia-e-ambiente/</link>
   <description>Eletricidade, gás, renováveis, resíduos, licenciamento ambiental.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Tue, 15 Sep 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 16 Sep 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/energia-e-ambiente.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Decreto-Lei n.º 185/2026 — Altera o Decreto-Lei n.º 79/2013, de 11 de junho, transpondo as Diretivas Delegadas (UE)…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-185-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-lei-185-2026/</guid>
+    <pubDate>Wed, 16 Sep 2026 10:00:00 +0000</pubDate>
+    <description>As regras para a utilização de substâncias perigosas em equipamentos elétricos e eletrónicos foram atualizadas, permitindo agora o uso de chumbo em componentes específicos de vidro ou cerâmica e em certas soldas de alta temperatura. Esta alteração facilita a produção de certos componentes tecnológicos ao prolongar isenções técnicas.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-2026-1171382772</description>
+    <category>Tecnologia e Dados</category>
+    <category>Energia e Ambiente</category>
+    <category>Equipamentos Eletrónicos</category>
+    <category>Substâncias Perigosas</category>
+    <category>Isenções Técnicas</category>
+  </item>
   <item>
     <title>Aviso n.º 22787/2026/2 — Município de Fornos de Algodres Publicação da aprovação da 1.ª alteração à 1.ª revisão do…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/aviso-22787-2026-2/</link>
@@ -696,20 +710,6 @@ Diploma oficial: https://files.diariodarepublica.pt/2s/2026/08/166000000/0017400
     <category>Servidão Administrativa</category>
     <category>Gestão de Combustível</category>
     <category>Prevenção de Incêndios</category>
-  </item>
-  <item>
-    <title>Portaria n.º 390/2026/1 — Portaria de extensão das alterações do acordo coletivo entre a Águas do Norte, SA, e…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/portaria-390-2026-1/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/portaria-390-2026-1/</guid>
-    <pubDate>Wed, 26 Aug 2026 10:00:00 +0000</pubDate>
-    <description>As novas condições de trabalho e salários estabelecidos no acordo entre a Águas do Norte e o SIEAP passam a ser obrigatórios para todos os trabalhadores das empresas envolvidas, mesmo que não sejam sindicalizados. Esta medida uniformiza os direitos e deveres para as categorias profissionais previstas no acordo em todo o território continental.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/390-2026-1161839921</description>
-    <category>Trabalho e Segurança Social</category>
-    <category>Energia e Ambiente</category>
-    <category>Salários</category>
-    <category>Acordo Coletivo</category>
-    <category>Extensão de Convenção</category>
   </item>
 </channel>
 </rss>

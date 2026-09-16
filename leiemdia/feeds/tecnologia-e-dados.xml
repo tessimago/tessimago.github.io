@@ -6,9 +6,36 @@
   <link>https://tessimago.github.io/leiemdia/setores/tecnologia-e-dados/</link>
   <description>Digital, RGPD/dados pessoais, cibersegurança, telecomunicações, IA.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Tue, 15 Sep 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 16 Sep 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/tecnologia-e-dados.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Decreto-Lei n.º 185/2026 — Altera o Decreto-Lei n.º 79/2013, de 11 de junho, transpondo as Diretivas Delegadas (UE)…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-185-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-lei-185-2026/</guid>
+    <pubDate>Wed, 16 Sep 2026 10:00:00 +0000</pubDate>
+    <description>As regras para a utilização de substâncias perigosas em equipamentos elétricos e eletrónicos foram atualizadas, permitindo agora o uso de chumbo em componentes específicos de vidro ou cerâmica e em certas soldas de alta temperatura. Esta alteração facilita a produção de certos componentes tecnológicos ao prolongar isenções técnicas.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-2026-1171382772</description>
+    <category>Tecnologia e Dados</category>
+    <category>Energia e Ambiente</category>
+    <category>Equipamentos Eletrónicos</category>
+    <category>Substâncias Perigosas</category>
+    <category>Isenções Técnicas</category>
+  </item>
+  <item>
+    <title>Portaria n.º 397/2026/2 — Presidência do Conselho de Ministros e Finanças - Gabinete do Secretário de Estado…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/portaria-397-2026-2/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/portaria-397-2026-2/</guid>
+    <pubDate>Wed, 16 Sep 2026 10:00:00 +0000</pubDate>
+    <description>Esta medida autoriza o Metropolitano de Lisboa a realizar um investimento plurianual para atualizar o seu sistema de gestão informática. O objetivo é a transição tecnológica do software SAP R/3 para uma versão mais moderna em ambiente de cloud privada.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/180000000/0002900030.pdf</description>
+    <category>Tecnologia e Dados</category>
+    <category>Investimento Público</category>
+    <category>Software SAP</category>
+    <category>Cloud</category>
+  </item>
   <item>
     <title>Resolução do Conselho de Ministros n.º 178/2026 — Aprova a segunda fase de desenvolvimento do Assistente Multimodal Automático de Linguagem…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-178-2026/</link>
@@ -51,21 +78,6 @@ Diploma oficial: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-mini
     <category>Indústria de Defesa</category>
     <category>Financiamento Europeu</category>
     <category>Instrumento SAFE</category>
-  </item>
-  <item>
-    <title>Decreto-Lei n.º 171/2026 — Altera o Código dos Valores Mobiliários.</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-171-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-lei-171-2026/</guid>
-    <pubDate>Wed, 26 Aug 2026 10:00:00 +0000</pubDate>
-    <description>Este diploma facilita o acesso das PME ao mercado de capitais, reduzindo custos de listagem e simplificando as regras de negociação. Introduz também um novo sistema europeu de acesso centralizado a informações financeiras e de sustentabilidade, visando tornar o investimento mais transparente e menos burocrático.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2026-1161839915</description>
-    <category>Financeiro e Seguros</category>
-    <category>Tecnologia e Dados</category>
-    <category>Mercado de Capitais</category>
-    <category>PME</category>
-    <category>Transparência Financeira</category>
-    <category>Listing Act</category>
   </item>
 </channel>
 </rss>
