@@ -6,9 +6,22 @@
   <link>https://tessimago.github.io/leiemdia/setores/tecnologia-e-dados/</link>
   <description>Digital, RGPD/dados pessoais, cibersegurança, telecomunicações, IA.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Wed, 16 Sep 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 18 Sep 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/tecnologia-e-dados.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Resolução do Conselho de Ministros n.º 182/2026 — Altera a Resolução do Conselho de Ministros n.º 128/2026, de 19 de junho, que autoriza a…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-182-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-182-2026/</guid>
+    <pubDate>Fri, 18 Sep 2026 10:00:00 +0000</pubDate>
+    <description>O Governo aumentou o orçamento destinado ao apoio à Ucrânia, elevando o montante disponível de cerca de 130 milhões para mais de 207 milhões de euros em 2026. Esta verba permite a doação de equipamentos militares e outros bens do Estado, bem como o financiamento de projetos de manutenção e modernização de viaturas.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/182-2026-1171929503</description>
+    <category>Tecnologia e Dados</category>
+    <category>Orçamento do Estado</category>
+    <category>Defesa Nacional</category>
+    <category>Doações Internacionais</category>
+  </item>
   <item>
     <title>Decreto-Lei n.º 185/2026 — Altera o Decreto-Lei n.º 79/2013, de 11 de junho, transpondo as Diretivas Delegadas (UE)…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-185-2026/</link>
@@ -64,20 +77,6 @@ Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2026-11
     <category>Contratação Pública</category>
     <category>Simplificação Administrativa</category>
     <category>Inovação</category>
-  </item>
-  <item>
-    <title>Resolução do Conselho de Ministros n.º 175/2026 — Cria a Estrutura de Missão denominada Estrutura Nacional SAFE.</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-175-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-175-2026/</guid>
-    <pubDate>Fri, 28 Aug 2026 10:00:00 +0000</pubDate>
-    <description>O Governo criou uma nova estrutura para gerir o financiamento europeu destinado ao reforço da indústria de defesa. Esta entidade irá coordenar os investimentos e garantir que as empresas nacionais que participam nestes projetos cumprem as regras de faturação e monitorização exigidas pela União Europeia.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-2026-1163562936</description>
-    <category>Tecnologia e Dados</category>
-    <category>Energia e Ambiente</category>
-    <category>Indústria de Defesa</category>
-    <category>Financiamento Europeu</category>
-    <category>Instrumento SAFE</category>
   </item>
 </channel>
 </rss>
