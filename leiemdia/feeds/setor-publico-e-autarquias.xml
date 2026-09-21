@@ -6,9 +6,39 @@
   <link>https://tessimago.github.io/leiemdia/setores/setor-publico-e-autarquias/</link>
   <description>Administração pública, municípios, contratação pública, função pública.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Tue, 15 Sep 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 21 Sep 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/setor-publico-e-autarquias.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Decreto Regulamentar n.º 8/2026 — Altera o Decreto Regulamentar n.º 9-A/2017, de 3 de novembro, que regulamenta o regime…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/decreto-regulamentar-8-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-regulamentar-8-2026/</guid>
+    <pubDate>Mon, 21 Sep 2026 10:00:00 +0000</pubDate>
+    <description>As novas regras tornam obrigatória a existência de uma representação gráfica georreferenciada antes de se poder anexar prédios rústicos em zonas sem cadastro predial. O processo de validação técnica passa a ter prazos definidos para evitar atrasos excessivos nos registos.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-2026-1172217158</description>
+    <category>Construção e Imobiliário</category>
+    <category>Agricultura e Pescas</category>
+    <category>Setor Público e Autarquias</category>
+    <category>BUPi</category>
+    <category>Cadastro Predial</category>
+    <category>Imóveis</category>
+  </item>
+  <item>
+    <title>Despacho n.º 11559/2026 — Economia e Coesão Territorial e Ambiente e Energia - Gabinete do Ministro da Economia e…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/despacho-11559-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/despacho-11559-2026/</guid>
+    <pubDate>Mon, 21 Sep 2026 10:00:00 +0000</pubDate>
+    <description>Este programa foca-se na criação de infraestruturas verdes para proteger as populações em zonas urbanas contra desastres climáticos. Para as empresas, poderá significar novas exigências ou oportunidades em projetos de regeneração urbana e gestão ambiental.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/183000000/0007200110.pdf</description>
+    <category>Energia e Ambiente</category>
+    <category>Setor Público e Autarquias</category>
+    <category>Construção e Imobiliário</category>
+    <category>Resiliência Climática</category>
+    <category>Ambiente Urbano</category>
+    <category>Infraestruturas Verdes</category>
+  </item>
   <item>
     <title>Resolução do Conselho de Ministros n.º 178/2026 — Aprova a segunda fase de desenvolvimento do Assistente Multimodal Automático de Linguagem…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-178-2026/</link>
@@ -63,20 +93,6 @@ Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2026-11
     <category>Administração Pública</category>
     <category>Remunerações</category>
     <category>Trabalho em Feriados</category>
-  </item>
-  <item>
-    <title>Resolução do Conselho de Ministros n.º 176/2026 — Altera a Resolução do Conselho de Ministros n.º 74/2026, de 24 de abril, que autoriza o…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-176-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-176-2026/</guid>
-    <pubDate>Mon, 31 Aug 2026 10:00:00 +0000</pubDate>
-    <description>O Governo reforçou o orçamento do Fundo Ambiental para apoiar a recuperação de zonas costeiras e ribeirinhas afetadas por cheias. Este aumento de verba permite financiar mais projetos de restauro ecológico e reparação de infraestruturas de energia e água.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/176-2026-1164128605</description>
-    <category>Energia e Ambiente</category>
-    <category>Setor Público e Autarquias</category>
-    <category>Fundo Ambiental</category>
-    <category>Cheias</category>
-    <category>Financiamento Público</category>
   </item>
 </channel>
 </rss>
