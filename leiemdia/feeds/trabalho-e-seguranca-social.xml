@@ -6,9 +6,22 @@
   <link>https://tessimago.github.io/leiemdia/setores/trabalho-e-seguranca-social/</link>
   <description>Código do trabalho, salários, contribuições, apoios ao emprego, formação.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Thu, 10 Sep 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 22 Sep 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/trabalho-e-seguranca-social.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Portaria n.º 434/2026/1 — Primeira alteração à Portaria n.º 742/93, de 16 de agosto, que aprova o Regulamento sobre…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/portaria-434-2026-1/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/portaria-434-2026-1/</guid>
+    <pubDate>Tue, 22 Sep 2026 10:00:00 +0000</pubDate>
+    <description>As novas regras permitem que pilotos envolvidos no combate a incêndios trabalhem até 20 dias seguidos, desde que aceitem por escrito e tenham cinco folgas consecutivas depois. Esta medida adapta o descanso dos tripulantes à natureza sazonal e urgente das operações aéreas de emergência.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/434-2026-1172319754</description>
+    <category>Trabalho e Segurança Social</category>
+    <category>Trabalho Aéreo</category>
+    <category>Combate a Incêndios</category>
+    <category>Tempo de Trabalho</category>
+  </item>
   <item>
     <title>Lei n.º 62/2026 — Assegura a execução dos Regulamentos (UE) 2024/1349, 2024/1356, 2024/1347, 2024/1348…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/lei-62-2026/</link>
@@ -142,20 +155,6 @@ Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/416-2026-11675
     <category>Contrato Coletivo de Trabalho</category>
     <category>Salários</category>
     <category>Mutualidades</category>
-  </item>
-  <item>
-    <title>Edital n.º 1100/2026 — Município de Monchique Aprova o regulamento interno de prevenção e controlo do consumo de…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/edital-1100-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/edital-1100-2026/</guid>
-    <pubDate>Tue, 01 Sep 2026 10:00:00 +0000</pubDate>
-    <description>As empresas que operam no concelho de Monchique devem agora seguir novas regras internas para prevenir e controlar o consumo de álcool e substâncias psicoativas nos seus locais de trabalho. Este regulamento municipal estabelece normas de conduta para garantir a segurança e o bem-estar de todos os trabalhadores na região.
-
-Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/169000000/0034300350.pdf</description>
-    <category>Trabalho e Segurança Social</category>
-    <category>Comércio e Serviços</category>
-    <category>Segurança no Trabalho</category>
-    <category>Regulamento Municipal</category>
-    <category>Prevenção de Riscos</category>
   </item>
 </channel>
 </rss>

@@ -6,9 +6,22 @@
   <link>https://tessimago.github.io/leiemdia/setores/transportes-e-logistica/</link>
   <description>Transporte rodoviário, TVDE, mercadorias, IMT, portos.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Mon, 21 Sep 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 22 Sep 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/transportes-e-logistica.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Aviso (extrato) n.º 23397/2026/2 — Município de Penacova Abertura de concurso para atribuição de licença de transporte…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/aviso-extrato-23397-2026-2/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-extrato-23397-2026-2/</guid>
+    <pubDate>Tue, 22 Sep 2026 10:00:00 +0000</pubDate>
+    <description>O Município de Penacova abriu um concurso para atribuir uma nova licença de transporte público de aluguer (táxi). Esta oportunidade destina-se ao preenchimento de uma vaga disponível no contingente da freguesia.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/184000000/0036800368.pdf</description>
+    <category>Transportes e Logística</category>
+    <category>Táxi</category>
+    <category>Concurso Público</category>
+    <category>Transporte de Passageiros</category>
+  </item>
   <item>
     <title>Decreto-Lei n.º 188/2026 — Altera o Decreto-Lei n.º 89/2008, de 30 de maio, e procede à transposição parcial da…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-188-2026/</link>
@@ -300,19 +313,6 @@ Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/170000000/0018600
     <category>Mobilidade Elétrica</category>
     <category>Consulta Pública</category>
     <category>Regulação</category>
-  </item>
-  <item>
-    <title>Decreto-Lei n.º 173/2026 — Assegura a execução, na ordem jurídica interna, das obrigações decorrentes de vários…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-173-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-lei-173-2026/</guid>
-    <pubDate>Tue, 01 Sep 2026 10:00:00 +0000</pubDate>
-    <description>Este diploma atualiza as regras de proteção dos direitos dos passageiros nos transportes ferroviário, rodoviário e marítimo. As empresas destes setores devem agora cumprir novas normas de desempenho e comunicação para garantir a transparência e a segurança dos utilizadores.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2026-1164281329</description>
-    <category>Transportes e Logística</category>
-    <category>Transportes</category>
-    <category>Direitos do Passageiro</category>
-    <category>Regulamentação Europeia</category>
   </item>
 </channel>
 </rss>
