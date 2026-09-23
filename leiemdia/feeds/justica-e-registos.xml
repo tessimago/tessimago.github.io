@@ -6,9 +6,22 @@
   <link>https://tessimago.github.io/leiemdia/setores/justica-e-registos/</link>
   <description>Tribunais, registos e notariado, insolvência, custas.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Tue, 22 Sep 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 23 Sep 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/justica-e-registos.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Portaria n.º 435/2026/1 — Altera a Portaria n.º 350-A/2025/1, de 9 de outubro, que regulamenta a tramitação…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/portaria-435-2026-1/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/portaria-435-2026-1/</guid>
+    <pubDate>Wed, 23 Sep 2026 10:00:00 +0000</pubDate>
+    <description>A alteração clarifica o que acontece quando um advogado indicado não aceita a adesão eletrónica ao processo. Agora, em vez de a peça ser anulada por completo, considera-se apenas que a parte não foi apresentada por esse mandatário específico, permitindo que os restantes avancem e que se corrija a situação.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/435-2026-1172868786</description>
+    <category>Justiça e Registos</category>
+    <category>tramitação eletrónica</category>
+    <category>processo judicial</category>
+    <category>advogados</category>
+  </item>
   <item>
     <title>Decreto-Lei n.º 192/2026 — Cria o Julgado de Paz do Concelho da Figueira da Foz.</title>
     <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-192-2026/</link>
