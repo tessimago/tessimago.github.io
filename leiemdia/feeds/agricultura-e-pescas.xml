@@ -6,9 +6,22 @@
   <link>https://tessimago.github.io/leiemdia/setores/agricultura-e-pescas/</link>
   <description>Apoios IFAP/PEPAC, regadio, vinha, pescas e aquicultura.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Wed, 23 Sep 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 24 Sep 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/agricultura-e-pescas.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Despacho n.º 11725/2026 — Educação, Ciência e Inovação - Gabinete da Secretária de Estado do Ensino Superior…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/despacho-11725-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/despacho-11725-2026/</guid>
+    <pubDate>Thu, 24 Sep 2026 10:00:00 +0000</pubDate>
+    <description>Este despacho autoriza a utilização de um terreno da Escola Superior Agrária de Viana do Castelo para que o Município de Ponte de Lima possa construir as infraestruturas de um novo centro tecnológico agroalimentar. Na prática, este movimento facilita o desenvolvimento de investigação e inovação no setor agroalimentar da região.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/186000000/0007400076.pdf</description>
+    <category>Agricultura e Pescas</category>
+    <category>Investigação e Desenvolvimento</category>
+    <category>Agroalimentar</category>
+    <category>Direito de Superfície</category>
+  </item>
   <item>
     <title>Portaria n.º 436/2026/1 — Primeira alteração da Portaria n.º 431/2026/1, de 15 de setembro, que estabelece as…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/portaria-436-2026-1/</link>
@@ -384,43 +397,6 @@ Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/173000000/0064100
     <category>Ordenamento do Território</category>
     <category>Planeamento Urbanístico</category>
     <category>Loures</category>
-  </item>
-  <item>
-    <title>Despacho n.º 10916/2026 — Agricultura e Mar - Gabinete do Ministro da Agricultura e Mar Reconhece como catástrofe…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/despacho-10916-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/despacho-10916-2026/</guid>
-    <pubDate>Thu, 03 Sep 2026 10:00:00 +0000</pubDate>
-    <description>Os incêndios rurais ocorridos no Norte e Centro do país foram oficialmente reconhecidos como catástrofe natural. Este reconhecimento permite que as empresas e produtivos afetados possam aceder a medidas de apoio e benefícios previstos para situações de emergência.
-
-Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/171000000/0015200155.pdf</description>
-    <category>Agricultura e Pescas</category>
-    <category>Incêndios Rurais</category>
-    <category>Catástrofe Natural</category>
-    <category>Apoios à Agricultura</category>
-  </item>
-  <item>
-    <title>Aviso n.º 21839/2026/2 — Município de Machico Regulamento Municipal de Apoio ao Setor Agrícola.</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/aviso-21839-2026-2/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-21839-2026-2/</guid>
-    <pubDate>Thu, 03 Sep 2026 10:00:00 +0000</pubDate>
-    <description>O Município de Machico estabeleceu novas regras para o apoio ao setor agrícola local. Este regulamento define as condições para que os produtores da região possam beneficiar de incentivos municipais.
-
-Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/171000000/0022200222.pdf</description>
-    <category>Agricultura e Pescas</category>
-    <category>Apoios Municipais</category>
-    <category>Agricultura</category>
-  </item>
-  <item>
-    <title>Edital n.º 1119/2026 — Município de São Pedro do Sul Proposta de Regulamento de Desenvolvimento Rural do…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/edital-1119-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/edital-1119-2026/</guid>
-    <pubDate>Thu, 03 Sep 2026 10:00:00 +0000</pubDate>
-    <description>O Município de São Pedro do Sul pretende implementar novas regras para o desenvolvimento rural na sua região. Este regulamento poderá definir novas diretrizes para atividades agrícolas e de exploração do território no concelho.
-
-Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/171000000/0024400244.pdf</description>
-    <category>Agricultura e Pescas</category>
-    <category>Desenvolvimento Rural</category>
-    <category>Regulamento Municipal</category>
   </item>
 </channel>
 </rss>
