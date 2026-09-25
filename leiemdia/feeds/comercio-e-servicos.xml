@@ -6,9 +6,22 @@
   <link>https://tessimago.github.io/leiemdia/setores/comercio-e-servicos/</link>
   <description>Retalho, consumo, práticas comerciais, horários, saldos.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Thu, 24 Sep 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 25 Sep 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/comercio-e-servicos.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Decreto-Lei n.º 194/2026 — Assegura a execução na ordem jurídica interna do Regulamento (UE) 2023/2411, relativo à…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-194-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-lei-194-2026/</guid>
+    <pubDate>Fri, 25 Sep 2026 10:00:00 +0000</pubDate>
+    <description>Produtores de artigos artesanais e industriais passam a ter uma nova forma de proteger a origem dos seus produtos em toda a União Europeia. O processo de registo começa agora em Portugal através do INPI, permitindo combater a contrafação e valorizar o saber-fazer local.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2026-1173491823</description>
+    <category>Comércio e Serviços</category>
+    <category>Indicações Geográficas</category>
+    <category>Propriedade Industrial</category>
+    <category>Artesanato</category>
+  </item>
   <item>
     <title>Resolução do Conselho de Ministros n.º 184/2026 — Declara o interesse público nacional do Campus Veritati da Universidade Católica…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-184-2026/</link>
@@ -165,21 +178,6 @@ Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/415-2026-11675
     <category>Contrato Coletivo de Trabalho</category>
     <category>Produtos Farmacêuticos</category>
     <category>Salários</category>
-  </item>
-  <item>
-    <title>Decreto-Lei n.º 177/2026 — Altera o Código dos Contratos Públicos, aprovado em anexo ao Decreto-Lei n.º 18/2008, de…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-177-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-lei-177-2026/</guid>
-    <pubDate>Fri, 04 Sep 2026 10:00:00 +0000</pubDate>
-    <description>As regras para vender ao Estado tornam-se mais simples e rápidas, com menos burocracia na entrega de documentos e novos limites para contratações diretas. As empresas agora podem apresentar ideias e projetos de forma espontânea para tentar ganhar contratos públicos.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2026-1166969779</description>
-    <category>Comércio e Serviços</category>
-    <category>Tecnologia e Dados</category>
-    <category>Construção e Imobiliário</category>
-    <category>Contratação Pública</category>
-    <category>Simplificação Administrativa</category>
-    <category>Inovação</category>
   </item>
 </channel>
 </rss>

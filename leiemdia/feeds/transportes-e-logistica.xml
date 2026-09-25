@@ -6,9 +6,36 @@
   <link>https://tessimago.github.io/leiemdia/setores/transportes-e-logistica/</link>
   <description>Transporte rodoviário, TVDE, mercadorias, IMT, portos.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Tue, 22 Sep 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 25 Sep 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/transportes-e-logistica.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Decreto-Lei n.º 195/2026 — Altera o Decreto-Lei n.º 132/2017, de 11 de outubro, que aprova o Regulamento Que Fixa os…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-195-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-lei-195-2026/</guid>
+    <pubDate>Fri, 25 Sep 2026 10:00:00 +0000</pubDate>
+    <description>As empresas de transporte podem agora utilizar conjuntos de veículos Euro-Modular com maior capacidade, permitindo atingir até 72 toneladas e 32 metros de comprimento. Esta mudança exige uma autorização especial do IMT para os veículos que excedam os limites habituais.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2026-1173491824</description>
+    <category>Transportes e Logística</category>
+    <category>Transporte de Mercadorias</category>
+    <category>Pesos e Dimensões</category>
+    <category>Euro-Modular</category>
+  </item>
+  <item>
+    <title>Portaria n.º 413/2026/2 — Presidência do Conselho de Ministros e Finanças - Gabinete do Secretário de Estado…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/portaria-413-2026-2/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/portaria-413-2026-2/</guid>
+    <pubDate>Fri, 25 Sep 2026 10:00:00 +0000</pubDate>
+    <description>Este documento autoriza a Infraestruturas de Portugal a distribuir os custos para obras urgentes de reparação da estrada EN 8-2, devido a danos causados por mau tempo. Trata-se de uma medida de manutenção rodoviária que impacta diretamente o setor das infraestruturas e construção.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/187000000/0002100022.pdf</description>
+    <category>Construção e Imobiliário</category>
+    <category>Transportes e Logística</category>
+    <category>Infraestruturas</category>
+    <category>Obras Públicas</category>
+    <category>Manutenção Rodoviária</category>
+  </item>
   <item>
     <title>Aviso (extrato) n.º 23397/2026/2 — Município de Penacova Abertura de concurso para atribuição de licença de transporte…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/aviso-extrato-23397-2026-2/</link>
@@ -271,34 +298,6 @@ Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/406-2026-11675
     <category>Acordo Coletivo</category>
     <category>Salários</category>
     <category>Extensão de Convenção</category>
-  </item>
-  <item>
-    <title>Resolução do Conselho de Ministros n.º 176-A/2026 — Determina a realização de uma etapa de negociação no processo de reprivatização da TAP ―…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-176-a-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-176-a-2026/</guid>
-    <pubDate>Fri, 04 Sep 2026 10:00:00 +0000</pubDate>
-    <description>O Governo avançou para uma fase de negociação final para a venda de parte do capital da TAP. As companhias aéreas Air France-KLM e Lufthansa foram convidadas a apresentar propostas melhoradas e definitivas para o negócio.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/176-a-2026-1167736597</description>
-    <category>Transportes e Logística</category>
-    <category>Privatizações</category>
-    <category>TAP</category>
-    <category>Transportes Aéreos</category>
-  </item>
-  <item>
-    <title>Portaria n.º 404-A/2026/1 — Procede à revisão e fixação das taxas unitárias do imposto sobre os produtos petrolíferos…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/portaria-404-a-2026-1/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/portaria-404-a-2026-1/</guid>
-    <pubDate>Fri, 04 Sep 2026 10:00:00 +0000</pubDate>
-    <description>O Governo procedeu ao ajuste do desconto extraordinário no imposto sobre os combustíveis, alterando as taxas de ISP para a gasolina e o gasóleo. Esta medida visa ajustar o preço final à bomba face à evolução dos preços internacionais do petróleo.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/404-a-2026-1167736598</description>
-    <category>Transportes e Logística</category>
-    <category>Energia e Ambiente</category>
-    <category>Fiscal e Contabilidade</category>
-    <category>ISP</category>
-    <category>Combustíveis</category>
-    <category>Impostos Especiais de Consumo</category>
   </item>
 </channel>
 </rss>
