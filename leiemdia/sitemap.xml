@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tessimago.github.io/leiemdia/</loc>
-    <lastmod>2026-09-25</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://tessimago.github.io/leiemdia/dia/2025-12-16/</loc>
@@ -12777,111 +12777,411 @@
     <lastmod>2026-09-25</lastmod>
   </url>
   <url>
+    <loc>https://tessimago.github.io/leiemdia/dia/2026-09-28/</loc>
+    <lastmod>2026-09-28</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/resolucao-da-assembleia-da-republica-250-2026/</loc>
+    <lastmod>2026-09-28</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/resolucao-da-assembleia-da-republica-251-2026/</loc>
+    <lastmod>2026-09-28</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/portaria-438-2026-1/</loc>
+    <lastmod>2026-09-28</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/portaria-439-2026-1/</loc>
+    <lastmod>2026-09-28</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/portaria-440-2026-1/</loc>
+    <lastmod>2026-09-28</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/portaria-441-2026-1/</loc>
+    <lastmod>2026-09-28</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/portaria-442-2026-1/</loc>
+    <lastmod>2026-09-28</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/dia/2026-09-29/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/decreto-lei-196-2026/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-186-2026/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-187-2026/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-188-2026/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/portaria-443-2026-1/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/portaria-444-2026-1/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/despacho-11859-2026/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/portaria-417-2026-2/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/despacho-11862-2026/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/despacho-extrato-11869-2026/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/aviso-extrato-23954-2026-2/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/despacho-11871-2026/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/declaracao-de-retificacao-839-2026-2/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/aviso-extrato-23960-2026-2/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/aviso-extrato-23963-2026-2/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/despacho-11873-2026/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/aviso-23970-2026-2/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/despacho-11875-2026/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/despacho-11876-2026/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/despacho-11877-2026/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/despacho-11882-2026/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/despacho-11883-2026/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/despacho-11884-2026/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/despacho-11885-2026/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/acordao-extrato-590-2026/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/acordao-extrato-665-2026/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/acordao-extrato-666-2026/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/despacho-extrato-11889-2026/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/despacho-extrato-11892-2026/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/despacho-extrato-11893-2026/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/edital-1215-2026/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/edital-1216-2026/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/regulamento-1208-2026/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/regulamento-1209-2026/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/despacho-11894-2026/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/despacho-11895-2026/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/despacho-11897-2026/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/aviso-23996-2026-2/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/despacho-11903-2026/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/declaracao-de-retificacao-840-2026-2/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/aviso-23999-2026-2/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/aviso-24000-2026-2/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/aviso-24001-2026-2/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/aviso-24010-2026-2/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/regulamento-1210-2026/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/aviso-24012-2026-2/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/declaracao-de-retificacao-841-2026-2/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/declaracao-de-retificacao-842-2026-2/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/aviso-extrato-24015-2026-2/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/aviso-24016-2026-2/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/aviso-24017-2026-2/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/aviso-24018-2026-2/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/aviso-extrato-24025-2026-2/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/aviso-extrato-24029-2026-2/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/aviso-24030-2026-2/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/aviso-24031-2026-2/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/aviso-24032-2026-2/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/aviso-24033-2026-2/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/aviso-24034-2026-2/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/aviso-24036-2026-2/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/aviso-24044-2026-2/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/aviso-24046-2026-2/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/aviso-24048-2026-2/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/despacho-11904-2026/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/aviso-24056-2026-2/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://tessimago.github.io/leiemdia/diploma/despacho-11907-2026/</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
     <loc>https://tessimago.github.io/leiemdia/setores/</loc>
-    <lastmod>2026-09-25</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://tessimago.github.io/leiemdia/setores/fiscal-e-contabilidade/</loc>
-    <lastmod>2026-09-25</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://tessimago.github.io/leiemdia/setores/trabalho-e-seguranca-social/</loc>
-    <lastmod>2026-09-25</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://tessimago.github.io/leiemdia/setores/restauracao-e-alimentar/</loc>
-    <lastmod>2026-09-25</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://tessimago.github.io/leiemdia/setores/construcao-e-imobiliario/</loc>
-    <lastmod>2026-09-25</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://tessimago.github.io/leiemdia/setores/alojamento-local-e-turismo/</loc>
-    <lastmod>2026-09-25</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://tessimago.github.io/leiemdia/setores/agricultura-e-pescas/</loc>
-    <lastmod>2026-09-25</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://tessimago.github.io/leiemdia/setores/transportes-e-logistica/</loc>
-    <lastmod>2026-09-25</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://tessimago.github.io/leiemdia/setores/saude-e-farmacias/</loc>
-    <lastmod>2026-09-25</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://tessimago.github.io/leiemdia/setores/comercio-e-servicos/</loc>
-    <lastmod>2026-09-25</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://tessimago.github.io/leiemdia/setores/energia-e-ambiente/</loc>
-    <lastmod>2026-09-25</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://tessimago.github.io/leiemdia/setores/tecnologia-e-dados/</loc>
-    <lastmod>2026-09-25</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://tessimago.github.io/leiemdia/setores/justica-e-registos/</loc>
-    <lastmod>2026-09-25</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://tessimago.github.io/leiemdia/setores/setor-publico-e-autarquias/</loc>
-    <lastmod>2026-09-25</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://tessimago.github.io/leiemdia/setores/educacao-e-formacao/</loc>
-    <lastmod>2026-09-25</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://tessimago.github.io/leiemdia/setores/financeiro-e-seguros/</loc>
-    <lastmod>2026-09-25</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://tessimago.github.io/leiemdia/prazos/</loc>
-    <lastmod>2026-09-25</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://tessimago.github.io/leiemdia/concursos/</loc>
-    <lastmod>2026-09-25</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://tessimago.github.io/leiemdia/arquivo/</loc>
-    <lastmod>2026-09-25</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://tessimago.github.io/leiemdia/empregos/</loc>
-    <lastmod>2026-09-25</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://tessimago.github.io/leiemdia/pesquisa/</loc>
-    <lastmod>2026-09-25</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://tessimago.github.io/leiemdia/tags/</loc>
-    <lastmod>2026-09-25</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://tessimago.github.io/leiemdia/radar/</loc>
-    <lastmod>2026-09-25</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://tessimago.github.io/leiemdia/glossario/</loc>
-    <lastmod>2026-09-25</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://tessimago.github.io/leiemdia/sobre/</loc>
-    <lastmod>2026-09-25</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://tessimago.github.io/leiemdia/legal/</loc>
-    <lastmod>2026-09-25</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://tessimago.github.io/leiemdia/pro/</loc>
-    <lastmod>2026-09-25</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
 </urlset>
