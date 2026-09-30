@@ -6,9 +6,23 @@
   <link>https://tessimago.github.io/leiemdia/setores/comercio-e-servicos/</link>
   <description>Retalho, consumo, práticas comerciais, horários, saldos.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Mon, 28 Sep 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 30 Sep 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/comercio-e-servicos.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Edital n.º 1222/2026 — Município de Cantanhede Aprova o Regulamento de Isenções de Impostos Municipais do…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/edital-1222-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/edital-1222-2026/</guid>
+    <pubDate>Wed, 30 Sep 2026 10:00:00 +0000</pubDate>
+    <description>O município de Cantanhede estabeleceu novas regras para a dispensa do pagamento de certos impostos municipais. Esta medida pode reduzir os custos operacionais para as empresas e particulares que atuam nesta região.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/190000000/0019600209.pdf</description>
+    <category>Fiscal e Contabilidade</category>
+    <category>Comércio e Serviços</category>
+    <category>Impostos Municipais</category>
+    <category>Isenções Fiscais</category>
+    <category>Cantanhede</category>
+  </item>
   <item>
     <title>Portaria n.º 439/2026/1 — Portaria de extensão do acordo coletivo entre a LACTICOOP ― União de Cooperativas de…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/portaria-439-2026-1/</link>
@@ -105,21 +119,6 @@ Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/178000001/0000200
     <category>Taxa Municipal</category>
     <category>Consulta Pública</category>
     <category>Turismo</category>
-  </item>
-  <item>
-    <title>Decreto-Lei n.º 180/2026 — Altera o Decreto-Lei n.º 127/2012, de 21 de junho, atualizando-o face à Lei n.º 24/2026…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-180-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-lei-180-2026/</guid>
-    <pubDate>Wed, 09 Sep 2026 10:00:00 +0000</pubDate>
-    <description>Este diploma atualiza as regras para o pagamento de faturas por parte das entidades públicas, tornando o cálculo dos fundos disponíveis mais dependente da receita real e do cumprimento de metas. Para as empresas, reforça o direito ao recebimento de juros de mora automáticos quando os pagamentos ultrapassam os prazos legais.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-2026-1168451281</description>
-    <category>Comércio e Serviços</category>
-    <category>Fiscal e Contabilidade</category>
-    <category>Setor Público e Autarquias</category>
-    <category>Pagamentos em atraso</category>
-    <category>Entidades Públicas</category>
-    <category>Juros de mora</category>
   </item>
 </channel>
 </rss>
