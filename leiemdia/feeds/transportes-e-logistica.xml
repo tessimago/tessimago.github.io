@@ -6,9 +6,23 @@
   <link>https://tessimago.github.io/leiemdia/setores/transportes-e-logistica/</link>
   <description>Transporte rodoviário, TVDE, mercadorias, IMT, portos.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Tue, 29 Sep 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 02 Oct 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/transportes-e-logistica.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Decreto-Lei n.º 198/2026 — Presidência do Conselho de Ministros Altera o Decreto-Lei n.º 267/2002, de 26 de…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-198-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-lei-198-2026/</guid>
+    <pubDate>Fri, 02 Oct 2026 10:00:00 +0000</pubDate>
+    <description>Este diploma altera as regras para obter licenças e para a fiscalização de postos de abastecimento e depósitos de combustíveis. As empresas do setor terão de se adaptar a novos procedimentos de licenciamento e às novas competências de controlo.
+
+Diploma oficial: https://files.diariodarepublica.pt/1s/2026/10/19200/0000200031.pdf</description>
+    <category>Transportes e Logística</category>
+    <category>Energia e Ambiente</category>
+    <category>Licenciamento</category>
+    <category>Combustíveis</category>
+    <category>Fiscalização</category>
+  </item>
   <item>
     <title>Resolução do Conselho de Ministros n.º 187/2026 — Autoriza a Metro do Porto, S. A., a realizar despesa com a construção da Linha da Trofa…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-187-2026/</link>
@@ -205,88 +219,6 @@ Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2026-11
     <category>Transformação de Veículos</category>
     <category>Código da Estrada</category>
     <category>Publicidade</category>
-  </item>
-  <item>
-    <title>Decreto do Presidente da República n.º 141/2026 — Ratifica o Acordo Relativo ao Espaço de Aviação Comum entre a União Europeia e os Seus…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/decreto-do-presidente-da-republica-141-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-do-presidente-da-republica-141-2026/</guid>
-    <pubDate>Fri, 11 Sep 2026 10:00:00 +0000</pubDate>
-    <description>Este decreto confirma oficialmente o acordo de aviação entre a União Europeia e a Arménia. Na prática, isto facilita a circulação de voos e a cooperação no setor aéreo entre estas regiões.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/141-2026-1169277023</description>
-    <category>Transportes e Logística</category>
-    <category>Aviação</category>
-    <category>Acordos Internacionais</category>
-    <category>Transportes Aéreos</category>
-  </item>
-  <item>
-    <title>Decreto do Presidente da República n.º 142/2026 — Ratifica o Acordo sobre o Espaço de Aviação Comum entre a União Europeia e os Seus…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/decreto-do-presidente-da-republica-142-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-do-presidente-da-republica-142-2026/</guid>
-    <pubDate>Fri, 11 Sep 2026 10:00:00 +0000</pubDate>
-    <description>Este decreto confirma a validade do acordo de aviação entre a União Europeia e a Ucrânia. Na prática, facilita a circulação de voos e a cooperação no espaço aéreo entre estas regiões.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/142-2026-1169277024</description>
-    <category>Transportes e Logística</category>
-    <category>Aviação</category>
-    <category>Acordos Internacionais</category>
-    <category>Transportes Aéreos</category>
-  </item>
-  <item>
-    <title>Resolução da Assembleia da República n.º 247/2026 — Aprova o Acordo Relativo ao Espaço de Aviação Comum entre a União Europeia e os Seus…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/resolucao-da-assembleia-da-republica-247-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/resolucao-da-assembleia-da-republica-247-2026/</guid>
-    <pubDate>Fri, 11 Sep 2026 10:00:00 +0000</pubDate>
-    <description>Este acordo facilita a circulação de voos e o acesso ao mercado entre a União Europeia e a Arménia. Para as empresas de transporte aéreo e logística, isto significa novas oportunidades de conectividade e maior concorrência no setor.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/247-2026-1169277025</description>
-    <category>Transportes e Logística</category>
-    <category>Aviação Civil</category>
-    <category>Acordos Internacionais</category>
-    <category>Transporte Aéreo</category>
-  </item>
-  <item>
-    <title>Resolução da Assembleia da República n.º 248/2026 — Aprova o Acordo sobre o Espaço de Aviação Comum entre a União Europeia e os Seus…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/resolucao-da-assembleia-da-republica-248-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/resolucao-da-assembleia-da-republica-248-2026/</guid>
-    <pubDate>Fri, 11 Sep 2026 10:00:00 +0000</pubDate>
-    <description>Este acordo facilita o transporte aéreo entre a União Europeia e a Ucrânia, promovendo a abertura de mercados e a livre concorrência. As companhias aéreas poderão expandir as suas rotas e serviços, beneficiando de regras de acesso mais justas e transparentes aos aeroportos.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/248-2026-1169277026</description>
-    <category>Transportes e Logística</category>
-    <category>Aviação Civil</category>
-    <category>Transporte Aéreo</category>
-    <category>Acordos Internacionais</category>
-  </item>
-  <item>
-    <title>Despacho n.º 11206/2026 — Economia e Coesão Territorial - Instituto Português da Qualidade, IP Aprovação…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/despacho-11206-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/despacho-11206-2026/</guid>
-    <pubDate>Fri, 11 Sep 2026 10:00:00 +0000</pubDate>
-    <description>Este despacho aprova um novo modelo de instrumento para medição e registo de temperatura da marca ThermoKing. A medida é relevante para empresas que necessitam de garantir o controlo térmico rigoroso de mercadorias.
-
-Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/177000000/0003500036.pdf</description>
-    <category>Transportes e Logística</category>
-    <category>Restauração e Alimentar</category>
-    <category>Certificação</category>
-    <category>Controlo de Temperatura</category>
-    <category>Logística</category>
-  </item>
-  <item>
-    <title>Decreto-Lei n.º 182/2026 — Transpõe parcialmente a Diretiva (UE) 2023/959, estabelecendo um novo regime do Comércio…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-182-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-lei-182-2026/</guid>
-    <pubDate>Thu, 10 Sep 2026 10:00:00 +0000</pubDate>
-    <description>As empresas que introduzem combustíveis no mercado, como distribuidores de combustível para transportes ou aquecimento, passam a ter novas obrigações de monitorização e reporte de emissões de gases com efeito de estufa. Este novo regime exige a posse de licenças de emissão e a comunicação de dados relativos ao consumo de combustíveis nos setores dos edifícios e transportes rodoviários.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-2026-1168979172</description>
-    <category>Transportes e Logística</category>
-    <category>Energia e Ambiente</category>
-    <category>Construção e Imobiliário</category>
-    <category>Emissões de CO2</category>
-    <category>Combustíveis</category>
-    <category>Licenças de Emissão</category>
-    <category>Descarbonização</category>
   </item>
 </channel>
 </rss>

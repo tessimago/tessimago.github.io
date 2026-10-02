@@ -6,9 +6,53 @@
   <link>https://tessimago.github.io/leiemdia/setores/energia-e-ambiente/</link>
   <description>Eletricidade, gás, renováveis, resíduos, licenciamento ambiental.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Tue, 29 Sep 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 02 Oct 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/energia-e-ambiente.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Decreto-Lei n.º 198/2026 — Presidência do Conselho de Ministros Altera o Decreto-Lei n.º 267/2002, de 26 de…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-198-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-lei-198-2026/</guid>
+    <pubDate>Fri, 02 Oct 2026 10:00:00 +0000</pubDate>
+    <description>Este diploma altera as regras para obter licenças e para a fiscalização de postos de abastecimento e depósitos de combustíveis. As empresas do setor terão de se adaptar a novos procedimentos de licenciamento e às novas competências de controlo.
+
+Diploma oficial: https://files.diariodarepublica.pt/1s/2026/10/19200/0000200031.pdf</description>
+    <category>Transportes e Logística</category>
+    <category>Energia e Ambiente</category>
+    <category>Licenciamento</category>
+    <category>Combustíveis</category>
+    <category>Fiscalização</category>
+  </item>
+  <item>
+    <title>Decreto Regulamentar Regional n.º 21/2026/A — Região Autónoma dos Açores - Presidência do Governo Regional Quarta alteração ao Decreto…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/decreto-regulamentar-regional-21-2026-a/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-regulamentar-regional-21-2026-a/</guid>
+    <pubDate>Fri, 02 Oct 2026 10:00:00 +0000</pubDate>
+    <description>Esta alteração atualiza as regras para obter apoios financeiros destinados à modernização de empresas nos Açores. O foco é ajudar unidades de transformação e venda de produtos agrícolas a investir em novas tecnologias, processos mais ecológicos e digitalização.
+
+Diploma oficial: https://files.diariodarepublica.pt/1s/2026/10/19200/0003200049.pdf</description>
+    <category>Agricultura e Pescas</category>
+    <category>Energia e Ambiente</category>
+    <category>Tecnologia e Dados</category>
+    <category>PRR</category>
+    <category>Açores</category>
+    <category>Inovação Agrícola</category>
+    <category>Transição Digital</category>
+  </item>
+  <item>
+    <title>Edital n.º 1247/2026 — Município de Portalegre Consulta pública do projeto de alteração ao Regulamento Municipal…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/edital-1247-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/edital-1247-2026/</guid>
+    <pubDate>Fri, 02 Oct 2026 10:00:00 +0000</pubDate>
+    <description>O Município de Portalegre abriu uma consulta pública para alterar as regras de instalação e utilização de postos de carregamento de veículos elétricos. Esta alteração poderá definir novas condições para empresas ou particulares que pretendam implementar infraestruturas de carregamento no concelho.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/192000000/0034900349.pdf</description>
+    <category>Energia e Ambiente</category>
+    <category>Construção e Imobiliário</category>
+    <category>Veículos Elétricos</category>
+    <category>Consulta Pública</category>
+    <category>Regulamento Municipal</category>
+  </item>
   <item>
     <title>Resolução do Conselho de Ministros n.º 187/2026 — Autoriza a Metro do Porto, S. A., a realizar despesa com a construção da Linha da Trofa…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-187-2026/</link>
@@ -240,22 +284,6 @@ Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/179000000/0031600
     <category>PDM</category>
     <category>Ordenamento do Território</category>
     <category>Urbanismo</category>
-  </item>
-  <item>
-    <title>Decreto-Lei n.º 182/2026 — Transpõe parcialmente a Diretiva (UE) 2023/959, estabelecendo um novo regime do Comércio…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-182-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-lei-182-2026/</guid>
-    <pubDate>Thu, 10 Sep 2026 10:00:00 +0000</pubDate>
-    <description>As empresas que introduzem combustíveis no mercado, como distribuidores de combustível para transportes ou aquecimento, passam a ter novas obrigações de monitorização e reporte de emissões de gases com efeito de estufa. Este novo regime exige a posse de licenças de emissão e a comunicação de dados relativos ao consumo de combustíveis nos setores dos edifícios e transportes rodoviários.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-2026-1168979172</description>
-    <category>Transportes e Logística</category>
-    <category>Energia e Ambiente</category>
-    <category>Construção e Imobiliário</category>
-    <category>Emissões de CO2</category>
-    <category>Combustíveis</category>
-    <category>Licenças de Emissão</category>
-    <category>Descarbonização</category>
   </item>
 </channel>
 </rss>
