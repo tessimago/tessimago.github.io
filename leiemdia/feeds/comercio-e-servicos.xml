@@ -6,9 +6,23 @@
   <link>https://tessimago.github.io/leiemdia/setores/comercio-e-servicos/</link>
   <description>Retalho, consumo, práticas comerciais, horários, saldos.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Fri, 02 Oct 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 06 Oct 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/comercio-e-servicos.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Aviso n.º 24487/2026/2 — Município da Guarda Regulamento Municipal de Trânsito, Circulação e Estacionamento da…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/aviso-24487-2026-2/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-24487-2026-2/</guid>
+    <pubDate>Tue, 06 Oct 2026 10:00:00 +0000</pubDate>
+    <description>Este regulamento estabelece as novas regras para a circulação e estacionamento no concelho da Guarda. As empresas e profissionais que operam na região devem estar atentos às novas normas de trânsito e utilização do espaço público.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/193000000/0035300399.pdf</description>
+    <category>Transportes e Logística</category>
+    <category>Comércio e Serviços</category>
+    <category>Trânsito</category>
+    <category>Estacionamento</category>
+    <category>Regulamento Municipal</category>
+  </item>
   <item>
     <title>Edital n.º 1243/2026 — Município de Leiria Aprovação da alteração do Regulamento da Atividade de Comércio a…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/edital-1243-2026/</link>
@@ -146,20 +160,6 @@ Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/180000000/0020800
     <category>Comércio e Serviços</category>
     <category>Contratação Pública</category>
     <category>Serviços de Limpeza</category>
-  </item>
-  <item>
-    <title>Aviso (extrato) n.º 22687-A/2026/2 — Município de Ourém Prorrogação do prazo da consulta pública sobre o projeto de…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/aviso-extrato-22687-a-2026-2/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-extrato-22687-a-2026-2/</guid>
-    <pubDate>Mon, 14 Sep 2026 10:00:00 +0000</pubDate>
-    <description>O Município do Ourém adiou o período de consulta pública relativo ao novo regulamento que define a taxa para ocupação de espaço público por atividades turísticas. Isto significa que os interessados têm agora mais tempo para analisar e apresentar sugestões sobre as novas regras de cobrança.
-
-Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/178000001/0000200002.pdf</description>
-    <category>Alojamento Local e Turismo</category>
-    <category>Comércio e Serviços</category>
-    <category>Taxa Municipal</category>
-    <category>Consulta Pública</category>
-    <category>Turismo</category>
   </item>
 </channel>
 </rss>

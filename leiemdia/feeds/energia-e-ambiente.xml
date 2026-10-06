@@ -6,9 +6,23 @@
   <link>https://tessimago.github.io/leiemdia/setores/energia-e-ambiente/</link>
   <description>Eletricidade, gás, renováveis, resíduos, licenciamento ambiental.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Fri, 02 Oct 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 06 Oct 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/energia-e-ambiente.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Regulamento n.º 1235/2026 — Município de Manteigas Regulamento Municipal de Gestão de Combustíveis para o Interior…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/regulamento-1235-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/regulamento-1235-2026/</guid>
+    <pubDate>Tue, 06 Oct 2026 10:00:00 +0000</pubDate>
+    <description>Este regulamento estabelece novas regras para a gestão e armazenamento de combustíveis em zonas urbanas no concelho de Manteigas. As empresas com depósitos ou atividades que utilizem estes materiais devem cumprir as normas municipais de segurança.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/193000000/0047400479.pdf</description>
+    <category>Energia e Ambiente</category>
+    <category>Construção e Imobiliário</category>
+    <category>Gestão de Combustíveis</category>
+    <category>Segurança Urbana</category>
+    <category>Regulamento Municipal</category>
+  </item>
   <item>
     <title>Decreto-Lei n.º 198/2026 — Presidência do Conselho de Ministros Altera o Decreto-Lei n.º 267/2002, de 26 de…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-198-2026/</link>
@@ -270,20 +284,6 @@ Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-2026-11
     <category>Equipamentos Eletrónicos</category>
     <category>Substâncias Perigosas</category>
     <category>Isenções Técnicas</category>
-  </item>
-  <item>
-    <title>Aviso n.º 22787/2026/2 — Município de Fornos de Algodres Publicação da aprovação da 1.ª alteração à 1.ª revisão do…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/aviso-22787-2026-2/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-22787-2026-2/</guid>
-    <pubDate>Tue, 15 Sep 2026 10:00:00 +0000</pubDate>
-    <description>A alteração ao Plano Diretor Municipal de Fornos de Algodres define novas regras para o uso e ocupação do solo no concelho. Esta atualização impacta diretamente novos projetos de construção, expansão de atividades económicas e licenciamentos urbanísticos.
-
-Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/179000000/0031600415.pdf</description>
-    <category>Construção e Imobiliário</category>
-    <category>Energia e Ambiente</category>
-    <category>PDM</category>
-    <category>Ordenamento do Território</category>
-    <category>Urbanismo</category>
   </item>
 </channel>
 </rss>

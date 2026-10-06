@@ -6,9 +6,23 @@
   <link>https://tessimago.github.io/leiemdia/setores/alojamento-local-e-turismo/</link>
   <description>AL, empreendimentos turísticos, animação turística, Turismo de Portugal.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Fri, 02 Oct 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 06 Oct 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/alojamento-local-e-turismo.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Aviso n.º 24485/2026/2 — Município da Figueira da Foz Prorrogação do prazo (18 meses) de elaboração do Plano de…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/aviso-24485-2026-2/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-24485-2026-2/</guid>
+    <pubDate>Tue, 06 Oct 2026 10:00:00 +0000</pubDate>
+    <description>O Município da Figueira da Foz decidiu adiar o prazo para a conclusão do plano de detalhe do projeto turístico na Lagoa da Vela por mais 18 meses. Esta decisão dá mais tempo ao desenvolvimento do empreendimento, mas atrasa o início das obras e licenciamentos associados.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/193000000/0034300343.pdf</description>
+    <category>Alojamento Local e Turismo</category>
+    <category>Construção e Imobiliário</category>
+    <category>Urbanismo</category>
+    <category>Turismo</category>
+    <category>Licenciamento</category>
+  </item>
   <item>
     <title>Aviso n.º 24388/2026/2 — Município da Figueira da Foz Discussão pública da proposta de alteração da área de…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/aviso-24388-2026-2/</link>
@@ -80,33 +94,6 @@ Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/186000000/0032000
     <category>PDM</category>
     <category>Ordenamento do Território</category>
     <category>Orla Costeira</category>
-  </item>
-  <item>
-    <title>Aviso n.º 22639/2026/2 — Município de Baião Submete a consulta pública o projeto do Regulamento da Taxa Municipal…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/aviso-22639-2026-2/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-22639-2026-2/</guid>
-    <pubDate>Mon, 14 Sep 2026 10:00:00 +0000</pubDate>
-    <description>O Município de Baião abriu uma consulta pública para discutir a criação de uma nova taxa turística no concelho. Se aprovado, este regulamento poderá trazer novos custos e obrigações de cobrança para quem explora serviços de turismo na região.
-
-Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/178000000/0024500245.pdf</description>
-    <category>Alojamento Local e Turismo</category>
-    <category>Taxa Municipal</category>
-    <category>Turismo</category>
-    <category>Consulta Pública</category>
-  </item>
-  <item>
-    <title>Aviso (extrato) n.º 22687-A/2026/2 — Município de Ourém Prorrogação do prazo da consulta pública sobre o projeto de…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/aviso-extrato-22687-a-2026-2/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-extrato-22687-a-2026-2/</guid>
-    <pubDate>Mon, 14 Sep 2026 10:00:00 +0000</pubDate>
-    <description>O Município do Ourém adiou o período de consulta pública relativo ao novo regulamento que define a taxa para ocupação de espaço público por atividades turísticas. Isto significa que os interessados têm agora mais tempo para analisar e apresentar sugestões sobre as novas regras de cobrança.
-
-Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/178000001/0000200002.pdf</description>
-    <category>Alojamento Local e Turismo</category>
-    <category>Comércio e Serviços</category>
-    <category>Taxa Municipal</category>
-    <category>Consulta Pública</category>
-    <category>Turismo</category>
   </item>
 </channel>
 </rss>
