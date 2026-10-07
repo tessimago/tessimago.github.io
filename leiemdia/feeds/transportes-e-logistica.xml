@@ -6,9 +6,36 @@
   <link>https://tessimago.github.io/leiemdia/setores/transportes-e-logistica/</link>
   <description>Transporte rodoviário, TVDE, mercadorias, IMT, portos.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Tue, 06 Oct 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 07 Oct 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/transportes-e-logistica.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Decreto-Lei n.º 199/2026 — Presidência do Conselho de Ministros Cria apoios financeiros extraordinários e…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-199-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-lei-199-2026/</guid>
+    <pubDate>Wed, 07 Oct 2026 10:00:00 +0000</pubDate>
+    <description>O Governo vai disponibilizar novos apoios financeiros para ajudar a compensar o aumento dos custos com combustíveis. Estas medidas são temporárias e destinam-se especificamente a empresas de transportes e instituições de apoio social.
+
+Diploma oficial: https://files.diariodarepublica.pt/1s/2026/10/19400/0000200013.pdf</description>
+    <category>Transportes e Logística</category>
+    <category>Trabalho e Segurança Social</category>
+    <category>Apoios Financeiros</category>
+    <category>Combustíveis</category>
+    <category>Transportes</category>
+  </item>
+  <item>
+    <title>Aviso n.º 24643/2026/2 — Município de Loures Consolidação definitiva de mobilidades intercarreiras.</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/aviso-24643-2026-2/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-24643-2026-2/</guid>
+    <pubDate>Wed, 07 Oct 2026 10:00:00 +0000</pubDate>
+    <description>Este aviso estabelece a nova organização das linhas de autocarros intercarreiras no concelho de Loures. A medida visa consolidar as rotas de transporte público para melhorar a eficiência do serviço na região.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/194000000/0039000390.pdf</description>
+    <category>Transportes e Logística</category>
+    <category>Transportes Públicos</category>
+    <category>Mobilidade</category>
+    <category>Loures</category>
+  </item>
   <item>
     <title>Despacho n.º 12050/2026 — Presidência do Conselho de Ministros - Gabinete do Secretário de Estado das…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/despacho-12050-2026/</link>
@@ -220,33 +247,6 @@ Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/181000000/0003300
     <category>Mobilidade Urbana</category>
     <category>Fundos Públicos</category>
     <category>Transportes</category>
-  </item>
-  <item>
-    <title>Decreto-Lei n.º 183/2026 — Aprova o novo Regulamento de Passagens de Nível.</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-183-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-lei-183-2026/</guid>
-    <pubDate>Wed, 16 Sep 2026 10:00:00 +0000</pubDate>
-    <description>Este novo regulamento altera as regras de segurança e gestão das passagens de nível em Portugal. As empresas ferroviárias e gestores de infraestruturas devem agora seguir critérios mais rigorosos de análise de risco para prevenir acidentes.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770</description>
-    <category>Transportes e Logística</category>
-    <category>Segurança Ferroviária</category>
-    <category>Transportes</category>
-    <category>Regulamentação</category>
-  </item>
-  <item>
-    <title>Decreto-Lei n.º 184/2026 — Aprova o Regulamento da Transformação de Veículos.</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-184-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-lei-184-2026/</guid>
-    <pubDate>Wed, 16 Sep 2026 10:00:00 +0000</pubDate>
-    <description>As empresas que realizam modificações em veículos e reboques passam a estar sujeitas a novas regras de reconhecimento e fiscalização pelo IMT. Além disso, fica proibida a publicidade a práticas que não cumpram as normas deste novo regulamento.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2026-1171382771</description>
-    <category>Transportes e Logística</category>
-    <category>Comércio e Serviços</category>
-    <category>Transformação de Veículos</category>
-    <category>Código da Estrada</category>
-    <category>Publicidade</category>
   </item>
 </channel>
 </rss>
