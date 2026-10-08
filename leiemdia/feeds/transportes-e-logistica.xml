@@ -6,9 +6,24 @@
   <link>https://tessimago.github.io/leiemdia/setores/transportes-e-logistica/</link>
   <description>Transporte rodoviário, TVDE, mercadorias, IMT, portos.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Wed, 07 Oct 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 08 Oct 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/transportes-e-logistica.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Despacho n.º 12249/2026 — Instituto Politécnico de Coimbra Encargos plurianuais ― aquisição de serviços de viagens…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/despacho-12249-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/despacho-12249-2026/</guid>
+    <pubDate>Thu, 08 Oct 2026 10:00:00 +0000</pubDate>
+    <description>O Instituto Politécnico de Coimbra planeia contratar serviços para diversas necessidades logísticas e institucionais ao longo de vários anos. Este despacho refere-se à aquisição de serviços de viagens, alojamento e transportes para apoiar as atividades da instituição.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/195000000/0022100221.pdf</description>
+    <category>Transportes e Logística</category>
+    <category>Alojamento Local e Turismo</category>
+    <category>Comércio e Serviços</category>
+    <category>Contratação Pública</category>
+    <category>Serviços de Viagens</category>
+    <category>Logística</category>
+  </item>
   <item>
     <title>Decreto-Lei n.º 199/2026 — Presidência do Conselho de Ministros Cria apoios financeiros extraordinários e…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-199-2026/</link>
@@ -220,33 +235,6 @@ Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/182000000/0030100
     <category>Transporte de Passageiros</category>
     <category>Táxi</category>
     <category>Consulta Pública</category>
-  </item>
-  <item>
-    <title>Deliberação n.º 1075/2026 — Presidência do Conselho de Ministros - Instituto da Mobilidade e dos Transportes, IP…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/deliberacao-1075-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/deliberacao-1075-2026/</guid>
-    <pubDate>Thu, 17 Sep 2026 10:00:00 +0000</pubDate>
-    <description>O IMT vai implementar um novo sistema para registar dados de viagens e tráfego em todo o país. Esta medida visa centralizar a informação sobre movimentos multimodais no ponto de acesso nacional.
-
-Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/181000000/0002800029.pdf</description>
-    <category>Transportes e Logística</category>
-    <category>Transportes</category>
-    <category>Mobilidade</category>
-    <category>Dados de Tráfego</category>
-  </item>
-  <item>
-    <title>Portaria n.º 401/2026/2 — Presidência do Conselho de Ministros e Finanças - Gabinete do Secretário de Estado…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/portaria-401-2026-2/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/portaria-401-2026-2/</guid>
-    <pubDate>Thu, 17 Sep 2026 10:00:00 +0000</pubDate>
-    <description>Este diploma autoriza a transferência de verbas entre fundos para financiar planos de mobilidade urbana sustentável. Na prática, isto significa que haverá mais recursos disponíveis para projetos de transportes e infraestruturas de mobilidade nas cidades.
-
-Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/181000000/0003300034.pdf</description>
-    <category>Transportes e Logística</category>
-    <category>Energia e Ambiente</category>
-    <category>Mobilidade Urbana</category>
-    <category>Fundos Públicos</category>
-    <category>Transportes</category>
   </item>
 </channel>
 </rss>

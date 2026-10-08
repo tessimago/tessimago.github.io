@@ -6,9 +6,24 @@
   <link>https://tessimago.github.io/leiemdia/setores/comercio-e-servicos/</link>
   <description>Retalho, consumo, práticas comerciais, horários, saldos.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Tue, 06 Oct 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 08 Oct 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/comercio-e-servicos.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Despacho n.º 12249/2026 — Instituto Politécnico de Coimbra Encargos plurianuais ― aquisição de serviços de viagens…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/despacho-12249-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/despacho-12249-2026/</guid>
+    <pubDate>Thu, 08 Oct 2026 10:00:00 +0000</pubDate>
+    <description>O Instituto Politécnico de Coimbra planeia contratar serviços para diversas necessidades logísticas e institucionais ao longo de vários anos. Este despacho refere-se à aquisição de serviços de viagens, alojamento e transportes para apoiar as atividades da instituição.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/195000000/0022100221.pdf</description>
+    <category>Transportes e Logística</category>
+    <category>Alojamento Local e Turismo</category>
+    <category>Comércio e Serviços</category>
+    <category>Contratação Pública</category>
+    <category>Serviços de Viagens</category>
+    <category>Logística</category>
+  </item>
   <item>
     <title>Aviso n.º 24487/2026/2 — Município da Guarda Regulamento Municipal de Trânsito, Circulação e Estacionamento da…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/aviso-24487-2026-2/</link>
@@ -119,21 +134,6 @@ Diploma oficial: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-mini
     <category>Interesse Público</category>
     <category>Reabilitação Urbana</category>
     <category>Investimento Universitário</category>
-  </item>
-  <item>
-    <title>Resolução do Conselho de Ministros n.º 181/2026 — Aprova a Estratégia TERRA+ para o período 2026-2030.</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-181-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-181-2026/</guid>
-    <pubDate>Thu, 17 Sep 2026 10:00:00 +0000</pubDate>
-    <description>O Estado português vai implementar novas diretrizes para reduzir drasticamente a deposição de resíduos em aterro e aumentar as taxas de reciclagem até 2035. As empresas terão de se adaptar a novos modelos de economia circular, com maior foco na responsabilidade alargada do produtor e no ecodesign.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/181-2026-1171535220</description>
-    <category>Energia e Ambiente</category>
-    <category>Comércio e Serviços</category>
-    <category>Agricultura e Pescas</category>
-    <category>Economia Circular</category>
-    <category>Gestão de Resíduos</category>
-    <category>Sustentabilidade</category>
   </item>
 </channel>
 </rss>
