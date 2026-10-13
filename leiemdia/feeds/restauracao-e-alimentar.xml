@@ -6,9 +6,23 @@
   <link>https://tessimago.github.io/leiemdia/setores/restauracao-e-alimentar/</link>
   <description>HORECA, segurança alimentar, ASAE, licenciamento de estabelecimentos.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Fri, 09 Oct 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 13 Oct 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/restauracao-e-alimentar.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Aviso n.º 25168/2026/2 — Município de Alcanena Proposta do Regulamento do Funcionamento dos Refeitórios Escolares…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/aviso-25168-2026-2/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-25168-2026-2/</guid>
+    <pubDate>Tue, 13 Oct 2026 10:00:00 +0000</pubDate>
+    <description>O Município de Alcanena abriu a discussão pública para uma nova proposta de regulamento que define as regras de funcionamento dos refeitórios escolares locais. Este documento poderá alterar as condições de operação e gestão destes serviços no concelho.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/198000000/0015600163.pdf</description>
+    <category>Restauração e Alimentar</category>
+    <category>Setor Público e Autarquias</category>
+    <category>Refeitórios Escolares</category>
+    <category>Discussão Pública</category>
+    <category>Regulamento Municipal</category>
+  </item>
   <item>
     <title>Aviso n.º 24848/2026/2 — Município do Barreiro Consulta pública do projeto do Regulamento Selo Municipal Barreiro=.</title>
     <link>https://tessimago.github.io/leiemdia/diploma/aviso-24848-2026-2/</link>
@@ -49,19 +63,6 @@ Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/186000000/0032500
     <category>Restauração e Alimentar</category>
     <category>Refeições Escolares</category>
     <category>Taxas Municipais</category>
-  </item>
-  <item>
-    <title>Aviso n.º 23396/2026/2 — Município de Pedrógão Grande Abertura do procedimento para cessão do direito de…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/aviso-23396-2026-2/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-23396-2026-2/</guid>
-    <pubDate>Tue, 22 Sep 2026 10:00:00 +0000</pubDate>
-    <description>A Câmara Municipal de Pedrógão Grande abriu um concurso para permitir que uma empresa possa explorar um espaço através de uma unidade móvel. Esta oportunidade destina-se ao negócio de venda de bebidas, creperia e gelataria.
-
-Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/184000000/0036700367.pdf</description>
-    <category>Restauração e Alimentar</category>
-    <category>Concurso Público</category>
-    <category>Exploração de Espaço</category>
-    <category>Unidade Móvel</category>
   </item>
 </channel>
 </rss>
