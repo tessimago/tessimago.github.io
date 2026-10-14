@@ -6,9 +6,36 @@
   <link>https://tessimago.github.io/leiemdia/setores/agricultura-e-pescas/</link>
   <description>Apoios IFAP/PEPAC, regadio, vinha, pescas e aquicultura.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Thu, 08 Oct 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/agricultura-e-pescas.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 34/2026/A — Região Autónoma dos Açores - Assembleia Legislativa Recomenda ao Governo Regional dos…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/resolucao-da-assembleia-legislativa-da-regiao-autonoma-dos-acores-34-2026-a/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/resolucao-da-assembleia-legislativa-da-regiao-autonoma-dos-acores-34-2026-a/</guid>
+    <pubDate>Wed, 14 Oct 2026 10:00:00 +0000</pubDate>
+    <description>Esta recomendação propõe que o Governo Regional dos Açores crie prémios individuais para as vacas aleitantes em São Jorge. O objetivo é apoiar financeiramente os produtores da ilha através de novos direitos de prémio baseados em critérios socioeconómicos.
+
+Diploma oficial: https://files.diariodarepublica.pt/1s/2026/10/19900/0003900039.pdf</description>
+    <category>Agricultura e Pescas</category>
+    <category>Apoios à Exploração</category>
+    <category>Pecuária</category>
+    <category>Açores</category>
+  </item>
+  <item>
+    <title>Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 35/2026/A — Região Autónoma dos Açores - Assembleia Legislativa Recomenda ao Governo Regional dos…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/resolucao-da-assembleia-legislativa-da-regiao-autonoma-dos-acores-35-2026-a/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/resolucao-da-assembleia-legislativa-da-regiao-autonoma-dos-acores-35-2026-a/</guid>
+    <pubDate>Wed, 14 Oct 2026 10:00:00 +0000</pubDate>
+    <description>Esta recomendação visa incentivar o Governo Regional a apoiar medidas para promover e valorizar o Queijo de São Jorge DOP. O objetivo prático é fortalecer a competitividade deste produto no mercado externo através de estratégias de internacionalização.
+
+Diploma oficial: https://files.diariodarepublica.pt/1s/2026/10/19900/0004000040.pdf</description>
+    <category>Agricultura e Pescas</category>
+    <category>Comércio e Serviços</category>
+    <category>Queijo de São Jorge</category>
+    <category>DOP</category>
+    <category>Internacionalização</category>
+  </item>
   <item>
     <title>Decreto-Lei n.º 200/2026 — Presidência do Conselho de Ministros Altera o Decreto-Lei n.º 80-A/2026, de 31 de março…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-200-2026/</link>
@@ -213,19 +240,6 @@ Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/186000000/0007400
     <category>Investigação e Desenvolvimento</category>
     <category>Agroalimentar</category>
     <category>Direito de Superfície</category>
-  </item>
-  <item>
-    <title>Portaria n.º 436/2026/1 — Primeira alteração da Portaria n.º 431/2026/1, de 15 de setembro, que estabelece as…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/portaria-436-2026-1/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/portaria-436-2026-1/</guid>
-    <pubDate>Wed, 23 Sep 2026 10:00:00 +0000</pubDate>
-    <description>Esta alteração ajusta as fórmulas para calcular o apoio financecido aos viticultores do Douro que não consigam escoar a sua produção. A mudança foca-se na forma como se calcula a quantidade de uva não colhida e o respetivo coeficiente de perda.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/436-2026-1172868787</description>
-    <category>Agricultura e Pescas</category>
-    <category>Viticultura</category>
-    <category>Apoios à produção</category>
-    <category>Região Demarcada do Douro</category>
   </item>
 </channel>
 </rss>
