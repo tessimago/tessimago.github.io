@@ -6,9 +6,23 @@
   <link>https://tessimago.github.io/leiemdia/setores/agricultura-e-pescas/</link>
   <description>Apoios IFAP/PEPAC, regadio, vinha, pescas e aquicultura.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Wed, 14 Oct 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/agricultura-e-pescas.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Despacho n.º 12555/2026 — Agricultura e Mar - Direção-Geral de Alimentação e Veterinária Estabelece as normas…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/despacho-12555-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/despacho-12555-2026/</guid>
+    <pubDate>Thu, 15 Oct 2026 10:00:00 +0000</pubDate>
+    <description>Este despacho define novas regras para pedir autorização de uso especial de medicamentos veterinários e introduz um processo totalmente digital. A medida simplifica a tramitação eletrónica, substituindo as normas antigas que estavam em vigor desde 2018.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/200000000/0013500140.pdf</description>
+    <category>Agricultura e Pescas</category>
+    <category>Saúde e Farmácias</category>
+    <category>Medicamentos Veterinários</category>
+    <category>Administração Digital</category>
+    <category>DADV</category>
+  </item>
   <item>
     <title>Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 34/2026/A — Região Autónoma dos Açores - Assembleia Legislativa Recomenda ao Governo Regional dos…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/resolucao-da-assembleia-legislativa-da-regiao-autonoma-dos-acores-34-2026-a/</link>
@@ -227,19 +241,6 @@ Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/437-2026-11734
     <category>Proteção de Águas</category>
     <category>Perímetros de Proteção</category>
     <category>Meio Ambiente</category>
-  </item>
-  <item>
-    <title>Despacho n.º 11725/2026 — Educação, Ciência e Inovação - Gabinete da Secretária de Estado do Ensino Superior…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/despacho-11725-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/despacho-11725-2026/</guid>
-    <pubDate>Thu, 24 Sep 2026 10:00:00 +0000</pubDate>
-    <description>Este despacho autoriza a utilização de um terreno da Escola Superior Agrária de Viana do Castelo para que o Município de Ponte de Lima possa construir as infraestruturas de um novo centro tecnológico agroalimentar. Na prática, este movimento facilita o desenvolvimento de investigação e inovação no setor agroalimentar da região.
-
-Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/186000000/0007400076.pdf</description>
-    <category>Agricultura e Pescas</category>
-    <category>Investigação e Desenvolvimento</category>
-    <category>Agroalimentar</category>
-    <category>Direito de Superfície</category>
   </item>
 </channel>
 </rss>

@@ -6,9 +6,24 @@
   <link>https://tessimago.github.io/leiemdia/setores/restauracao-e-alimentar/</link>
   <description>HORECA, segurança alimentar, ASAE, licenciamento de estabelecimentos.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Wed, 14 Oct 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/restauracao-e-alimentar.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Edital n.º 1312/2026 — Município do Entroncamento Alteração à Tabela de Taxas e Respetiva Fundamentação…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/edital-1312-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/edital-1312-2026/</guid>
+    <pubDate>Thu, 15 Oct 2026 10:00:00 +0000</pubDate>
+    <description>As taxas municipais aplicadas no concelho do Entroncamento vão sofrer alterações nos seus valores. Esta atualização de custos para serviços e licenças deve ser considerada no planeamento financeiro das empresas locais.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/200000000/0042200428.pdf</description>
+    <category>Comércio e Serviços</category>
+    <category>Construção e Imobiliário</category>
+    <category>Restauração e Alimentar</category>
+    <category>Taxas Municipais</category>
+    <category>Entroncamento</category>
+    <category>Custos Operacionais</category>
+  </item>
   <item>
     <title>Edital n.º 1300/2026 — Município do Entroncamento Fixação do horário de encerramento dos estabelecimentos…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/edital-1300-2026/</link>
@@ -65,18 +80,6 @@ Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/192000000/0040900
     <category>Taxas Municipais</category>
     <category>Consulta Pública</category>
     <category>Vendas Novas</category>
-  </item>
-  <item>
-    <title>Edital n.º 1202/2026 — Município de Lagoa (Algarve) Submete os valores das refeições escolares ― ano letivo de…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/edital-1202-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/edital-1202-2026/</guid>
-    <pubDate>Thu, 24 Sep 2026 10:00:00 +0000</pubDate>
-    <description>O Município de Lagoa publicou os valores que serão aplicados às refeições escolares para o próximo ano letivo. Esta informação é relevante para as famílias e fornecedores de serviços de alimentação que operam no concelho.
-
-Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/186000000/0032500325.pdf</description>
-    <category>Restauração e Alimentar</category>
-    <category>Refeições Escolares</category>
-    <category>Taxas Municipais</category>
   </item>
 </channel>
 </rss>
