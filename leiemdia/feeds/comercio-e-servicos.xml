@@ -6,9 +6,22 @@
   <link>https://tessimago.github.io/leiemdia/setores/comercio-e-servicos/</link>
   <description>Retalho, consumo, práticas comerciais, horários, saldos.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Thu, 15 Oct 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/comercio-e-servicos.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Portaria n.º 458/2026/1 — Economia e Coesão Territorial Procede à quarta alteração do sistema de incentivos…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/portaria-458-2026-1/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/portaria-458-2026-1/</guid>
+    <pubDate>Fri, 16 Oct 2026 10:00:00 +0000</pubDate>
+    <description>Esta alteração atualiza as regras do sistema de incentivos Portugal Events para promover a realização de eventos no país. As novas normas modificam os critérios e o funcionamento dos apoios financeiros disponíveis para organizadores.
+
+Diploma oficial: https://files.diariodarepublica.pt/1s/2026/10/20100/0000600025.pdf</description>
+    <category>Comércio e Serviços</category>
+    <category>Incentivos</category>
+    <category>Eventos</category>
+    <category>Apoios Económicos</category>
+  </item>
   <item>
     <title>Edital n.º 1312/2026 — Município do Entroncamento Alteração à Tabela de Taxas e Respetiva Fundamentação…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/edital-1312-2026/</link>
@@ -191,19 +204,6 @@ Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/439-2026-11740
     <category>Acordo Coletivo</category>
     <category>Salários</category>
     <category>Extensão de Convenção</category>
-  </item>
-  <item>
-    <title>Decreto-Lei n.º 194/2026 — Assegura a execução na ordem jurídica interna do Regulamento (UE) 2023/2411, relativo à…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-194-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-lei-194-2026/</guid>
-    <pubDate>Fri, 25 Sep 2026 10:00:00 +0000</pubDate>
-    <description>Produtores de artigos artesanais e industriais passam a ter uma nova forma de proteger a origem dos seus produtos em toda a União Europeia. O processo de registo começa agora em Portugal através do INPI, permitindo combater a contrafação e valorizar o saber-fazer local.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2026-1173491823</description>
-    <category>Comércio e Serviços</category>
-    <category>Indicações Geográficas</category>
-    <category>Propriedade Industrial</category>
-    <category>Artesanato</category>
   </item>
 </channel>
 </rss>

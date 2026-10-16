@@ -6,9 +6,23 @@
   <link>https://tessimago.github.io/leiemdia/setores/alojamento-local-e-turismo/</link>
   <description>AL, empreendimentos turísticos, animação turística, Turismo de Portugal.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Wed, 14 Oct 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/alojamento-local-e-turismo.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Regulamento n.º 1360/2026 — Município das Lajes do Pico Regulamento de Criação e Aplicação da Taxa Turística do…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/regulamento-1360-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/regulamento-1360-2026/</guid>
+    <pubDate>Fri, 16 Oct 2026 10:00:00 +0000</pubDate>
+    <description>Os estabelecimentos de alojamento e serviços turísticos no Município das Lajes do Pico passarão a ter de cobrar uma nova taxa aos seus clientes. Esta medida implica novos procedimentos de cobrança e gestão de receitas para os operadores locais.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/201000000/0035000360.pdf</description>
+    <category>Alojamento Local e Turismo</category>
+    <category>Restauração e Alimentar</category>
+    <category>Taxa Turística</category>
+    <category>Município das Lajes do Pico</category>
+    <category>Custos de Exploração</category>
+  </item>
   <item>
     <title>Aviso (extrato) n.º 25358/2026/2 — Município de Belmonte Discussão pública da proposta de delimitação da área de…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/aviso-extrato-25358-2026-2/</link>
@@ -178,21 +192,6 @@ Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/190000000/0024400
     <category>Taxa Turística</category>
     <category>Coimbra</category>
     <category>Custos de Exploração</category>
-  </item>
-  <item>
-    <title>Aviso n.º 23810/2026/2 — Município de Setúbal Aprova a delimitação da área de reabilitação urbana ― ARU Setúbal…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/aviso-23810-2026-2/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-23810-2026-2/</guid>
-    <pubDate>Fri, 25 Sep 2026 10:00:00 +0000</pubDate>
-    <description>A Câmara Municipal de Setúbal definiu os limites geográficos da nova Área de Reabilitação Urbana (ARU) no centro da cidade. Esta medida permite que proprietários e investidores beneficiem de incentivos fiscais e regimes urbanísticos especiais em imóveis situados nesta zona.
-
-Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/187000000/0045200468.pdf</description>
-    <category>Construção e Imobiliário</category>
-    <category>Alojamento Local e Turismo</category>
-    <category>Reabilitação Urbana</category>
-    <category>ARU</category>
-    <category>Benefícios Fiscais</category>
-    <category>Setúbal</category>
   </item>
 </channel>
 </rss>

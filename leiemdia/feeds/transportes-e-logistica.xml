@@ -6,9 +6,22 @@
   <link>https://tessimago.github.io/leiemdia/setores/transportes-e-logistica/</link>
   <description>Transporte rodoviário, TVDE, mercadorias, IMT, portos.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Thu, 15 Oct 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/transportes-e-logistica.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Aviso n.º 25693/2026/2 — Município de Loulé Projeto de Regulamento Municipal do Serviço «Táxi Saúde Sénior» do…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/aviso-25693-2026-2/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-25693-2026-2/</guid>
+    <pubDate>Fri, 16 Oct 2026 10:00:00 +0000</pubDate>
+    <description>A Câmara Municipal de Loulé está a preparar um novo regulamento para criar o serviço de transporte &#39;Táxi Saúde Sénior&#39;. Este projeto visa facilitar a mobilidade de cidadãos seniores no concelho através de uma nova modalidade de transporte.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/201000000/0038300383.pdf</description>
+    <category>Transportes e Logística</category>
+    <category>Transporte</category>
+    <category>Mobilidade Sénior</category>
+    <category>Loulé</category>
+  </item>
   <item>
     <title>Regulamento n.º 1346/2026 — Município de Vendas Novas Regulamento do Transporte Público de Aluguer em Veículos…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/regulamento-1346-2026/</link>
@@ -163,33 +176,6 @@ Diploma oficial: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-mini
     <category>Metro do Porto</category>
     <category>Fundos Europeus</category>
     <category>Infraestruturas</category>
-  </item>
-  <item>
-    <title>Decreto-Lei n.º 195/2026 — Altera o Decreto-Lei n.º 132/2017, de 11 de outubro, que aprova o Regulamento Que Fixa os…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-195-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-lei-195-2026/</guid>
-    <pubDate>Fri, 25 Sep 2026 10:00:00 +0000</pubDate>
-    <description>As empresas de transporte podem agora utilizar conjuntos de veículos Euro-Modular com maior capacidade, permitindo atingir até 72 toneladas e 32 metros de comprimento. Esta mudança exige uma autorização especial do IMT para os veículos que excedam os limites habituais.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2026-1173491824</description>
-    <category>Transportes e Logística</category>
-    <category>Transporte de Mercadorias</category>
-    <category>Pesos e Dimensões</category>
-    <category>Euro-Modular</category>
-  </item>
-  <item>
-    <title>Portaria n.º 413/2026/2 — Presidência do Conselho de Ministros e Finanças - Gabinete do Secretário de Estado…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/portaria-413-2026-2/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/portaria-413-2026-2/</guid>
-    <pubDate>Fri, 25 Sep 2026 10:00:00 +0000</pubDate>
-    <description>Este documento autoriza a Infraestruturas de Portugal a distribuir os custos para obras urgentes de reparação da estrada EN 8-2, devido a danos causados por mau tempo. Trata-se de uma medida de manutenção rodoviária que impacta diretamente o setor das infraestruturas e construção.
-
-Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/187000000/0002100022.pdf</description>
-    <category>Construção e Imobiliário</category>
-    <category>Transportes e Logística</category>
-    <category>Infraestruturas</category>
-    <category>Obras Públicas</category>
-    <category>Manutenção Rodoviária</category>
   </item>
 </channel>
 </rss>
