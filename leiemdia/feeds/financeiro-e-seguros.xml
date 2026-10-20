@@ -6,9 +6,35 @@
   <link>https://tessimago.github.io/leiemdia/setores/financeiro-e-seguros/</link>
   <description>Banca, crédito, seguros, mercado de capitais, branqueamento.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Wed, 14 Oct 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/financeiro-e-seguros.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Despacho n.º 12739/2026 — Finanças - Gabinete do Secretário de Estado do Tesouro e das Finanças Autoriza o pedido…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/despacho-12739-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/despacho-12739-2026/</guid>
+    <pubDate>Tue, 20 Oct 2026 10:00:00 +0000</pubDate>
+    <description>O Estado vai reforçar a sua garantia pessoal junto dos bancos para facilitar o acesso ao crédito à habitação própria permanente. Esta medida visa permitir que jovens até aos 35 anos consigam obter financiamento bancário com maior segurança.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/203000000/0005600056.pdf</description>
+    <category>Financeiro e Seguros</category>
+    <category>Construção e Imobiliário</category>
+    <category>Crédito à Habitação</category>
+    <category>Garantia do Estado</category>
+    <category>Apoio aos Jovens</category>
+  </item>
+  <item>
+    <title>Resolução da Assembleia da República n.º 264/2026 — Assembleia da República Recomenda ao Governo que adote medidas de proteção das famílias…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/resolucao-da-assembleia-da-republica-264-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/resolucao-da-assembleia-da-republica-264-2026/</guid>
+    <pubDate>Mon, 19 Oct 2026 10:00:00 +0000</pubDate>
+    <description>Esta resolução é uma recomendação política que pede ao Governo a criação de medidas para proteger as famílias que têm empréstimos de casa. O objetivo é evitar que o aumento das taxas de juro, causado pela instabilidade no Médio Oriente, prejudique o orçamento familiar.
+
+Diploma oficial: https://files.diariodarepublica.pt/1s/2026/10/20200/0000700007.pdf</description>
+    <category>Financeiro e Seguros</category>
+    <category>Crédito à Habitação</category>
+    <category>Taxas de Juro</category>
+  </item>
   <item>
     <title>Portaria n.º 456/2026/1 — Finanças e Trabalho, Solidariedade e Segurança Social Regulamenta o procedimento de…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/portaria-456-2026-1/</link>
@@ -35,19 +61,6 @@ Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/195000000/0021400
     <category>Acidentes de Trabalho</category>
     <category>Incapacidade</category>
     <category>Direitos do Trabalhador</category>
-  </item>
-  <item>
-    <title>Acórdão (extrato) n.º 666/2026 — Tribunal Constitucional Julga inconstitucional a interpretação normativa dos artigos…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/acordao-extrato-666-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/acordao-extrato-666-2026/</guid>
-    <pubDate>Tue, 29 Sep 2026 10:00:00 +0000</pubDate>
-    <description>O Tribunal Constitucional decidiu que as instituições financeiras não podem ter as suas taxas de contribuição decididas pelo Banco de Portugal sem limites legais claros. Esta decisão impede que os custos das entidades reguladas fiquem sujeitos a valores incertos e imprevisíveis.
-
-Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/189000000/0016600166.pdf</description>
-    <category>Financeiro e Seguros</category>
-    <category>Taxas Regulatórias</category>
-    <category>Banco de Portugal</category>
-    <category>Instituições de Crédito</category>
   </item>
 </channel>
 </rss>

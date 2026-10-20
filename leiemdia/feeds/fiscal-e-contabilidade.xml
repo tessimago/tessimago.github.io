@@ -6,9 +6,53 @@
   <link>https://tessimago.github.io/leiemdia/setores/fiscal-e-contabilidade/</link>
   <description>Impostos, obrigações declarativas, faturação, benefícios fiscais.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Thu, 15 Oct 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/fiscal-e-contabilidade.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Lei n.º 64/2026 — Assembleia da República Prorroga a vigência da Lei n.º 12-B/2026, de 15 de abril, que…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/lei-64-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/lei-64-2026/</guid>
+    <pubDate>Mon, 19 Oct 2026 10:00:00 +0000</pubDate>
+    <description>Esta medida mantém os valores reduzidos nas taxas dos combustíveis e produtos energéticos por mais um período. Na prática, evita um aumento imediato nos custos de energia para as empresas e para o consumo.
+
+Diploma oficial: https://files.diariodarepublica.pt/1s/2026/10/20200/0000600006.pdf</description>
+    <category>Energia e Ambiente</category>
+    <category>Transportes e Logística</category>
+    <category>Fiscal e Contabilidade</category>
+    <category>Combustíveis</category>
+    <category>Impostos sobre a energia</category>
+    <category>Taxas unitárias</category>
+  </item>
+  <item>
+    <title>Resolução da Assembleia da República n.º 266/2026 — Assembleia da República Recomenda ao Governo o desenvolvimento de uma estratégia nacional…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/resolucao-da-assembleia-da-republica-266-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/resolucao-da-assembleia-da-republica-266-2026/</guid>
+    <pubDate>Mon, 19 Oct 2026 10:00:00 +0000</pubDate>
+    <description>Esta resolução sugere ao Governo a criação de novas medidas para incentivar a natalidade, focando-se em benefícios nos impostos e nas contribuições sociais. Para as empresas, isto poderá significar futuras alterações no custo do trabalho e novos apoios fiscais relacionados com a parentalidade.
+
+Diploma oficial: https://files.diariodarepublica.pt/1s/2026/10/20200/0001000010.pdf</description>
+    <category>Fiscal e Contabilidade</category>
+    <category>Trabalho e Segurança Social</category>
+    <category>Natalidade</category>
+    <category>Fiscalidade</category>
+    <category>Segurança Social</category>
+  </item>
+  <item>
+    <title>Resolução da Assembleia da República n.º 269/2026 — Assembleia da República Recomenda ao Governo a promoção do aumento da taxa de natalidade…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/resolucao-da-assembleia-da-republica-269-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/resolucao-da-assembleia-da-republica-269-2026/</guid>
+    <pubDate>Mon, 19 Oct 2026 10:00:00 +0000</pubDate>
+    <description>Esta recomendação sugere ao Governo a criação de novos incentivos fiscais e benefícios nas prestações sociais para estimular a natalidade. Na prática, poderá haver futuras alterações no IRS e nos apoios da Segurança Social para famílias com dependentes.
+
+Diploma oficial: https://files.diariodarepublica.pt/1s/2026/10/20200/0001300013.pdf</description>
+    <category>Fiscal e Contabilidade</category>
+    <category>Trabalho e Segurança Social</category>
+    <category>Natalidade</category>
+    <category>IRS</category>
+    <category>Segurança Social</category>
+    <category>Fiscalidade</category>
+  </item>
   <item>
     <title>Portaria n.º 457/2026/1 — Finanças Procede à atualização dos coeficientes de desvalorização da moeda a aplicar aos…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/portaria-457-2026-1/</link>
@@ -49,21 +93,6 @@ Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/190000000/0019600
     <category>Impostos Municipais</category>
     <category>Isenções Fiscais</category>
     <category>Cantanhede</category>
-  </item>
-  <item>
-    <title>Acórdão (extrato) n.º 665/2026 — Tribunal Constitucional Não julga inconstitucional a interpretação normativa do artigo…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/acordao-extrato-665-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/acordao-extrato-665-2026/</guid>
-    <pubDate>Tue, 29 Sep 2026 10:00:00 +0000</pubDate>
-    <description>Os proprietários de imóveis não podem pedir a revisão automática do valor patrimonial para efeitos de IMI ou AIMI se deixarem passar os prazos normais de reclamação. Se o erro no valor do imóvel não for contestado atempadamente através dos meios próprios, não é possível recorrer ao mecanismo de revisão oficiosa.
-
-Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/189000000/0016500165.pdf</description>
-    <category>Fiscal e Contabilidade</category>
-    <category>Construção e Imobiliário</category>
-    <category>IMI</category>
-    <category>AIMI</category>
-    <category>Valor Patrimonial Tributário</category>
-    <category>Tribunal Constitucional</category>
   </item>
 </channel>
 </rss>

@@ -6,9 +6,50 @@
   <link>https://tessimago.github.io/leiemdia/setores/comercio-e-servicos/</link>
   <description>Retalho, consumo, práticas comerciais, horários, saldos.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Fri, 16 Oct 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/comercio-e-servicos.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Resolução da Assembleia da República n.º 275/2026 — Assembleia da República Recomenda ao Governo o reforço dos mecanismos de proteção dos…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/resolucao-da-assembleia-da-republica-275-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/resolucao-da-assembleia-da-republica-275-2026/</guid>
+    <pubDate>Tue, 20 Oct 2026 10:00:00 +0000</pubDate>
+    <description>Esta recomendação parlamentar visa reforçar a proteção de quem compra online nas regiões autónomas. O objetivo é garantir que as regras do comércio eletrónico sejam aplicadas com maior eficácia nestas regiões.
+
+Diploma oficial: https://files.diariodarepublica.pt/1s/2026/10/20300/0000500005.pdf</description>
+    <category>Comércio e Serviços</category>
+    <category>Tecnologia e Dados</category>
+    <category>Comércio Eletrónico</category>
+    <category>Proteção do Consumidor</category>
+    <category>Regiões Autónomas</category>
+  </item>
+  <item>
+    <title>Aviso (extrato) n.º 25968/2026/2 — Freguesia de Amora Consulta pública do projeto de Regulamento do Programa «Natal com o…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/aviso-extrato-25968-2026-2/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-extrato-25968-2026-2/</guid>
+    <pubDate>Tue, 20 Oct 2026 10:00:00 +0000</pubDate>
+    <description>A Freguesia de Amora abriu a consulta pública para um novo regulamento que promove o comércio local através de incentivos ao consumo. O programa pretende ligar as compras no comércio da zona a benefícios para as escolas locais.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/203000000/0058000580.pdf</description>
+    <category>Comércio e Serviços</category>
+    <category>Comércio Local</category>
+    <category>Consulta Pública</category>
+    <category>Incentivos ao Consumo</category>
+  </item>
+  <item>
+    <title>Diretiva n.º 4/2026 — Entidade Reguladora dos Serviços Energéticos Primeira alteração à Diretiva n.º 1/2026, de…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/diretiva-4-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/diretiva-4-2026/</guid>
+    <pubDate>Mon, 19 Oct 2026 10:00:00 +0000</pubDate>
+    <description>Este documento define os novos preços e tarifas da eletricidade que as empresas terão de pagar a partir do último trimestre de 2026. Estabelece também as regras para o controlo dos custos energéticos até ao final de 2029.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/202000000/0019200205.pdf</description>
+    <category>Energia e Ambiente</category>
+    <category>Comércio e Serviços</category>
+    <category>Energia Elétrica</category>
+    <category>Tarifas</category>
+    <category>Custos Energéticos</category>
+  </item>
   <item>
     <title>Portaria n.º 458/2026/1 — Economia e Coesão Territorial Procede à quarta alteração do sistema de incentivos…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/portaria-458-2026-1/</link>
@@ -190,20 +231,6 @@ Diploma oficial: https://files.diariodarepublica.pt/2s/2026/09/190000000/0019600
     <category>Impostos Municipais</category>
     <category>Isenções Fiscais</category>
     <category>Cantanhede</category>
-  </item>
-  <item>
-    <title>Portaria n.º 439/2026/1 — Portaria de extensão do acordo coletivo entre a LACTICOOP ― União de Cooperativas de…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/portaria-439-2026-1/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/portaria-439-2026-1/</guid>
-    <pubDate>Mon, 28 Sep 2026 10:00:00 +0000</pubDate>
-    <description>As empresas do setor de laticínios e apoio à agricultura agora têm de aplicar as novas regras salariais deste acordo coletivo aos seus trabalhadores não sindicalizados. Esta medida obriga ao cumprimento das condições previstas no acordo para quem não está representado por outro sindicato.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/439-2026-1174093373</description>
-    <category>Agricultura e Pescas</category>
-    <category>Comércio e Serviços</category>
-    <category>Acordo Coletivo</category>
-    <category>Salários</category>
-    <category>Extensão de Convenção</category>
   </item>
 </channel>
 </rss>
