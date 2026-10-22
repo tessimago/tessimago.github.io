@@ -6,9 +6,37 @@
   <link>https://tessimago.github.io/leiemdia/setores/energia-e-ambiente/</link>
   <description>Eletricidade, gás, renováveis, resíduos, licenciamento ambiental.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Tue, 20 Oct 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/energia-e-ambiente.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Decreto-Lei n.º 203/2026 — Transpõe a Diretiva (UE) 2024/869, relativa à proteção dos trabalhadores contra riscos…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-203-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-lei-203-2026/</guid>
+    <pubDate>Thu, 22 Oct 2026 10:00:00 +0000</pubDate>
+    <description>As empresas que utilizam chumbo ou diisocianatos terão de cumprir novos limites de exposição profissional e biológica para proteger a saúde dos trabalhadores. Existe um período de transição para adaptar as medidas de segurança até ao final de 2028.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2026-1184326799</description>
+    <category>Energia e Ambiente</category>
+    <category>Construção e Imobiliário</category>
+    <category>Segurança no Trabalho</category>
+    <category>Riscos Químicos</category>
+    <category>Saúde Ocupacional</category>
+  </item>
+  <item>
+    <title>Decreto-Lei n.º 204/2026 — Transpõe a Diretiva (UE) 2022/1999, relativa a procedimentos uniformes de controlo do…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-204-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-lei-204-2026/</guid>
+    <pubDate>Thu, 22 Oct 2026 10:00:00 +0000</pubDate>
+    <description>As empresas que transportam mercadorias perigosas enfrentam novas regras de fiscalização rodoviária baseadas em níveis de risco. As infrações agora são classificadas por categorias de gravidade, podendo resultar na imobilização imediata do veículo em casos de perigo elevado.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2026-1184326800</description>
+    <category>Transportes e Logística</category>
+    <category>Energia e Ambiente</category>
+    <category>Transporte de Mercadorias Perigosas</category>
+    <category>Fiscalização Rodoviária</category>
+    <category>Segurança no Transporte</category>
+  </item>
   <item>
     <title>Decreto-Lei n.º 202/2026 — Presidência do Conselho de Ministros Altera o Decreto-Lei n.º 40-A/2026, de 13 de…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-202-2026/</link>
@@ -246,35 +274,6 @@ Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/192000000/0034900
     <category>Veículos Elétricos</category>
     <category>Consulta Pública</category>
     <category>Regulamento Municipal</category>
-  </item>
-  <item>
-    <title>Resolução do Conselho de Ministros n.º 192/2026 — Altera a Resolução do Conselho de Ministros n.º 56/2021, de 14 de maio, reforçando e…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-192-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-192-2026/</guid>
-    <pubDate>Thu, 01 Oct 2026 10:00:00 +0000</pubDate>
-    <description>O Governo autorizou um novo reforço de verbas para a Metro Mondego, permitindo a continuidade das obras do Parque Material e Oficinas em Coimbra e a compra de 40 novos veículos elétricos. Esta alteração garante o financiamento necessário para as infraestruturas e sistemas de carregamento até ao final da década.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/192-2026-1176351845</description>
-    <category>Construção e Imobiliário</category>
-    <category>Transportes e Logística</category>
-    <category>Energia e Ambiente</category>
-    <category>Metro Mondego</category>
-    <category>Investimento Público</category>
-    <category>Mobilidade Urbana</category>
-    <category>Financiamento Europeu</category>
-  </item>
-  <item>
-    <title>Decreto n.º 21/2026 — Procede à exclusão do regime florestal parcial de parcela de terreno localizada na serra…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/decreto-21-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-21-2026/</guid>
-    <pubDate>Thu, 01 Oct 2026 10:00:00 +0000</pubDate>
-    <description>Uma área de 1312 hectares na Serra da Freita deixa de estar sujeita ao regime florestal para permitir a construção de um novo Centro de Interpretação. O proprietário do terreno fica agora responsável por implementar medidas de gestão de fogos rurais na zona.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto/21-2026-1176351846</description>
-    <category>Energia e Ambiente</category>
-    <category>Regime Florestal</category>
-    <category>Gestão de Fogos</category>
-    <category>Construção Civil</category>
   </item>
 </channel>
 </rss>
