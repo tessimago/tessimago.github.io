@@ -6,9 +6,24 @@
   <link>https://tessimago.github.io/leiemdia/setores/agricultura-e-pescas/</link>
   <description>Apoios IFAP/PEPAC, regadio, vinha, pescas e aquicultura.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Thu, 22 Oct 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/agricultura-e-pescas.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Portaria n.º 467/2026/1 — Altera a Portaria n.º 188/2025/1, de 15 de abril, que estabelece o conteúdo dos planos de…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/portaria-467-2026-1/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/portaria-467-2026-1/</guid>
+    <pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
+    <description>Esta alteração obriga a que os novos planos de gestão de águas incluam medidas para prevenir impactos negativos nos recursos hídricos. O objetivo é alinhar as regras nacionais com as diretrizes da União Europeia, utilizando uma classificação padronizada de medidas.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/467-2026-1184835235</description>
+    <category>Energia e Ambiente</category>
+    <category>Agricultura e Pescas</category>
+    <category>Construção e Imobiliário</category>
+    <category>Gestão de Águas</category>
+    <category>Diretiva Quadro da Água</category>
+    <category>Ambiente</category>
+  </item>
   <item>
     <title>Anúncio n.º 297/2026 — DOCAPESCA - Portos e Lotas, SA Atribuição da utilização privativa de uma parcela do…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/anuncio-297-2026/</link>
@@ -263,22 +278,6 @@ Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/195000000/0008600
     <category>Agroturismo</category>
     <category>RAN</category>
     <category>Turismo no Espaço Rural</category>
-  </item>
-  <item>
-    <title>Decreto Regulamentar Regional n.º 21/2026/A — Região Autónoma dos Açores - Presidência do Governo Regional Quarta alteração ao Decreto…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/decreto-regulamentar-regional-21-2026-a/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-regulamentar-regional-21-2026-a/</guid>
-    <pubDate>Fri, 02 Oct 2026 10:00:00 +0000</pubDate>
-    <description>Esta alteração atualiza as regras para obter apoios financeiros destinados à modernização de empresas nos Açores. O foco é ajudar unidades de transformação e venda de produtos agrícolas a investir em novas tecnologias, processos mais ecológicos e digitalização.
-
-Diploma oficial: https://files.diariodarepublica.pt/1s/2026/10/19200/0003200049.pdf</description>
-    <category>Agricultura e Pescas</category>
-    <category>Energia e Ambiente</category>
-    <category>Tecnologia e Dados</category>
-    <category>PRR</category>
-    <category>Açores</category>
-    <category>Inovação Agrícola</category>
-    <category>Transição Digital</category>
   </item>
 </channel>
 </rss>

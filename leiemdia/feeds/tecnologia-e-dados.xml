@@ -6,9 +6,24 @@
   <link>https://tessimago.github.io/leiemdia/setores/tecnologia-e-dados/</link>
   <description>Digital, RGPD/dados pessoais, cibersegurança, telecomunicações, IA.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Wed, 21 Oct 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/tecnologia-e-dados.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Portaria n.º 466/2026/1 — Fusão, por incorporação, do Centro de Formação para a Transição Energética no Centro de…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/portaria-466-2026-1/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/portaria-466-2026-1/</guid>
+    <pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
+    <description>O Centro de Formação para a Transição Energética (CTE) vai ser absorvido pelo CINEL, criando uma única estrutura de formação profissional. Esta mudança visa centralizar os recursos e simplificar o acesso a cursos e competências nas áreas da eletrónica, energia e tecnologias.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/466-2026-1184835234</description>
+    <category>Tecnologia e Dados</category>
+    <category>Energia e Ambiente</category>
+    <category>Trabalho e Segurança Social</category>
+    <category>Formação Profissional</category>
+    <category>Reestruturação do IEFP</category>
+    <category>Transição Energética</category>
+  </item>
   <item>
     <title>Resolução do Conselho de Ministros n.º 202/2026 — Presidência do Conselho de Ministros Autoriza a participação da República Portuguesa na…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-202-2026/</link>
@@ -49,22 +64,6 @@ Diploma oficial: https://files.diariodarepublica.pt/1s/2026/10/20300/0000500005.
     <category>Comércio Eletrónico</category>
     <category>Proteção do Consumidor</category>
     <category>Regiões Autónomas</category>
-  </item>
-  <item>
-    <title>Decreto Regulamentar Regional n.º 21/2026/A — Região Autónoma dos Açores - Presidência do Governo Regional Quarta alteração ao Decreto…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/decreto-regulamentar-regional-21-2026-a/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-regulamentar-regional-21-2026-a/</guid>
-    <pubDate>Fri, 02 Oct 2026 10:00:00 +0000</pubDate>
-    <description>Esta alteração atualiza as regras para obter apoios financeiros destinados à modernização de empresas nos Açores. O foco é ajudar unidades de transformação e venda de produtos agrícolas a investir em novas tecnologias, processos mais ecológicos e digitalização.
-
-Diploma oficial: https://files.diariodarepublica.pt/1s/2026/10/19200/0003200049.pdf</description>
-    <category>Agricultura e Pescas</category>
-    <category>Energia e Ambiente</category>
-    <category>Tecnologia e Dados</category>
-    <category>PRR</category>
-    <category>Açores</category>
-    <category>Inovação Agrícola</category>
-    <category>Transição Digital</category>
   </item>
 </channel>
 </rss>
