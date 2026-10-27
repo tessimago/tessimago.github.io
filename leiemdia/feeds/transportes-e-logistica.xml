@@ -6,9 +6,22 @@
   <link>https://tessimago.github.io/leiemdia/setores/transportes-e-logistica/</link>
   <description>Transporte rodoviário, TVDE, mercadorias, IMT, portos.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Thu, 22 Oct 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/transportes-e-logistica.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Despacho n.º 13083/2026 — Finanças - Autoridade Tributária e Aduaneira Alteração ao Despacho n.º 1782/2026, de 31…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/despacho-13083-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/despacho-13083-2026/</guid>
+    <pubDate>Tue, 27 Oct 2026 10:00:00 +0000</pubDate>
+    <description>Este despacho altera a divisão de competências e as áreas de atuação das alfândegas, delegações e postos aduaneiros em Portugal. Na prática, pode alterar o local onde as empresas devem realizar os seus processos de desalfandegamento ou tratar de documentação aduaneira.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/208000000/0006200065.pdf</description>
+    <category>Transportes e Logística</category>
+    <category>Alfândegas</category>
+    <category>Aduanas</category>
+    <category>Comércio Externo</category>
+  </item>
   <item>
     <title>Decreto-Lei n.º 204/2026 — Transpõe a Diretiva (UE) 2022/1999, relativa a procedimentos uniformes de controlo do…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-204-2026/</link>
@@ -187,34 +200,6 @@ Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/194000000/0039000
     <category>Transportes Públicos</category>
     <category>Mobilidade</category>
     <category>Loures</category>
-  </item>
-  <item>
-    <title>Despacho n.º 12050/2026 — Presidência do Conselho de Ministros - Gabinete do Secretário de Estado das…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/despacho-12050-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/despacho-12050-2026/</guid>
-    <pubDate>Tue, 06 Oct 2026 10:00:00 +0000</pubDate>
-    <description>O Governo decidiu declarar a utilidade pública para expropriar terrenos necessários à reparação urgente de um troço da antiga IC3. Esta medida visa corrigir danos causados por intempéries e garantir a segurança da estrada.
-
-Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/193000000/0002200029.pdf</description>
-    <category>Transportes e Logística</category>
-    <category>Construção e Imobiliário</category>
-    <category>Expropriações</category>
-    <category>Infraestruturas</category>
-    <category>Obras Públicas</category>
-  </item>
-  <item>
-    <title>Aviso n.º 24487/2026/2 — Município da Guarda Regulamento Municipal de Trânsito, Circulação e Estacionamento da…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/aviso-24487-2026-2/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-24487-2026-2/</guid>
-    <pubDate>Tue, 06 Oct 2026 10:00:00 +0000</pubDate>
-    <description>Este regulamento estabelece as novas regras para a circulação e estacionamento no concelho da Guarda. As empresas e profissionais que operam na região devem estar atentos às novas normas de trânsito e utilização do espaço público.
-
-Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/193000000/0035300399.pdf</description>
-    <category>Transportes e Logística</category>
-    <category>Comércio e Serviços</category>
-    <category>Trânsito</category>
-    <category>Estacionamento</category>
-    <category>Regulamento Municipal</category>
   </item>
 </channel>
 </rss>

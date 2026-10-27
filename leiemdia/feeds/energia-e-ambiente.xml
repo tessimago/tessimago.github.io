@@ -6,9 +6,24 @@
   <link>https://tessimago.github.io/leiemdia/setores/energia-e-ambiente/</link>
   <description>Eletricidade, gás, renováveis, resíduos, licenciamento ambiental.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Mon, 26 Oct 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/energia-e-ambiente.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Decreto-Lei n.º 205/2026 — Altera o anexo I ao Decreto-Lei n.º 102-D/2020, de 10 de dezembro, que aprova o Regime…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-205-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-lei-205-2026/</guid>
+    <pubDate>Tue, 27 Oct 2026 10:00:00 +0000</pubDate>
+    <description>As empresas enfrentarão alterações na Taxa de Gestão de Resíduos e novas regras para a gestão de resíduos de construção e demolição. O objetivo é incentivar a reciclagem e permitir que os municípios assumam o tratamento de certos resíduos quando não houver operadores privados disponíveis.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402</description>
+    <category>Construção e Imobiliário</category>
+    <category>Energia e Ambiente</category>
+    <category>Gestão de Resíduos</category>
+    <category>Economia Circular</category>
+    <category>TGR</category>
+    <category>Construção Civil</category>
+  </item>
   <item>
     <title>Despacho n.º 13043/2026 — Ambiente e Energia - Gabinete da Ministra do Ambiente e Energia Cria a iniciativa…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/despacho-13043-2026/</link>
@@ -260,20 +275,6 @@ Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/194000000/0060500
     <category>Resíduos de Construção</category>
     <category>Gestão de Resíduos</category>
     <category>Regulamento Local</category>
-  </item>
-  <item>
-    <title>Regulamento n.º 1235/2026 — Município de Manteigas Regulamento Municipal de Gestão de Combustíveis para o Interior…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/regulamento-1235-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/regulamento-1235-2026/</guid>
-    <pubDate>Tue, 06 Oct 2026 10:00:00 +0000</pubDate>
-    <description>Este regulamento estabelece novas regras para a gestão e armazenamento de combustíveis em zonas urbanas no concelho de Manteigas. As empresas com depósitos ou atividades que utilizem estes materiais devem cumprir as normas municipais de segurança.
-
-Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/193000000/0047400479.pdf</description>
-    <category>Energia e Ambiente</category>
-    <category>Construção e Imobiliário</category>
-    <category>Gestão de Combustíveis</category>
-    <category>Segurança Urbana</category>
-    <category>Regulamento Municipal</category>
   </item>
 </channel>
 </rss>
