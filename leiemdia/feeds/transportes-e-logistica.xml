@@ -6,9 +6,36 @@
   <link>https://tessimago.github.io/leiemdia/setores/transportes-e-logistica/</link>
   <description>Transporte rodoviário, TVDE, mercadorias, IMT, portos.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Tue, 27 Oct 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/transportes-e-logistica.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Aviso n.º 26830/2026/2 — Município de Almeirim Consolidações definitivas de várias mobilidades intercarreiras e…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/aviso-26830-2026-2/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-26830-2026-2/</guid>
+    <pubDate>Wed, 28 Oct 2026 10:00:00 +0000</pubDate>
+    <description>Este aviso trata da reorganização das linhas de transporte e mobilidade no concelho de Almeirim. As alterações focam-se na consolidação de trajetos intercarreiras e rotas internas, o que pode impactar a logística local.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/209000000/0036600366.pdf</description>
+    <category>Transportes e Logística</category>
+    <category>Mobilidade</category>
+    <category>Transportes</category>
+    <category>Almeirim</category>
+  </item>
+  <item>
+    <title>Aviso n.º 26833/2026/2 — Município de Amarante Declaração de utilidade pública da expropriação de parcela do…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/aviso-26833-2026-2/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-26833-2026-2/</guid>
+    <pubDate>Wed, 28 Oct 2026 10:00:00 +0000</pubDate>
+    <description>A Câmara Municipal de Amarante iniciou o processo para expropriar uma parte de um terreno rústico. Esta medida visa permitir a realização das obras de remodelação da rede viária no Nó do Salto.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/209000000/0037100371.pdf</description>
+    <category>Construção e Imobiliário</category>
+    <category>Transportes e Logística</category>
+    <category>Expropriação</category>
+    <category>Obras Públicas</category>
+    <category>Infraestruturas</category>
+  </item>
   <item>
     <title>Despacho n.º 13083/2026 — Finanças - Autoridade Tributária e Aduaneira Alteração ao Despacho n.º 1782/2026, de 31…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/despacho-13083-2026/</link>
@@ -173,33 +200,6 @@ Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/195000000/0022100
     <category>Contratação Pública</category>
     <category>Serviços de Viagens</category>
     <category>Logística</category>
-  </item>
-  <item>
-    <title>Decreto-Lei n.º 199/2026 — Presidência do Conselho de Ministros Cria apoios financeiros extraordinários e…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-199-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-lei-199-2026/</guid>
-    <pubDate>Wed, 07 Oct 2026 10:00:00 +0000</pubDate>
-    <description>O Governo vai disponibilizar novos apoios financeiros para ajudar a compensar o aumento dos custos com combustíveis. Estas medidas são temporárias e destinam-se especificamente a empresas de transportes e instituições de apoio social.
-
-Diploma oficial: https://files.diariodarepublica.pt/1s/2026/10/19400/0000200013.pdf</description>
-    <category>Transportes e Logística</category>
-    <category>Trabalho e Segurança Social</category>
-    <category>Apoios Financeiros</category>
-    <category>Combustíveis</category>
-    <category>Transportes</category>
-  </item>
-  <item>
-    <title>Aviso n.º 24643/2026/2 — Município de Loures Consolidação definitiva de mobilidades intercarreiras.</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/aviso-24643-2026-2/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-24643-2026-2/</guid>
-    <pubDate>Wed, 07 Oct 2026 10:00:00 +0000</pubDate>
-    <description>Este aviso estabelece a nova organização das linhas de autocarros intercarreiras no concelho de Loures. A medida visa consolidar as rotas de transporte público para melhorar a eficiência do serviço na região.
-
-Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/194000000/0039000390.pdf</description>
-    <category>Transportes e Logística</category>
-    <category>Transportes Públicos</category>
-    <category>Mobilidade</category>
-    <category>Loures</category>
   </item>
 </channel>
 </rss>

@@ -6,9 +6,24 @@
   <link>https://tessimago.github.io/leiemdia/setores/energia-e-ambiente/</link>
   <description>Eletricidade, gás, renováveis, resíduos, licenciamento ambiental.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Tue, 27 Oct 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/energia-e-ambiente.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Resolução da Assembleia da República n.º 281/2026 — Recomenda ao Governo a criação de um observatório da Lagoa de Óbidos.</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/resolucao-da-assembleia-da-republica-281-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/resolucao-da-assembleia-da-republica-281-2026/</guid>
+    <pubDate>Wed, 28 Oct 2026 10:00:00 +0000</pubDate>
+    <description>O Governo é recomendado a criar um observatório para monitorizar a Lagoa de Óbidos, visando proteger o ecossistema e apoiar a economia local. Esta iniciativa pretende melhorar a gestão da qualidade da água e alertar precocemente sobre riscos sanitários ou ambientais.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/281-2026-1187134325</description>
+    <category>Agricultura e Pescas</category>
+    <category>Energia e Ambiente</category>
+    <category>Alojamento Local e Turismo</category>
+    <category>Gestão Ambiental</category>
+    <category>Monitorização de Águas</category>
+    <category>Turismo Sustentável</category>
+  </item>
   <item>
     <title>Decreto-Lei n.º 205/2026 — Altera o anexo I ao Decreto-Lei n.º 102-D/2020, de 10 de dezembro, que aprova o Regime…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-205-2026/</link>
@@ -261,20 +276,6 @@ Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/195000000/0029200
     <category>Contratação Pública</category>
     <category>Energia</category>
     <category>Gás Natural</category>
-  </item>
-  <item>
-    <title>Aviso n.º 24700/2026/2 — Freguesia de Santa Clara de Louredo Projeto do Regulamento de Gestão de Resíduos de…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/aviso-24700-2026-2/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-24700-2026-2/</guid>
-    <pubDate>Wed, 07 Oct 2026 10:00:00 +0000</pubDate>
-    <description>Este aviso apresenta a proposta de novas regras para a gestão de resíduos de construção e demolição na Freguesia de Santa Clara de Louredo. As empresas que realizam obras nesta zona terão de seguir novos procedimentos para o tratamento destes materiais.
-
-Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/194000000/0060500605.pdf</description>
-    <category>Construção e Imobiliário</category>
-    <category>Energia e Ambiente</category>
-    <category>Resíduos de Construção</category>
-    <category>Gestão de Resíduos</category>
-    <category>Regulamento Local</category>
   </item>
 </channel>
 </rss>
