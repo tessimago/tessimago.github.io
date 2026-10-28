@@ -43,7 +43,7 @@
 
 <main class="contentor">
 <h1>Pesquisar</h1>
-<p class="pagina-sub">Todo o arquivo num só sítio: diplomas analisados, tags, setores e
+<p class="pagina-sub">Todo o arquivo num só sítio: diplomas com e sem análise, tags, setores e
   glossário. A pesquisa ignora acentos e maiúsculas.</p>
 
 <div class="filtro-linha">
@@ -104,7 +104,8 @@ document.addEventListener("click", function (e) {
     return (t || "").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
   }
   function escapar(t) {
-    var el = document.createElement("span"); el.textContent = t || ""; return el.innerHTML;
+    var el = document.createElement("span"); el.textContent = t || "";
+    return el.innerHTML.replace(/"/g, "&quot;").replace(/'/g, "&#39;");
   }
   function dataCurta(iso) {
     var p = (iso || "").split("-");
@@ -125,6 +126,7 @@ document.addEventListener("click", function (e) {
           + (dip.p ? '<a href="' + urlPag + '">' + titulo + "</a>" : titulo) + "</h3>";
     h += '<p class="diploma-meta">';
     if (dip.sr) h += '<span class="badge badge-serie">Série ' + escapar(dip.sr) + "</span> ";
+    if (!dip.a) h += '<span class="badge">Sem resumo de IA</span> ';
     (dip.s || []).forEach(function (sid) {
       if (SETORES[sid]) {
         h += '<a class="badge badge-setor" href="/leiemdia/setores/' + sid + '/">' + escapar(SETORES[sid]) + "</a> ";
@@ -133,7 +135,7 @@ document.addEventListener("click", function (e) {
     h += '<span class="diploma-emissor">' + (dip.e ? escapar(dip.e) + " · " : "") + dataCurta(dip.d) + "</span></p>";
     if (dip.r) h += '<p class="diploma-resumo">' + resumoDestacado(dip) + "</p>";
     h += '<p class="diploma-ligacoes">';
-    if (dip.p) h += '<a href="' + urlPag + '">Ler análise</a>';
+    if (dip.p) h += '<a href="' + urlPag + '">' + (dip.a ? "Ler análise" : "Ver diploma") + '</a>';
     if (dip.u) h += (dip.p ? " · " : "") + '<a href="' + escapar(dip.u) + '" rel="noopener">Ver diploma oficial →</a>';
     return h + "</p></article>";
   }
@@ -192,7 +194,7 @@ document.addEventListener("click", function (e) {
       estado.textContent = resultados.length
         ? resultados.length + " diploma(s) encontrados"
           + (resultados.length > 40 ? " — a mostrar os 40 mais relevantes" : "")
-        : "Nada encontrado nos diplomas analisados.";
+        : "Nada encontrado no arquivo recolhido.";
       var h = resultados.slice(0, 40).map(function (r) { return cartao(r[2], r[3]); }).join("");
       h += '<p class="stats-nota">Procura contratos? '
          + '<a href="/leiemdia/concursos/?q=' + encodeURIComponent(inp.value.trim())
