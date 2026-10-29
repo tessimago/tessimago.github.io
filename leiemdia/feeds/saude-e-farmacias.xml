@@ -6,9 +6,22 @@
   <link>https://tessimago.github.io/leiemdia/setores/saude-e-farmacias/</link>
   <description>Farmácias, dispositivos, Infarmed, convenções, profissões de saúde.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Mon, 26 Oct 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/saude-e-farmacias.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Portaria n.º 439/2026/2 — Finanças e Defesa Nacional - Gabinete do Secretário de Estado Adjunto e do Orçamento e…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/portaria-439-2026-2/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/portaria-439-2026-2/</guid>
+    <pubDate>Thu, 29 Oct 2026 10:00:00 +0000</pubDate>
+    <description>Esta medida permite ao Laboratório Nacional do Medicamento organizar o orçamento para compras de medicamentos, produtos de higiene e suplementos ao longo de vários anos. Na prática, isto garante a continuidade do fornecimento destes bens essenciais através de uma gestão financeira planeada.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/210000000/0022000221.pdf</description>
+    <category>Saúde e Farmácias</category>
+    <category>Orçamento</category>
+    <category>Medicamentos</category>
+    <category>Administração Pública</category>
+  </item>
   <item>
     <title>Aviso n.º 26466/2026/2 — Saúde - Administração Central do Sistema de Saúde, IP Mapa de vagas da residência…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/aviso-26466-2026-2/</link>
@@ -117,18 +130,6 @@ Diploma oficial: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-re
     <category>Saúde</category>
     <category>Medicamentos</category>
     <category>Apoio Social</category>
-  </item>
-  <item>
-    <title>Resolução da Assembleia da República n.º 253/2026 — Assembleia da República Recomenda ao Governo a implementação de programas de rastreio…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/resolucao-da-assembleia-da-republica-253-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/resolucao-da-assembleia-da-republica-253-2026/</guid>
-    <pubDate>Thu, 08 Oct 2026 10:00:00 +0000</pubDate>
-    <description>Esta recomendação parlamentar sugere ao Governo a criação de novos programas de rastreio para detetar precocemente doenças graves. Na prática, poderá haver um aumento da procura por serviços de saúde e novas diretrizes para o setor médico.
-
-Diploma oficial: https://files.diariodarepublica.pt/1s/2026/10/19500/0000300003.pdf</description>
-    <category>Saúde e Farmácias</category>
-    <category>Saúde Pública</category>
-    <category>Rastreios Médicos</category>
   </item>
 </channel>
 </rss>
