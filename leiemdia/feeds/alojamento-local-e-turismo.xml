@@ -6,9 +6,23 @@
   <link>https://tessimago.github.io/leiemdia/setores/alojamento-local-e-turismo/</link>
   <description>AL, empreendimentos turísticos, animação turística, Turismo de Portugal.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Fri, 30 Oct 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/alojamento-local-e-turismo.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Aviso n.º 27398/2026/2 — Município da Covilhã Aprovação das operações de reabilitação urbana (ORU) das áreas de…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/aviso-27398-2026-2/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-27398-2026-2/</guid>
+    <pubDate>Tue, 03 Nov 2026 10:00:00 +0000</pubDate>
+    <description>A Câmara Municipal da Covilhã aprovou novos planos para a reabilitação urbana em quatro freguesias específicas. Isto significa que projetos de construção e renovação nestas zonas poderão beneficiar de regras de urbanismo simplificadas ou incentivos próprios das áreas de reabilitação.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/11/213000000/0030000300.pdf</description>
+    <category>Construção e Imobiliário</category>
+    <category>Alojamento Local e Turismo</category>
+    <category>Reabilitação Urbana</category>
+    <category>Urbanismo</category>
+    <category>Covilhã</category>
+  </item>
   <item>
     <title>Aviso n.º 27125/2026/2 — Município de Cascais Consulta pública do Projeto de Regulamento Municipal de Ruído…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/aviso-27125-2026-2/</link>
@@ -220,20 +234,6 @@ Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/199000000/0029500
     <category>Habitação</category>
     <category>Fiscalidade Municipal</category>
     <category>Imobiliário</category>
-  </item>
-  <item>
-    <title>Aviso n.º 25218/2026/2 — Município do Sabugal Aprovação da delimitação das áreas de reabilitação urbana de Aldeia…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/aviso-25218-2026-2/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-25218-2026-2/</guid>
-    <pubDate>Tue, 13 Oct 2026 10:00:00 +0000</pubDate>
-    <description>A Câmara Municipal do Sabugal aprovou novas áreas de reabilitação urbana em localidades específicas. Isto significa que projetos de construção ou renovação nestas zonas podem beneficiar de regras de planeamento e incentivos diferenciados.
-
-Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/198000000/0032700327.pdf</description>
-    <category>Construção e Imobiliário</category>
-    <category>Alojamento Local e Turismo</category>
-    <category>Reabilitação Urbana</category>
-    <category>Urbanismo</category>
-    <category>Licenciamento</category>
   </item>
 </channel>
 </rss>

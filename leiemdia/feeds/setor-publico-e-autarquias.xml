@@ -6,9 +6,24 @@
   <link>https://tessimago.github.io/leiemdia/setores/setor-publico-e-autarquias/</link>
   <description>Administração pública, municípios, contratação pública, função pública.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Tue, 27 Oct 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/setor-publico-e-autarquias.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Declaração de Retificação n.º 39-A/2026/1 — Retifica o Decreto-Lei n.º 177/2026, de 4 de setembro, que altera o Código dos Contratos…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/declaracao-de-retificacao-39-a-2026-1/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/declaracao-de-retificacao-39-a-2026-1/</guid>
+    <pubDate>Tue, 03 Nov 2026 10:00:00 +0000</pubDate>
+    <description>Esta retificação clarifica as regras para a estimativa de valores em contratos públicos e simplifica os critérios para concursos e ajustes diretos. Para as empresas, ajuda a evitar erros na interpretação do valor estimado dos contratos e das condições de participação em procedimentos de adjudicação.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-a-2026-1190825186</description>
+    <category>Setor Público e Autarquias</category>
+    <category>Construção e Imobiliário</category>
+    <category>Comércio e Serviços</category>
+    <category>Contratos Públicos</category>
+    <category>Ajuste Direto</category>
+    <category>Empreitada</category>
+  </item>
   <item>
     <title>Acórdão do Tribunal Constitucional n.º 845/2026 — Declara a inconstitucionalidade com força obrigatória geral da norma contida no artigo…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/acordao-do-tribunal-constitucional-845-2026/</link>
@@ -66,20 +81,6 @@ Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-reg
     <category>Assistência Pessoal</category>
     <category>Inclusão Social</category>
     <category>Açores</category>
-  </item>
-  <item>
-    <title>Aviso n.º 25168/2026/2 — Município de Alcanena Proposta do Regulamento do Funcionamento dos Refeitórios Escolares…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/aviso-25168-2026-2/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-25168-2026-2/</guid>
-    <pubDate>Tue, 13 Oct 2026 10:00:00 +0000</pubDate>
-    <description>O Município de Alcanena abriu a discussão pública para uma nova proposta de regulamento que define as regras de funcionamento dos refeitórios escolares locais. Este documento poderá alterar as condições de operação e gestão destes serviços no concelho.
-
-Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/198000000/0015600163.pdf</description>
-    <category>Restauração e Alimentar</category>
-    <category>Setor Público e Autarquias</category>
-    <category>Refeitórios Escolares</category>
-    <category>Discussão Pública</category>
-    <category>Regulamento Municipal</category>
   </item>
 </channel>
 </rss>
