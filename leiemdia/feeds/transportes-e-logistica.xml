@@ -6,9 +6,38 @@
   <link>https://tessimago.github.io/leiemdia/setores/transportes-e-logistica/</link>
   <description>Transporte rodoviário, TVDE, mercadorias, IMT, portos.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Tue, 03 Nov 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/transportes-e-logistica.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Lei n.º 65/2026 — Altera o Código do Imposto sobre o Valor Acrescentado e o Código dos Impostos Especiais…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/lei-65-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/lei-65-2026/</guid>
+    <pubDate>Thu, 05 Nov 2026 10:00:00 +0000</pubDate>
+    <description>Os revendedores de combustíveis líquidos passam a estar sujeitos ao regime de inversão do sujeito passivo no IVA, o que significa que o comprador é quem liquida o imposto. As faturas devem agora incluir menções específicas e o número da declaração eletrónica de introdução no consumo.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/lei/65-2026-1191346238</description>
+    <category>Fiscal e Contabilidade</category>
+    <category>Transportes e Logística</category>
+    <category>Energia e Ambiente</category>
+    <category>IVA</category>
+    <category>Combustíveis</category>
+    <category>Faturação</category>
+    <category>IEC</category>
+  </item>
+  <item>
+    <title>Decreto-Lei n.º 213/2026 — Cria um regime complementar de apoio extraordinário e temporário aos operadores de…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-213-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-lei-213-2026/</guid>
+    <pubDate>Thu, 05 Nov 2026 10:00:00 +0000</pubDate>
+    <description>Os transportadores de mercadorias e passageiros podem agora pedir uma compensação extra para cobrir os custos elevados de combustível. Este apoio funciona como um complemento ao valor fixo já existente, permitindo recuperar até 70% do aumento real dos custos entre outubro e dezembro de 2026.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2026-1191346239</description>
+    <category>Transportes e Logística</category>
+    <category>Transporte Rodoviário</category>
+    <category>Combustíveis</category>
+    <category>Apoios Extraordinários</category>
+  </item>
   <item>
     <title>Portaria n.º 483/2026/1 — Portaria de extensão das alterações do contrato coletivo entre a RENA ― Associação das…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/portaria-483-2026-1/</link>
@@ -173,45 +202,6 @@ Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/201000000/0038300
     <category>Transporte</category>
     <category>Mobilidade Sénior</category>
     <category>Loulé</category>
-  </item>
-  <item>
-    <title>Regulamento n.º 1346/2026 — Município de Vendas Novas Regulamento do Transporte Público de Aluguer em Veículos…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/regulamento-1346-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/regulamento-1346-2026/</guid>
-    <pubDate>Thu, 15 Oct 2026 10:00:00 +0000</pubDate>
-    <description>Este regulamento estabelece as novas regras para a exploração do serviço de transporte público de passageiros em táxi no concelho de Vendas Novas. Os profissionais do setor devem seguir as normas de funcionamento e operação definidas pela autarquia.
-
-Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/200000000/0049900514.pdf</description>
-    <category>Transportes e Logística</category>
-    <category>Transporte de Passageiros</category>
-    <category>Táxi</category>
-    <category>Regulamentação Municipal</category>
-  </item>
-  <item>
-    <title>Resolução do Conselho de Ministros n.º 198/2026 — Presidência do Conselho de Ministros Autoriza a assunção de encargos orçamentais e a…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-198-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-198-2026/</guid>
-    <pubDate>Wed, 14 Oct 2026 10:00:00 +0000</pubDate>
-    <description>O Governo autorizou a utilização de verbas para assegurar o pagamento e o fornecimento de combustíveis rodoviários. Esta medida garante a continuidade do abastecimento necessário para as operações de transporte e logística.
-
-Diploma oficial: https://files.diariodarepublica.pt/1s/2026/10/19900/0001300021.pdf</description>
-    <category>Transportes e Logística</category>
-    <category>Combustíveis</category>
-    <category>Despesas Públicas</category>
-    <category>Transportes</category>
-  </item>
-  <item>
-    <title>Regulamento n.º 1335/2026 — Município de Vila Viçosa Aprova o Regulamento para Atribuição de Transportes Escolares.</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/regulamento-1335-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/regulamento-1335-2026/</guid>
-    <pubDate>Wed, 14 Oct 2026 10:00:00 +0000</pubDate>
-    <description>Este regulamento estabelece as regras para a atribuição de serviços de transporte escolar no concelho de Vila Viçosa. As empresas do setor devem observar os novos critérios e procedimentos definidos pela autarquia para aceder a estas concessões.
-
-Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/199000000/0055600565.pdf</description>
-    <category>Transportes e Logística</category>
-    <category>Transporte Escolar</category>
-    <category>Concessões Municipais</category>
-    <category>Vila Viçosa</category>
   </item>
 </channel>
 </rss>

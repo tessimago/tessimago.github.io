@@ -6,9 +6,22 @@
   <link>https://tessimago.github.io/leiemdia/setores/saude-e-farmacias/</link>
   <description>Farmácias, dispositivos, Infarmed, convenções, profissões de saúde.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Fri, 30 Oct 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/saude-e-farmacias.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Aviso n.º 27597/2026/2 — Saúde - INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, IP Lista…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/aviso-27597-2026-2/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-27597-2026-2/</guid>
+    <pubDate>Thu, 05 Nov 2026 10:00:00 +0000</pubDate>
+    <description>O INFARMED publicou a lista de candidatos que passaram na primeira fase do concurso para a abertura de uma nova farmácia em Arruda dos Vinhos. Este aviso serve para informar os interessados sobre o estado da pré-seleção no processo de instalação deste novo estabelecimento.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/11/215000000/0011600137.pdf</description>
+    <category>Saúde e Farmácias</category>
+    <category>Farmácias</category>
+    <category>Concurso Público</category>
+    <category>INFARMED</category>
+  </item>
   <item>
     <title>Despacho n.º 13315/2026 — Saúde - Gabinete do Secretário de Estado da Gestão da Saúde Encarrega a Administração…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/despacho-13315-2026/</link>
@@ -119,20 +132,6 @@ Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/202000000/0014600
     <category>Saúde</category>
     <category>Procriação Medicamente Assistida</category>
     <category>Centros de Fertilidade</category>
-  </item>
-  <item>
-    <title>Despacho n.º 12555/2026 — Agricultura e Mar - Direção-Geral de Alimentação e Veterinária Estabelece as normas…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/despacho-12555-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/despacho-12555-2026/</guid>
-    <pubDate>Thu, 15 Oct 2026 10:00:00 +0000</pubDate>
-    <description>Este despacho define novas regras para pedir autorização de uso especial de medicamentos veterinários e introduz um processo totalmente digital. A medida simplifica a tramitação eletrónica, substituindo as normas antigas que estavam em vigor desde 2018.
-
-Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/200000000/0013500140.pdf</description>
-    <category>Agricultura e Pescas</category>
-    <category>Saúde e Farmácias</category>
-    <category>Medicamentos Veterinários</category>
-    <category>Administração Digital</category>
-    <category>DADV</category>
   </item>
 </channel>
 </rss>
