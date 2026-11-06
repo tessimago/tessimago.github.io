@@ -6,9 +6,22 @@
   <link>https://tessimago.github.io/leiemdia/setores/educacao-e-formacao/</link>
   <description>Escolas, ensino superior, formação profissional, creches.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Tue, 27 Oct 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/educacao-e-formacao.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Decreto-Lei n.º 214/2026 — Estabelece o regime jurídico dos graus académicos e dos diplomas do ensino superior.</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-214-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-lei-214-2026/</guid>
+    <pubDate>Fri, 06 Nov 2026 10:00:00 +0000</pubDate>
+    <description>O novo regime facilita a criação de cursos mais flexíveis e curtos, como as microcredenciais, para promover a aprendizagem ao longo da vida. As empresas poderão beneficiar de uma maior oferta de formação especializada e alinhada com as necessidades reais do mercado de trabalho.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2026-1192107480</description>
+    <category>Educação e Formação</category>
+    <category>Ensino Superior</category>
+    <category>Microcredenciais</category>
+    <category>Formação Profissional</category>
+  </item>
   <item>
     <title>Portaria n.º 469/2026/1 — Procede à fusão, por incorporação, do Centro de Reabilitação Profissional no Centro de…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/portaria-469-2026-1/</link>
