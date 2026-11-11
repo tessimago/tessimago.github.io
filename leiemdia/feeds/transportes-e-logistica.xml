@@ -6,9 +6,35 @@
   <link>https://tessimago.github.io/leiemdia/setores/transportes-e-logistica/</link>
   <description>Transporte rodoviário, TVDE, mercadorias, IMT, portos.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Tue, 10 Nov 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/transportes-e-logistica.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Decreto-Lei n.º 215/2026 — Aprova o Regulamento dos sistemas integrados de transporte ferroviário de passageiros em…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-215-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-lei-215-2026/</guid>
+    <pubDate>Wed, 11 Nov 2026 10:00:00 +0000</pubDate>
+    <description>Este novo regulamento define as regras para o licenciamento e manutenção de sistemas de transporte ferroviário urbano, como metropolitano, elétricos e comboios turísticos. As competências de fiscalização passam do IMT para a AMT, mas haverá um período de transição para garantir que os serviços não sejam interrompidos.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2026-1194495725</description>
+    <category>Transportes e Logística</category>
+    <category>Transporte Ferroviário</category>
+    <category>Licenciamento</category>
+    <category>Mobilidade Urbana</category>
+  </item>
+  <item>
+    <title>Portaria n.º 449/2026/2 — Presidência do Conselho de Ministros e Finanças - Gabinete do Secretário de Estado…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/portaria-449-2026-2/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/portaria-449-2026-2/</guid>
+    <pubDate>Wed, 11 Nov 2026 10:00:00 +0000</pubDate>
+    <description>Esta medida permite que a Metro do Porto realize o investimento necessário para adquirir um veículo de limpeza e manutenção da via ferroviária. Na prática, abre caminho à contratação de fornecedores especializados em equipamentos ferroviários através de encargos plurianuais.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/11/219000000/0004900049.pdf</description>
+    <category>Transportes e Logística</category>
+    <category>Metro do Porto</category>
+    <category>Contratação Pública</category>
+    <category>Infraestruturas Ferroviárias</category>
+  </item>
   <item>
     <title>Edital n.º 1432/2026 — Município de Anadia Projeto do Regulamento do Serviço Público de Transporte de…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/edital-1432-2026/</link>

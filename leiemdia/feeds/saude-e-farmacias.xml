@@ -6,9 +6,22 @@
   <link>https://tessimago.github.io/leiemdia/setores/saude-e-farmacias/</link>
   <description>Farmácias, dispositivos, Infarmed, convenções, profissões de saúde.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Tue, 10 Nov 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/saude-e-farmacias.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Despacho n.º 13786/2026 — Defesa Nacional - Gabinete do Secretário de Estado Adjunto e da Defesa Nacional Autoriza…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/despacho-13786-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/despacho-13786-2026/</guid>
+    <pubDate>Wed, 11 Nov 2026 10:00:00 +0000</pubDate>
+    <description>O Governo autorizou novas despesas para a compra de medicamentos, produtos de higiene e suplementos alimentares. Esta decisão permite que o Laboratório Nacional do Medicamento realize compras diretas ou através de processos de aquisição para suprir necessidades específicas.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/11/219000000/0006300063.pdf</description>
+    <category>Saúde e Farmácias</category>
+    <category>Compras Públicas</category>
+    <category>Medicamentos</category>
+    <category>Saúde</category>
+  </item>
   <item>
     <title>Resolução do Conselho de Ministros n.º 218/2026 — Altera a Resolução do Conselho de Ministros n.º 77/2019, de 2 de maio, que aprova o…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-218-2026/</link>
@@ -117,34 +130,6 @@ Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/464-2026-11843
     <category>Obesidade</category>
     <category>Comparticipação</category>
     <category>SNS</category>
-  </item>
-  <item>
-    <title>Resolução do Conselho de Ministros n.º 204/2026 — Presidência do Conselho de Ministros Autoriza a reprogramação do encargo plurianual e o…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-204-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-204-2026/</guid>
-    <pubDate>Wed, 21 Oct 2026 10:00:00 +0000</pubDate>
-    <description>O Governo decidiu reforçar o orçamento destinado à construção do novo módulo cirúrgico no Hospital das Forças Armadas, em Lisboa. Esta medida garante a continuidade de verbas para as obras de infraestrutura hospitalar.
-
-Diploma oficial: https://files.diariodarepublica.pt/1s/2026/10/20400/0000600007.pdf</description>
-    <category>Saúde e Farmácias</category>
-    <category>Orçamento</category>
-    <category>Obras Públicas</category>
-    <category>Saúde</category>
-  </item>
-  <item>
-    <title>Resolução do Conselho de Ministros n.º 204/2026 — Autoriza a reprogramação do encargo plurianual e o reforço da despesa referente à…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-204-2026-r2/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-204-2026-r2/</guid>
-    <pubDate>Wed, 21 Oct 2026 10:00:00 +0000</pubDate>
-    <description>O Governo autorizou um reforço de verbas para a construção do novo módulo cirúrgico do Hospital das Forças Armadas, em Lisboa. O orçamento total subiu para mais de 20 milhões de euros, com o pagamento faseado entre 2025 e 2029.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/204-2026-1184061222</description>
-    <category>Construção e Imobiliário</category>
-    <category>Saúde e Farmácias</category>
-    <category>Obras Públicas</category>
-    <category>Orçamento</category>
-    <category>Construção Civil</category>
-    <category>Saúde Militar</category>
   </item>
 </channel>
 </rss>
