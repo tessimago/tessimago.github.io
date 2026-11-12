@@ -6,9 +6,37 @@
   <link>https://tessimago.github.io/leiemdia/setores/energia-e-ambiente/</link>
   <description>Eletricidade, gás, renováveis, resíduos, licenciamento ambiental.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Tue, 10 Nov 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/energia-e-ambiente.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Portaria n.º 499-A/2026/1 — Procede à primeira alteração à Portaria n.º 433-A/2026/1, de 21 de setembro, que define…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/portaria-499-a-2026-1/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/portaria-499-a-2026-1/</guid>
+    <pubDate>Thu, 12 Nov 2026 10:00:00 +0000</pubDate>
+    <description>Esta alteração clarifica que a instalação de sistemas de armazenamento de energia não conta como tecnologia complementar para efeitos de hibridização na rede elétrica. Na prática, retira-se a obrigação de indicar a capacidade de carregamento no pedido de hibridização quando se utilizam baterias.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/499-a-2026-1194943497</description>
+    <category>Energia e Ambiente</category>
+    <category>Energia Renovável</category>
+    <category>Rede Elétrica</category>
+    <category>Hibridização</category>
+    <category>Armazenamento de Energia</category>
+  </item>
+  <item>
+    <title>Aviso n.º 28346/2026/2 — Município da Chamusca Normas provisórias relativas à revisão do Plano Diretor Municipal…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/aviso-28346-2026-2/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-28346-2026-2/</guid>
+    <pubDate>Thu, 12 Nov 2026 10:00:00 +0000</pubDate>
+    <description>A Câmara Municipal da Chamusca iniciou um processo de revisão do seu Plano Diretor Municipal (PDM). Isto significa que as regras sobre o uso do solo, construção e novos licenciamentos no concelho podem sofrer alterações em breve.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/11/220000000/0049500496.pdf</description>
+    <category>Construção e Imobiliário</category>
+    <category>Energia e Ambiente</category>
+    <category>PDM</category>
+    <category>Ordenamento do Território</category>
+    <category>Licenciamento Urbanístico</category>
+  </item>
   <item>
     <title>Resolução do Conselho de Ministros n.º 217/2026 — Aprova o Programa Nacional de Controlo de Poluição Atmosférica.</title>
     <link>https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-217-2026/</link>
@@ -377,34 +405,6 @@ Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/467-2026-11848
     <category>Gestão de Águas</category>
     <category>Diretiva Quadro da Água</category>
     <category>Ambiente</category>
-  </item>
-  <item>
-    <title>Decreto-Lei n.º 203/2026 — Transpõe a Diretiva (UE) 2024/869, relativa à proteção dos trabalhadores contra riscos…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-203-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-lei-203-2026/</guid>
-    <pubDate>Thu, 22 Oct 2026 10:00:00 +0000</pubDate>
-    <description>As empresas que utilizam chumbo ou diisocianatos terão de cumprir novos limites de exposição profissional e biológica para proteger a saúde dos trabalhadores. Existe um período de transição para adaptar as medidas de segurança até ao final de 2028.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2026-1184326799</description>
-    <category>Energia e Ambiente</category>
-    <category>Construção e Imobiliário</category>
-    <category>Segurança no Trabalho</category>
-    <category>Riscos Químicos</category>
-    <category>Saúde Ocupacional</category>
-  </item>
-  <item>
-    <title>Decreto-Lei n.º 204/2026 — Transpõe a Diretiva (UE) 2022/1999, relativa a procedimentos uniformes de controlo do…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-204-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-lei-204-2026/</guid>
-    <pubDate>Thu, 22 Oct 2026 10:00:00 +0000</pubDate>
-    <description>As empresas que transportam mercadorias perigosas enfrentam novas regras de fiscalização rodoviária baseadas em níveis de risco. As infrações agora são classificadas por categorias de gravidade, podendo resultar na imobilização imediata do veículo em casos de perigo elevado.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2026-1184326800</description>
-    <category>Transportes e Logística</category>
-    <category>Energia e Ambiente</category>
-    <category>Transporte de Mercadorias Perigosas</category>
-    <category>Fiscalização Rodoviária</category>
-    <category>Segurança no Transporte</category>
   </item>
 </channel>
 </rss>
