@@ -6,9 +6,23 @@
   <link>https://tessimago.github.io/leiemdia/setores/tecnologia-e-dados/</link>
   <description>Digital, RGPD/dados pessoais, cibersegurança, telecomunicações, IA.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Thu, 05 Nov 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/tecnologia-e-dados.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Aviso (extrato) n.º 28464/2026/2 — Município de Ourém Discussão pública relativa à elaboração do Regulamento Municipal de…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/aviso-extrato-28464-2026-2/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-extrato-28464-2026-2/</guid>
+    <pubDate>Fri, 13 Nov 2026 10:00:00 +0000</pubDate>
+    <description>O Município do Ourém abriu um período de consulta para que todos os interessados possam opinar sobre as novas regras de funcionamento da incubadora StartUp Ourém. Este processo permite que potenciais utilizadores e a comunidade local influenciem como o espaço será gerido e utilizado.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/11/221000000/0026700267.pdf</description>
+    <category>Tecnologia e Dados</category>
+    <category>Comércio e Serviços</category>
+    <category>Incubadora de Empresas</category>
+    <category>Discussão Pública</category>
+    <category>Desenvolvimento Local</category>
+  </item>
   <item>
     <title>Portaria n.º 446/2026/2 — Finanças e Agricultura e Mar - Gabinete do Secretário de Estado Adjunto e do Orçamento e…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/portaria-446-2026-2/</link>
@@ -78,21 +92,6 @@ Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/208000000/0007100
     <category>Licenciamento</category>
     <category>Defesa Nacional</category>
     <category>Indústria Militar</category>
-  </item>
-  <item>
-    <title>Portaria n.º 466/2026/1 — Fusão, por incorporação, do Centro de Formação para a Transição Energética no Centro de…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/portaria-466-2026-1/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/portaria-466-2026-1/</guid>
-    <pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
-    <description>O Centro de Formação para a Transição Energética (CTE) vai ser absorvido pelo CINEL, criando uma única estrutura de formação profissional. Esta mudança visa centralizar os recursos e simplificar o acesso a cursos e competências nas áreas da eletrónica, energia e tecnologias.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/466-2026-1184835234</description>
-    <category>Tecnologia e Dados</category>
-    <category>Energia e Ambiente</category>
-    <category>Trabalho e Segurança Social</category>
-    <category>Formação Profissional</category>
-    <category>Reestruturação do IEFP</category>
-    <category>Transição Energética</category>
   </item>
 </channel>
 </rss>
