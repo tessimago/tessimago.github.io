@@ -6,9 +6,35 @@
   <link>https://tessimago.github.io/leiemdia/setores/fiscal-e-contabilidade/</link>
   <description>Impostos, obrigações declarativas, faturação, benefícios fiscais.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Thu, 05 Nov 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/fiscal-e-contabilidade.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Lei n.º 67/2026 — Aumenta a dedução à coleta de imposto sobre o rendimento de pessoas singulares…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/lei-67-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/lei-67-2026/</guid>
+    <pubDate>Mon, 16 Nov 2026 10:00:00 +0000</pubDate>
+    <description>As famílias com três ou mais dependentes até aos seis anos de idade terão um aumento na dedução à coleta do IRS. Este benefício será aplicado de forma faseada, com valores intermédios em 2027 e o valor máximo apenas a partir de 2028.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/lei/67-2026-1194586764</description>
+    <category>Fiscal e Contabilidade</category>
+    <category>IRS</category>
+    <category>Deduções à coleta</category>
+    <category>Dependentes</category>
+  </item>
+  <item>
+    <title>Lei n.º 68/2026 — Reforça o complemento garantia para a infância, assegurando a aplicação das majorações…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/lei-68-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/lei-68-2026/</guid>
+    <pubDate>Mon, 16 Nov 2026 10:00:00 +0000</pubDate>
+    <description>O complemento garantia para a infância passa a incluir as majorações das deduções por dependentes do IRS. Isto significa que as famílias com direito ao abono de família podem receber um valor extra da Autoridade Tributária se o abono for inferior às deduções aplicáveis aos seus filhos.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/lei/68-2026-1194586765</description>
+    <category>Fiscal e Contabilidade</category>
+    <category>IRS</category>
+    <category>Abono de Família</category>
+    <category>Complemento Garantia Infância</category>
+  </item>
   <item>
     <title>Lei n.º 65/2026 — Altera o Código do Imposto sobre o Valor Acrescentado e o Código dos Impostos Especiais…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/lei-65-2026/</link>
