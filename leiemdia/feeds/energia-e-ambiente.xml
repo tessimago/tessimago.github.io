@@ -6,9 +6,37 @@
   <link>https://tessimago.github.io/leiemdia/setores/energia-e-ambiente/</link>
   <description>Eletricidade, gás, renováveis, resíduos, licenciamento ambiental.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Fri, 13 Nov 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/energia-e-ambiente.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Portaria n.º 502/2026/1 — Divulga a lista dos municípios integrados no sistema multimunicipal de abastecimento de…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/portaria-502-2026-1/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/portaria-502-2026-1/</guid>
+    <pubDate>Tue, 17 Nov 2026 10:00:00 +0000</pubDate>
+    <description>Vários municípios do interior e região centro passam a integrar oficialmente o sistema de abastecimento de água do sul do Grande Porto. Esta mudança afeta as empresas instaladas nestas localidades, que poderão ter alterações na gestão de recursos hídricos e custos associados ao serviço.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/502-2026-1195884687</description>
+    <category>Energia e Ambiente</category>
+    <category>Construção e Imobiliário</category>
+    <category>Abastecimento de Água</category>
+    <category>Sistemas Multimunicipais</category>
+    <category>Gestão de Recursos Hídricos</category>
+  </item>
+  <item>
+    <title>Aviso n.º 28666/2026/2 — Freguesia de Mira de Aire Consulta pública do projeto de Regulamento de Sustentabilidade…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/aviso-28666-2026-2/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-28666-2026-2/</guid>
+    <pubDate>Tue, 17 Nov 2026 10:00:00 +0000</pubDate>
+    <description>A Freguesia de Mira de Aire abriu uma consulta pública para discutir novas regras de sustentabilidade ambiental em eventos e atividades culturais na sua área. Se organiza ou apoia eventos locais, poderá ter de cumprir novos requisitos ecológicos no futuro.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/11/223000000/0030000300.pdf</description>
+    <category>Energia e Ambiente</category>
+    <category>Comércio e Serviços</category>
+    <category>Sustentabilidade</category>
+    <category>Eventos</category>
+    <category>Consulta Pública</category>
+  </item>
   <item>
     <title>Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 38/2026/A — Pronúncia por iniciativa própria da Assembleia Legislativa da Região Autónoma dos Açores…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/resolucao-da-assembleia-legislativa-da-regiao-autonoma-dos-acores-38-2026-a/</link>
@@ -362,21 +390,6 @@ Diploma oficial: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-re
     <category>Gestão Ambiental</category>
     <category>Monitorização de Águas</category>
     <category>Turismo Sustentável</category>
-  </item>
-  <item>
-    <title>Decreto-Lei n.º 205/2026 — Altera o anexo I ao Decreto-Lei n.º 102-D/2020, de 10 de dezembro, que aprova o Regime…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/decreto-lei-205-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-lei-205-2026/</guid>
-    <pubDate>Tue, 27 Oct 2026 10:00:00 +0000</pubDate>
-    <description>As empresas enfrentarão alterações na Taxa de Gestão de Resíduos e novas regras para a gestão de resíduos de construção e demolição. O objetivo é incentivar a reciclagem e permitir que os municípios assumam o tratamento de certos resíduos quando não houver operadores privados disponíveis.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2026-1186535402</description>
-    <category>Construção e Imobiliário</category>
-    <category>Energia e Ambiente</category>
-    <category>Gestão de Resíduos</category>
-    <category>Economia Circular</category>
-    <category>TGR</category>
-    <category>Construção Civil</category>
   </item>
 </channel>
 </rss>

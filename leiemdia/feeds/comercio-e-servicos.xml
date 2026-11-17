@@ -6,9 +6,37 @@
   <link>https://tessimago.github.io/leiemdia/setores/comercio-e-servicos/</link>
   <description>Retalho, consumo, práticas comerciais, horários, saldos.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Fri, 13 Nov 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/comercio-e-servicos.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Aviso n.º 28661/2026/2 — Freguesia de Arroios (Lisboa) Projeto de Regulamento de Ocupação do Espaço Público com…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/aviso-28661-2026-2/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-28661-2026-2/</guid>
+    <pubDate>Tue, 17 Nov 2026 10:00:00 +0000</pubDate>
+    <description>Este regulamento define novas regras para a instalação de esplanadas na Freguesia de Arroios, permitindo ocupar lugares de estacionamento e áreas fora da fachada do estabelecimento. Os proprietários de negócios locais terão de se adaptar às novas normas de ocupação do espaço público.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/11/223000000/0027400274.pdf</description>
+    <category>Restauração e Alimentar</category>
+    <category>Comércio e Serviços</category>
+    <category>Esplanadas</category>
+    <category>Ocupação de Espaço Público</category>
+    <category>Arroios</category>
+  </item>
+  <item>
+    <title>Aviso n.º 28666/2026/2 — Freguesia de Mira de Aire Consulta pública do projeto de Regulamento de Sustentabilidade…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/aviso-28666-2026-2/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-28666-2026-2/</guid>
+    <pubDate>Tue, 17 Nov 2026 10:00:00 +0000</pubDate>
+    <description>A Freguesia de Mira de Aire abriu uma consulta pública para discutir novas regras de sustentabilidade ambiental em eventos e atividades culturais na sua área. Se organiza ou apoia eventos locais, poderá ter de cumprir novos requisitos ecológicos no futuro.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/11/223000000/0030000300.pdf</description>
+    <category>Energia e Ambiente</category>
+    <category>Comércio e Serviços</category>
+    <category>Sustentabilidade</category>
+    <category>Eventos</category>
+    <category>Consulta Pública</category>
+  </item>
   <item>
     <title>Aviso (extrato) n.º 28464/2026/2 — Município de Ourém Discussão pública relativa à elaboração do Regulamento Municipal de…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/aviso-extrato-28464-2026-2/</link>
@@ -150,33 +178,6 @@ Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/209000000/0049100
     <category>Concessão de Espaço</category>
     <category>Quiosque</category>
     <category>Esplanada</category>
-  </item>
-  <item>
-    <title>Aviso n.º 26638/2026/2 — Município de Alcochete Alteração do Plano de Pormenor de Expansão da Área de Indústria…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/aviso-26638-2026-2/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-26638-2026-2/</guid>
-    <pubDate>Tue, 27 Oct 2026 10:00:00 +0000</pubDate>
-    <description>Este aviso trata da alteração do planeamento urbanístico em Alcochete, focando-se na expansão de uma zona destinada a atividades industriais, comerciais e de serviços. Para as empresas interessadas nesta área, isto significa novas oportunidades para instalação ou expansão de unidades produtivas e de comércio.
-
-Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/208000000/0024900262.pdf</description>
-    <category>Construção e Imobiliário</category>
-    <category>Comércio e Serviços</category>
-    <category>Urbanismo</category>
-    <category>Planeamento</category>
-    <category>Indústria</category>
-  </item>
-  <item>
-    <title>Regulamento n.º 1460/2026 — Município de Arruda dos Vinhos Regulamento do Mercado Municipal de Arruda dos Vinhos ―…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/regulamento-1460-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/regulamento-1460-2026/</guid>
-    <pubDate>Tue, 27 Oct 2026 10:00:00 +0000</pubDate>
-    <description>Este regulamento estabelece as regras de funcionamento e utilização do Mercado Municipal de Arruda dos Vinhos. Define as normas para os produtores e comerciantes que pretendem operar no Mercadinho d&#39;Arruda.
-
-Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/208000000/0029000307.pdf</description>
-    <category>Restauração e Alimentar</category>
-    <category>Comércio e Serviços</category>
-    <category>Mercado Municipal</category>
-    <category>Regulamento de Funcionamento</category>
   </item>
 </channel>
 </rss>
