@@ -6,9 +6,36 @@
   <link>https://tessimago.github.io/leiemdia/setores/transportes-e-logistica/</link>
   <description>Transporte rodoviário, TVDE, mercadorias, IMT, portos.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Fri, 13 Nov 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/transportes-e-logistica.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Aviso n.º 28746/2026/2 — Município de Miranda do Douro Abertura de concurso para atribuição de licença para…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/aviso-28746-2026-2/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-28746-2026-2/</guid>
+    <pubDate>Wed, 18 Nov 2026 10:00:00 +0000</pubDate>
+    <description>A Câmara Municipal de Miranda do Douro abriu um concurso para atribuir novas licenças de táxi na freguesia de Duas Igrejas. Este processo inclui também a definição de regras para o estacionamento fixo destes veículos.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/11/224000000/0030900315.pdf</description>
+    <category>Transportes e Logística</category>
+    <category>Táxi</category>
+    <category>Concurso Público</category>
+    <category>Licenciamento</category>
+  </item>
+  <item>
+    <title>Edital n.º 1473/2026 — Município de Valpaços Revisão do Regulamento de Venda de Lotes na Zona Industrial de…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/edital-1473-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/edital-1473-2026/</guid>
+    <pubDate>Wed, 18 Nov 2026 10:00:00 +0000</pubDate>
+    <description>A Câmara Municipal de Valpaços alterou as regras para a compra e venda de terrenos na Zona Industrial de Carrazedo de Montenegro. Esta revisão do regulamento define novos critérios para quem pretende instalar unidades produtivas ou logísticas nesta área.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/11/224000000/0042500430.pdf</description>
+    <category>Construção e Imobiliário</category>
+    <category>Transportes e Logística</category>
+    <category>Zona Industrial</category>
+    <category>Lotes</category>
+    <category>Regulamento Municipal</category>
+  </item>
   <item>
     <title>Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 38/2026/A — Pronúncia por iniciativa própria da Assembleia Legislativa da Região Autónoma dos Açores…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/resolucao-da-assembleia-legislativa-da-regiao-autonoma-dos-acores-38-2026-a/</link>
@@ -146,33 +173,6 @@ Diploma oficial: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-mini
     <category>Construção e Imobiliário</category>
     <category>Transportes</category>
     <category>Investimento Público</category>
-    <category>Infraestruturas</category>
-  </item>
-  <item>
-    <title>Aviso n.º 26830/2026/2 — Município de Almeirim Consolidações definitivas de várias mobilidades intercarreiras e…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/aviso-26830-2026-2/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-26830-2026-2/</guid>
-    <pubDate>Wed, 28 Oct 2026 10:00:00 +0000</pubDate>
-    <description>Este aviso trata da reorganização das linhas de transporte e mobilidade no concelho de Almeirim. As alterações focam-se na consolidação de trajetos intercarreiras e rotas internas, o que pode impactar a logística local.
-
-Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/209000000/0036600366.pdf</description>
-    <category>Transportes e Logística</category>
-    <category>Mobilidade</category>
-    <category>Transportes</category>
-    <category>Almeirim</category>
-  </item>
-  <item>
-    <title>Aviso n.º 26833/2026/2 — Município de Amarante Declaração de utilidade pública da expropriação de parcela do…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/aviso-26833-2026-2/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-26833-2026-2/</guid>
-    <pubDate>Wed, 28 Oct 2026 10:00:00 +0000</pubDate>
-    <description>A Câmara Municipal de Amarante iniciou o processo para expropriar uma parte de um terreno rústico. Esta medida visa permitir a realização das obras de remodelação da rede viária no Nó do Salto.
-
-Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/209000000/0037100371.pdf</description>
-    <category>Construção e Imobiliário</category>
-    <category>Transportes e Logística</category>
-    <category>Expropriação</category>
-    <category>Obras Públicas</category>
     <category>Infraestruturas</category>
   </item>
 </channel>

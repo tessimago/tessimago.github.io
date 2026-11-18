@@ -6,9 +6,24 @@
   <link>https://tessimago.github.io/leiemdia/setores/tecnologia-e-dados/</link>
   <description>Digital, RGPD/dados pessoais, cibersegurança, telecomunicações, IA.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Fri, 13 Nov 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/tecnologia-e-dados.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Resolução do Conselho de Ministros n.º 223/2026 — Aprova o plano de desenvolvimento e investimento da rede nacional de distribuição de…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-223-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-223-2026/</guid>
+    <pubDate>Wed, 18 Nov 2026 10:00:00 +0000</pubDate>
+    <description>O governo aprovou o plano de investimentos na rede elétrica para os próximos cinco anos, com um orçamento de cerca de 1,5 mil milhões de euros. Este plano visa modernizar as infraestruturas de eletricidade e facilitar a ligação de novos projetos de consumo e produção à rede nacional.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/223-2026-1195884749</description>
+    <category>Energia e Ambiente</category>
+    <category>Tecnologia e Dados</category>
+    <category>Construção e Imobiliário</category>
+    <category>Rede Elétrica</category>
+    <category>Investimento Público</category>
+    <category>Energia</category>
+  </item>
   <item>
     <title>Aviso (extrato) n.º 28464/2026/2 — Município de Ourém Discussão pública relativa à elaboração do Regulamento Municipal de…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/aviso-extrato-28464-2026-2/</link>
@@ -65,20 +80,6 @@ Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/478-2026-11903
     <category>Salários</category>
     <category>Setor Elétrico</category>
     <category>Telecomunicações</category>
-  </item>
-  <item>
-    <title>Norma regulamentar da Autoridade de Supervisão de Seguros e Fundos de Pensões n.º 6/2026-R — Autoridade de Supervisão de Seguros e Fundos de Pensões Reporte à ASF para supervisão da…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/norma-regulamentar-da-autoridade-de-supervisao-de-seguros-e-fundos-de-pensoes-6-2026-r/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/norma-regulamentar-da-autoridade-de-supervisao-de-seguros-e-fundos-de-pensoes-6-2026-r/</guid>
-    <pubDate>Wed, 28 Oct 2026 10:00:00 +0000</pubDate>
-    <description>As seguradoras e entidades de fundos de pensões terão de enviar novos relatórios à ASF para provar que os seus sistemas digitais são seguros e resistentes a falhas. Esta medida obriga as empresas do setor a reforçar o controlo sobre a sua infraestrutura tecnológica.
-
-Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/209000000/0021000222.pdf</description>
-    <category>Financeiro e Seguros</category>
-    <category>Tecnologia e Dados</category>
-    <category>Seguros</category>
-    <category>Resiliência Digital</category>
-    <category>Reporte ASF</category>
   </item>
 </channel>
 </rss>

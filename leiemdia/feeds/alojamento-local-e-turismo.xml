@@ -6,9 +6,24 @@
   <link>https://tessimago.github.io/leiemdia/setores/alojamento-local-e-turismo/</link>
   <description>AL, empreendimentos turísticos, animação turística, Turismo de Portugal.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Wed, 11 Nov 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/alojamento-local-e-turismo.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Resolução do Conselho de Ministros n.º 224/2026 — Ratifica a deliberação da Assembleia Municipal de Loulé, de 24 de março de 2024, que…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-224-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-224-2026/</guid>
+    <pubDate>Wed, 18 Nov 2026 10:00:00 +0000</pubDate>
+    <description>A criação da Polícia Municipal de Loulé significa que as empresas e estabelecimentos do concelho passam a ter uma nova autoridade local para fiscalizar o cumprimento dos regulamentos municipais. Esta força policial terá competências de polícia administrativa, focando-se na verificação de normas relativas às atribuições da autarquia.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/224-2026-1195884750</description>
+    <category>Restauração e Alimentar</category>
+    <category>Comércio e Serviços</category>
+    <category>Alojamento Local e Turismo</category>
+    <category>Polícia Municipal</category>
+    <category>Fiscalização</category>
+    <category>Loulé</category>
+  </item>
   <item>
     <title>Edital n.º 1437/2026 — Município de Ponta do Sol Aprova o projeto do Regulamento Municipal de Urbanização e…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/edital-1437-2026/</link>
@@ -121,21 +136,6 @@ Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/210000000/0054000
     <category>Taxa Turística</category>
     <category>Consulta Pública</category>
     <category>Município de Barcelos</category>
-  </item>
-  <item>
-    <title>Resolução da Assembleia da República n.º 281/2026 — Recomenda ao Governo a criação de um observatório da Lagoa de Óbidos.</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/resolucao-da-assembleia-da-republica-281-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/resolucao-da-assembleia-da-republica-281-2026/</guid>
-    <pubDate>Wed, 28 Oct 2026 10:00:00 +0000</pubDate>
-    <description>O Governo é recomendado a criar um observatório para monitorizar a Lagoa de Óbidos, visando proteger o ecossistema e apoiar a economia local. Esta iniciativa pretende melhorar a gestão da qualidade da água e alertar precocemente sobre riscos sanitários ou ambientais.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/281-2026-1187134325</description>
-    <category>Agricultura e Pescas</category>
-    <category>Energia e Ambiente</category>
-    <category>Alojamento Local e Turismo</category>
-    <category>Gestão Ambiental</category>
-    <category>Monitorização de Águas</category>
-    <category>Turismo Sustentável</category>
   </item>
 </channel>
 </rss>
