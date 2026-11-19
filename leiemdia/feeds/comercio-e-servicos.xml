@@ -6,9 +6,38 @@
   <link>https://tessimago.github.io/leiemdia/setores/comercio-e-servicos/</link>
   <description>Retalho, consumo, práticas comerciais, horários, saldos.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Wed, 18 Nov 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/comercio-e-servicos.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Decreto Legislativo Regional n.º 19/2026/M — Quarta alteração ao Decreto Legislativo Regional n.º 15/93/M, de 4 de setembro, que…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/decreto-legislativo-regional-19-2026-m/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/decreto-legislativo-regional-19-2026-m/</guid>
+    <pubDate>Thu, 19 Nov 2026 10:00:00 +0000</pubDate>
+    <description>As novas regras atualizam as restrições e os procedimentos para realizar obras, construções ou atividades comerciais em zonas próximas de estradas regionais na Madeira. O objetivo é simplificar processos administrativos e clarificar o que pode ou não ser feito nas faixas de proteção rodoviária.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2026-1196568819</description>
+    <category>Construção e Imobiliário</category>
+    <category>Comércio e Serviços</category>
+    <category>Energia e Ambiente</category>
+    <category>Estradas Regionais</category>
+    <category>Licenciamento de Obras</category>
+    <category>Madeira</category>
+  </item>
+  <item>
+    <title>Aviso n.º 28908/2026/2 — Freguesia de Belém Procedimento de seleção para a atribuição de licenças de ocupação do…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/aviso-28908-2026-2/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-28908-2026-2/</guid>
+    <pubDate>Thu, 19 Nov 2026 10:00:00 +0000</pubDate>
+    <description>A Junta de Freguesia de Belém abriu um concurso para selecionar interessados em obter licenças de ocupação de espaço público. Estas licenças destinam-se a equipamentos de restauração e bebidas, bem como à venda ambulante não sedentária numa zona específica da freguesia.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/11/225000000/0039100401.pdf</description>
+    <category>Restauração e Alimentar</category>
+    <category>Comércio e Serviços</category>
+    <category>Licenciamento</category>
+    <category>Espaço Público</category>
+    <category>Restauração</category>
+  </item>
   <item>
     <title>Resolução do Conselho de Ministros n.º 224/2026 — Ratifica a deliberação da Assembleia Municipal de Loulé, de 24 de março de 2024, que…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-224-2026/</link>
@@ -165,20 +194,6 @@ Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/211000000/0025100
     <category>Ruído Ambiente</category>
     <category>Regulamento Municipal</category>
     <category>Consulta Pública</category>
-  </item>
-  <item>
-    <title>Aviso n.º 26983/2026/2 — Município de Amares Reclassificação de solo rústico em solo urbano para atividades…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/aviso-26983-2026-2/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-26983-2026-2/</guid>
-    <pubDate>Thu, 29 Oct 2026 10:00:00 +0000</pubDate>
-    <description>A alteração do plano de ordenamento permite que terrenos anteriormente rústicos passem a ser considerados urbanos na freguesia de Fiscal. Isto abre novas oportunidades para o desenvolvimento de projetos de construção e instalação de unidades produtivas nesta zona.
-
-Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/210000000/0053700538.pdf</description>
-    <category>Construção e Imobiliário</category>
-    <category>Comércio e Serviços</category>
-    <category>Ordenamento do Território</category>
-    <category>Reclassificação de Solo</category>
-    <category>Licenciamento Urbanístico</category>
   </item>
 </channel>
 </rss>

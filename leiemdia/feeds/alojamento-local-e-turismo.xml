@@ -6,9 +6,24 @@
   <link>https://tessimago.github.io/leiemdia/setores/alojamento-local-e-turismo/</link>
   <description>AL, empreendimentos turísticos, animação turística, Turismo de Portugal.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Wed, 18 Nov 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/alojamento-local-e-turismo.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Portaria n.º 508/2026/1 — Aprova a delimitação do perímetro de proteção das captações designadas por «Comporta/ PS1…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/portaria-508-2026-1/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/portaria-508-2026-1/</guid>
+    <pubDate>Thu, 19 Nov 2026 10:00:00 +0000</pubDate>
+    <description>Proprietários de terrenos na zona da Comporta passam a ter restrições severas sobre o que podem fazer nas áreas próximas das captações de água. Fica proibida qualquer nova instalação ou atividade nestas zonas, sendo obrigatório manter os terrenos limpos e vedados para evitar a poluição do abastecimento público.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/508-2026-1196568805</description>
+    <category>Agricultura e Pescas</category>
+    <category>Construção e Imobiliário</category>
+    <category>Alojamento Local e Turismo</category>
+    <category>Proteção de Águas</category>
+    <category>Restrições de Uso do Solo</category>
+    <category>Ambiente</category>
+  </item>
   <item>
     <title>Resolução do Conselho de Ministros n.º 224/2026 — Ratifica a deliberação da Assembleia Municipal de Loulé, de 24 de março de 2024, que…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-224-2026/</link>
@@ -122,20 +137,6 @@ Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/211000000/0025100
     <category>Ruído Ambiente</category>
     <category>Regulamento Municipal</category>
     <category>Consulta Pública</category>
-  </item>
-  <item>
-    <title>Aviso n.º 26985/2026/2 — Município de Barcelos Consulta pública do projeto do Regulamento da Taxa Municipal…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/aviso-26985-2026-2/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-26985-2026-2/</guid>
-    <pubDate>Thu, 29 Oct 2026 10:00:00 +0000</pubDate>
-    <description>O Município de Barcelos abriu a consulta pública para discutir as novas regras da taxa turística local. Se aprovado, este regulamento poderá introduzir novos custos para quem explora serviços de alojamento ou turismo no concelho.
-
-Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/210000000/0054000547.pdf</description>
-    <category>Alojamento Local e Turismo</category>
-    <category>Restauração e Alimentar</category>
-    <category>Taxa Turística</category>
-    <category>Consulta Pública</category>
-    <category>Município de Barcelos</category>
   </item>
 </channel>
 </rss>
