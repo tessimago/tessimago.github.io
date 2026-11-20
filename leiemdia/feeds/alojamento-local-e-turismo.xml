@@ -6,9 +6,37 @@
   <link>https://tessimago.github.io/leiemdia/setores/alojamento-local-e-turismo/</link>
   <description>AL, empreendimentos turísticos, animação turística, Turismo de Portugal.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Thu, 19 Nov 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/alojamento-local-e-turismo.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Aviso n.º 28997/2026/2 — Município de Carrazeda de Ansiães Delimitação da área de reabilitação urbana (ARU) de…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/aviso-28997-2026-2/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-28997-2026-2/</guid>
+    <pubDate>Fri, 20 Nov 2026 10:00:00 +0000</pubDate>
+    <description>A delimitação desta área de reabilitação urbana permite que proprietários e investidores beneficiem de incentivos fiscais e regimes de licenciamento mais ágeis em Foz-Tua. Esta medida visa promover a recuperação do edificado e valorizar o património local.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/11/226000000/0034800348.pdf</description>
+    <category>Construção e Imobiliário</category>
+    <category>Alojamento Local e Turismo</category>
+    <category>Reabilitação Urbana</category>
+    <category>ARU</category>
+    <category>Benefícios Fiscais</category>
+    <category>Urbanismo</category>
+  </item>
+  <item>
+    <title>Edital n.º 1492/2026 — Município da Horta Consulta pública do projeto do Regulamento de Criação e Aplicação de…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/edital-1492-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/edital-1492-2026/</guid>
+    <pubDate>Fri, 20 Nov 2026 10:00:00 +0000</pubDate>
+    <description>O Município da Horta está a realizar uma consulta pública para decidir sobre a criação de uma nova taxa turística. Se aprovado, este regulamento poderá trazer novos custos e obrigações de cobrança para quem explora serviços de alojamento na região.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/11/226000000/0039800415.pdf</description>
+    <category>Alojamento Local e Turismo</category>
+    <category>Taxa Turística</category>
+    <category>Consulta Pública</category>
+    <category>Horta</category>
+  </item>
   <item>
     <title>Portaria n.º 508/2026/1 — Aprova a delimitação do perímetro de proteção das captações designadas por «Comporta/ PS1…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/portaria-508-2026-1/</link>
@@ -122,21 +150,6 @@ Diploma oficial: https://files.diariodarepublica.pt/2s/2026/11/213000000/0030000
     <category>Reabilitação Urbana</category>
     <category>Urbanismo</category>
     <category>Covilhã</category>
-  </item>
-  <item>
-    <title>Aviso n.º 27125/2026/2 — Município de Cascais Consulta pública do Projeto de Regulamento Municipal de Ruído…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/aviso-27125-2026-2/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-27125-2026-2/</guid>
-    <pubDate>Fri, 30 Oct 2026 10:00:00 +0000</pubDate>
-    <description>O Município de Cascais abriu uma consulta pública para discutir as novas regras sobre o ruído ambiente no concelho. Este projeto de regulamento poderá trazer novos limites de barulho e restrições a atividades que gerem emissões sonoras.
-
-Diploma oficial: https://files.diariodarepublica.pt/2s/2026/10/211000000/0025100251.pdf</description>
-    <category>Restauração e Alimentar</category>
-    <category>Alojamento Local e Turismo</category>
-    <category>Comércio e Serviços</category>
-    <category>Ruído Ambiente</category>
-    <category>Regulamento Municipal</category>
-    <category>Consulta Pública</category>
   </item>
 </channel>
 </rss>

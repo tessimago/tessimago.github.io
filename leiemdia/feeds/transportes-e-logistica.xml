@@ -6,9 +6,22 @@
   <link>https://tessimago.github.io/leiemdia/setores/transportes-e-logistica/</link>
   <description>Transporte rodoviário, TVDE, mercadorias, IMT, portos.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Thu, 19 Nov 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/transportes-e-logistica.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Portaria n.º 522/2026/1 — Procede à segunda alteração ao Regulamento de Avisadores Especiais, que fixa as…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/portaria-522-2026-1/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/portaria-522-2026-1/</guid>
+    <pubDate>Fri, 20 Nov 2026 10:00:00 +0000</pubDate>
+    <description>Novas regras para a instalação de luzes e sirenes em veículos de socorro ou serviços urgentes que não sejam da polícia ou bombeiros. Estes veículos agora podem usar avisadores azuis, desde que tenham autorização da ANSR e o seu uso seja justificado pelo interesse público.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/522-2026-1196863264</description>
+    <category>Transportes e Logística</category>
+    <category>Código da Estrada</category>
+    <category>Veículos de Emergência</category>
+    <category>Segurança Rodoviária</category>
+  </item>
   <item>
     <title>Regulamento n.º 1577/2026 — Município de Benavente Projeto do Regulamento do Transporte Escolar do Município de…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/regulamento-1577-2026/</link>
@@ -173,20 +186,6 @@ Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/483-2026-11903
     <category>Salários</category>
     <category>Transporte Aéreo</category>
     <category>Contrato Coletivo</category>
-  </item>
-  <item>
-    <title>Resolução do Conselho de Ministros n.º 209/2026 — Autoriza a reprogramação dos encargos plurianuais relativos à expansão da Linha Vermelha…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-209-2026/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/resolucao-do-conselho-de-ministros-209-2026/</guid>
-    <pubDate>Fri, 30 Oct 2026 10:00:00 +0000</pubDate>
-    <description>O Governo autorizou a reorganização do plano de pagamentos para a expansão da Linha Vermelha do Metro de Lisboa até Alcântara. Esta mudança ajusta as verbas disponíveis para os próximos anos, garantindo que o investimento continue sem depender de fundos do PRR que já não são aplicáveis.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/209-2026-1189018886</description>
-    <category>Transportes e Logística</category>
-    <category>Construção e Imobiliário</category>
-    <category>Transportes</category>
-    <category>Investimento Público</category>
-    <category>Infraestruturas</category>
   </item>
 </channel>
 </rss>
