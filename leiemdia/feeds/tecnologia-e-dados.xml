@@ -6,9 +6,37 @@
   <link>https://tessimago.github.io/leiemdia/setores/tecnologia-e-dados/</link>
   <description>Digital, RGPD/dados pessoais, cibersegurança, telecomunicações, IA.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Thu, 19 Nov 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/tecnologia-e-dados.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Lei n.º 70/2026 — Altera o Regime Jurídico das Autarquias Locais, em matéria de publicidade das…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/lei-70-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/lei-70-2026/</guid>
+    <pubDate>Mon, 23 Nov 2026 10:00:00 +0000</pubDate>
+    <description>As autarquias passam a ter novas regras para publicar as suas decisões nos jornais e meios digitais locais. Isto afeta diretamente os prestadores de serviços de comunicação social e empresas que dependem de anúncios públicos.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/lei/70-2026-1196996209</description>
+    <category>Comércio e Serviços</category>
+    <category>Tecnologia e Dados</category>
+    <category>Autarquias Locais</category>
+    <category>Publicidade de Deliberações</category>
+    <category>Contratação Pública</category>
+  </item>
+  <item>
+    <title>Portaria n.º 478/2026/2 — Finanças e Educação, Ciência e Inovação - Gabinete do Ministro da Educação, Ciência e…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/portaria-478-2026-2/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/portaria-478-2026-2/</guid>
+    <pubDate>Mon, 23 Nov 2026 10:00:00 +0000</pubDate>
+    <description>A Agência para a Gestão do Sistema Educativo passa a ter autorização para contratar serviços de manutenção e suporte de redes informáticas nas escolas. Esta medida visa garantir o funcionamento dos equipamentos de rede local em ambiente escolar.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/11/227000000/0006100062.pdf</description>
+    <category>Tecnologia e Dados</category>
+    <category>Educação e Formação</category>
+    <category>Educação</category>
+    <category>Tecnologia</category>
+    <category>Contratação Pública</category>
+  </item>
   <item>
     <title>Deliberação n.º 1297/2026 — Universidade do Minho Procede à publicação da extensão de encargos para fornecimento de…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/deliberacao-1297-2026/</link>
