@@ -6,9 +6,36 @@
   <link>https://tessimago.github.io/leiemdia/setores/transportes-e-logistica/</link>
   <description>Transporte rodoviário, TVDE, mercadorias, IMT, portos.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Mon, 23 Nov 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/transportes-e-logistica.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Portaria n.º 530/2026/1 — Procede à sétima alteração à Portaria n.º 77-B/2014, de 1 de abril, que fixa o valor das…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/portaria-530-2026-1/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/portaria-530-2026-1/</guid>
+    <pubDate>Tue, 24 Nov 2026 10:00:00 +0000</pubDate>
+    <description>O valor da taxa de segurança nos aeroportos geridos pela ANA passa a ser de 1,99 € por cada passageiro que embarque. Esta alteração aplica-se aos aeroportos integrados na rede ANA, independentemente do destino do voo.
+
+Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/530-2026-1197651190</description>
+    <category>Transportes e Logística</category>
+    <category>Taxas Aeroportuárias</category>
+    <category>Aviação Civil</category>
+    <category>Custos de Viagem</category>
+  </item>
+  <item>
+    <title>Despacho n.º 14343/2026 — Presidência do Conselho de Ministros - Gabinete do Secretário de Estado das…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/despacho-14343-2026/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/despacho-14343-2026/</guid>
+    <pubDate>Tue, 24 Nov 2026 10:00:00 +0000</pubDate>
+    <description>O Governo autorizou a expropriação urgente de terrenos e imóveis para obras de reabilitação no IC 8. Proprietários de bens situados nesta zona da autoestrada poderão ser obrigados a ceder os seus imóveis para permitir as obras.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/11/228000000/0002200026.pdf</description>
+    <category>Construção e Imobiliário</category>
+    <category>Transportes e Logística</category>
+    <category>Expropriações</category>
+    <category>Infraestruturas</category>
+    <category>IC 8</category>
+  </item>
   <item>
     <title>Portaria n.º 528/2026/1 — Aprova os anexos III e IV a que se refere o artigo 20.º-C do Decreto-Lei n.º 41-A/2010…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/portaria-528-2026-1/</link>
@@ -214,19 +241,6 @@ Diploma oficial: https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2026-11
     <category>Transporte Rodoviário</category>
     <category>Combustíveis</category>
     <category>Apoios Extraordinários</category>
-  </item>
-  <item>
-    <title>Portaria n.º 483/2026/1 — Portaria de extensão das alterações do contrato coletivo entre a RENA ― Associação das…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/portaria-483-2026-1/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/portaria-483-2026-1/</guid>
-    <pubDate>Tue, 03 Nov 2026 10:00:00 +0000</pubDate>
-    <description>As novas regras salariais e de condições de trabalho do setor da aviação passam a ser obrigatórias para todas as empresas de transporte aéreo em Portugal continental, mesmo que não estejam associadas à RENA. Isto inclui uma atualização da tabela salarial mínima e um aumento de 3% na retribuição base para quem ganha acima do valor mínimo previsto.
-
-Diploma oficial: https://diariodarepublica.pt/dr/detalhe/portaria/483-2026-1190370824</description>
-    <category>Transportes e Logística</category>
-    <category>Salários</category>
-    <category>Transporte Aéreo</category>
-    <category>Contrato Coletivo</category>
   </item>
 </channel>
 </rss>

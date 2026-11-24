@@ -6,9 +6,23 @@
   <link>https://tessimago.github.io/leiemdia/setores/alojamento-local-e-turismo/</link>
   <description>AL, empreendimentos turísticos, animação turística, Turismo de Portugal.</description>
   <language>pt-PT</language>
-  <lastBuildDate>Mon, 23 Nov 2026 10:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 10:00:00 +0000</lastBuildDate>
   <ttl>720</ttl>
   <atom:link href="https://tessimago.github.io/leiemdia/feeds/alojamento-local-e-turismo.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Aviso n.º 29240/2026/2 — Município de Vila Velha de Ródão Operação de reabilitação urbana do núcleo antigo de Vila…</title>
+    <link>https://tessimago.github.io/leiemdia/diploma/aviso-29240-2026-2/</link>
+    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-29240-2026-2/</guid>
+    <pubDate>Tue, 24 Nov 2026 10:00:00 +0000</pubDate>
+    <description>A aprovação final do plano de reabilitação urbana de Vila Velha de Ródão define as novas regras para obras e intervenções no núcleo antigo da cidade. Este documento estabelece o regime jurídico e os critérios urbanísticos que devem ser seguidos por quem pretende construir ou recuperar imóveis nesta zona.
+
+Diploma oficial: https://files.diariodarepublica.pt/2s/2026/11/228000000/0050200502.pdf</description>
+    <category>Construção e Imobiliário</category>
+    <category>Alojamento Local e Turismo</category>
+    <category>Reabilitação Urbana</category>
+    <category>Urbanismo</category>
+    <category>Obras</category>
+  </item>
   <item>
     <title>Despacho n.º 14260/2026 — Finanças, Economia e Coesão Territorial e Agricultura e Mar - Gabinete do Ministro da…</title>
     <link>https://tessimago.github.io/leiemdia/diploma/despacho-14260-2026/</link>
@@ -206,20 +220,6 @@ Diploma oficial: https://files.diariodarepublica.pt/2s/2026/11/216000000/0025000
     <category>Taxa Turística</category>
     <category>Município da Calheta</category>
     <category>Turismo</category>
-  </item>
-  <item>
-    <title>Aviso n.º 27398/2026/2 — Município da Covilhã Aprovação das operações de reabilitação urbana (ORU) das áreas de…</title>
-    <link>https://tessimago.github.io/leiemdia/diploma/aviso-27398-2026-2/</link>
-    <guid isPermaLink="true">https://tessimago.github.io/leiemdia/diploma/aviso-27398-2026-2/</guid>
-    <pubDate>Tue, 03 Nov 2026 10:00:00 +0000</pubDate>
-    <description>A Câmara Municipal da Covilhã aprovou novos planos para a reabilitação urbana em quatro freguesias específicas. Isto significa que projetos de construção e renovação nestas zonas poderão beneficiar de regras de urbanismo simplificadas ou incentivos próprios das áreas de reabilitação.
-
-Diploma oficial: https://files.diariodarepublica.pt/2s/2026/11/213000000/0030000300.pdf</description>
-    <category>Construção e Imobiliário</category>
-    <category>Alojamento Local e Turismo</category>
-    <category>Reabilitação Urbana</category>
-    <category>Urbanismo</category>
-    <category>Covilhã</category>
   </item>
 </channel>
 </rss>
